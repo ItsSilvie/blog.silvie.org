@@ -1,0 +1,22 @@
+.image {
+  display: table;
+  margin: 32px auto;
+
+  img {
+    max-width: 100%;
+
+    @media screen and (max-width: 767px) {
+      max-width: 100% !important;
+    }
+  }
+
+  figcaption {
+    caption-side: bottom;
+    color: #6f6f6f;
+    display: table-caption;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 8px auto;
+    max-width: 526px;
+  }
+}

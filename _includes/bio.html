@@ -1,0 +1,16 @@
+<section class="bio">
+  <div>
+    <h3>
+      <small>authored by</small>
+      <a href="{{ author.website }}">
+        {{author.name}}
+      </a>
+    </h3>
+    <p>
+      {{ author.bio | markdownify }}
+    </p>
+  </div>
+  <span>
+    <img src="{{author.image}}" class="author-img">
+  </span>
+</section>

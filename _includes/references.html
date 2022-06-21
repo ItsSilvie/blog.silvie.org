@@ -1,0 +1,10 @@
+<section class="references">
+  <h2 id="references">References</h2>
+  <ol>
+  {% for reference in page.references %}
+    <li id="reference-{{ forloop.index }}">
+      {{ reference.source }}. {{ reference.year }}. {{ reference.title }} [online] Available at: <a href="{{ reference.link }}">{{ reference.link }}</a> [Accessed {{ reference.accessed }}]
+    </li>
+  {% endfor %}
+  </ol>
+</section>

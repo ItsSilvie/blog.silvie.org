@@ -1,0 +1,28 @@
+.references {
+  border-top: 1px dashed #757575;
+  color: #303030;
+  margin-top: 32px;
+  padding-top: 32px;
+
+  h2 {
+    color: #303030;
+    font-size: 18px;
+    line-height: 24px;
+    margin: 0 0 24px;
+  }
+
+  li {
+    font-size: 12px;
+    line-height: 15px;
+    margin: 8px 0;
+    transition: background .2s;
+
+    a {
+      word-break: break-all;
+    }
+
+    &:target {
+      background: #fff7dd;
+    }
+  }
+}

@@ -1,0 +1,26 @@
+.flag {
+  color: #757575;
+  display: inline-block;
+  font-size: 12px;
+  line-height: 16px;
+  margin-right: 4px;
+
+  &:last-child {
+    margin-right: 0;
+  }
+
+  abbr {
+    border: none;
+    cursor: help;
+    font-size: 16px;
+    margin-right: 2px;
+    text-decoration: none;
+    vertical-align: middle;
+  }
+}
+
+table .flag {
+  display: block;
+  margin-right: 0;
+  width: 88px;
+}
