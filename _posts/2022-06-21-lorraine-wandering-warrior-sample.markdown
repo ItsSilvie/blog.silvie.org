@@ -239,7 +239,7 @@ Presumably as a small mistake by the development team, however, the version shar
 
 {% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/doa-021.jpg" description="Lorraine, Wandering Warrior DOA-021." %}
 
-This particular design was never printed, and predates change to [CMT-013](#cmt-013).
+This particular design was never printed, and predates the change to [CMT-013](#cmt-013).
 
 ### DOA-013
 
