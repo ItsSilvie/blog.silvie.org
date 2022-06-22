@@ -44,8 +44,10 @@
   {% endif %}
   {% if page.image %}
     <meta content="{{ site.url }}/{{ page.image }}" property="og:image">
+    <meta content="{{ site.url }}/{{ page.image }}" property="og:image:secure_url" />
   {% else %}
     <meta content="{{ site.url }}/assets/icons/silvie.png" property="og:image">
+    <meta content="{{ site.url }}/assets/icons/silvie.png" property="og:image:secure_url" />
   {% endif %}
   <meta property="og:image:type" content="image/png" /> 
   <meta property="og:image:width" content="400" /> 
