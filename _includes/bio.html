@@ -6,9 +6,7 @@
         {{author.name}}
       </a>
     </h3>
-    <p>
-      {{ author.bio | markdownify }}
-    </p>
+    {{ author.bio | markdownify }}
   </div>
   <span>
     <img src="{{author.image}}" class="author-img">
