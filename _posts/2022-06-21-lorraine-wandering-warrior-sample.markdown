@@ -269,7 +269,7 @@ On 21st April 2022 all champions received a buff to their life count, and Lorrai
 
 ### APR 1st &middot; EN-000 C
 
-As a tribute to the older <span class="dead-link">[Doodle Art](/doodle-art)</span> placeholder cards included in the early versions of the Print and Play Lorraine and Rai Starter Decks, on April 1st 2022 the Grand Archive team [shared this](https://www.instagram.com/p/Cb0Hm7atEX4):
+As a tribute to the older [Doodle Art](/doodle-art) placeholder cards included in the early versions of the Print and Play Lorraine and Rai Starter Decks, on April 1st 2022 the Grand Archive team [shared this](https://www.instagram.com/p/Cb0Hm7atEX4):
 
 {% include blockquote.html quote="We have decided to change the art direction for our cards.. We hope you guys enjoy it! 😄" author="@grandarchivetcg" %}
 

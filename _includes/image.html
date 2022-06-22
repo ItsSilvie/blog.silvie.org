@@ -1,3 +1,8 @@
+{% if include.dump-id %}
+<h3 class="hidden-header" id="{{ include.dump-id }}">
+  {{ include.description }}
+</h3>
+{% endif %}
 <figure class="image">
   <img
     src="{{ include.url }}"
