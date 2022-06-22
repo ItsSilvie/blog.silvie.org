@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Sample cards: Lorraine, Wandering Warrior"
-date:   2022-06-21 06:51:57 +0100
-modified: 2022-06-21 06:51:57 +0100
+date:   2022-06-22 17:19:00 +0100
 categories: sample
 permalink: lorraine-wandering-warrior-samples
 excerpt: Lorraine, Wandering Warrior was the first Grand Archive sample card to be printed and distributed. Several iterations of the card exist &ndash; this article breaks them all down.
@@ -11,7 +10,7 @@ author: james
 ---
 {% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/lorraine-wandering-warrior-cover.png" description="Lorraine, Wandering Warrior artwork." %}
 
-Featured prominently alongside opposing champion card, _Rai, Spellcrafter_, the level 1 champion, _Lorraine, Wandering Warrior_, is one of the first cards anyone who visited Grand Archive's website or Kickstarter page before the campaign finished will have seen.
+Illustrated by Hori and featured prominently alongside opposing champion card, _Rai, Spellcrafter_, the level 1 champion, _Lorraine, Wandering Warrior_, is one of the first cards anyone who visited Grand Archive's website or Kickstarter page before the campaign finished will have seen.
 
 The card was produced as a physical sample card available through various giveaways prior to, during and after the Kickstarter campaign, receiving several tweaks along the way.
 
@@ -32,15 +31,19 @@ The official figure for each of the below Lorraine, Wandering Warrior cards is a
 
 ## Distribution
 
+### Individual cards
+
 Up until 19th March 2022 all sample cards had been sent out in clear toploaders - anyone who was lucky enough to win a card would know for sure which card they were getting.
 
-A list of the events which saw sample Lorraine, Wandering Warrior cards distributed in this way can be found in the [Individual card giveaways](#individual-card-giveaways) section at the end of this article.
+For the sake of this article that only applies to the [CMT-013](#cmt-013) Lorraine, Wandering Warrior sample. A list of the events which saw those sample cards distributed in this way can be found in the [Individual card giveaways](#individual-card-giveaways) section at the end.
 
-On 19th March that all changed when the developers announced that they would award new Promotional Packs instead of distributing specific cards directly.
+### Promotional packs
 
-{% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/promotional-pack.png" description="Grand Archive Promotional Pack." max-width="500px" %}
+On 19th March 2022 the developers announced that they would award new Promotional Packs instead of distributing specific cards directly.
 
-Below lists which promotional packs contained which cards and the odds of them being pulled. A list of events which awarded these packs can be found in [Promotional Packs](/promotional-packs).
+{% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/promotional-pack.png" description="Grand Archive Promotional Pack." max-width="440px" %}
+
+Below lists which promotional packs contained which Lorraine, Wandering Warrior cards and the odds of them being pulled. A list of events which awarded these packs can be found in <span class="dead-links">[Promotional Packs](/promotional-packs)</span>.
 
 Two packs have been released containing the [CMT-013 Lorraine, Wandering Warrior](#cmt-013) sample card:
 
@@ -52,7 +55,9 @@ Similarly, two packs have been released containing the [DOAp 1st &middot; EN-000
 1. Identifier code: `SAMPLE2` (1/6 chance);
 2. Identifier code: `SAMPLE3` (1/3 chance).
 
-The [DEMO22 &middot; EN-002 C Lorraine, Wandering Warrior](#demo22--en-002-c) was a guaranteed pull from demo decks awarded at events.
+### Demo decks
+
+The [DEMO22 &middot; EN-002 C Lorraine, Wandering Warrior](#demo22--en-002-c) was a guaranteed pull from demo decks given out at events.
 
 ---
 
@@ -62,7 +67,7 @@ Without further ado, let's break down the Lorraine, Wandering Warrior sample car
 
 Officially identified as the _1st iteration_, the first Lorraine, Wandering Warrior sample card to be released was marked as "CMT-013". It isn't as refined as the later sample cards, with a darker background and less crisp artwork.
 
-{% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/16-life.png" description="Lorraine, Wandering Warrior (CMT-013) digital image." max-width="440px" %}
+{% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/16-life-small.png" description="Lorraine, Wandering Warrior (CMT-013) digital image." max-width="440px" %}
 
 With only 16 life, all CMT-013 samples have the lowest life count of all of the Lorraine, Wandering Warrior sample cards.
 
@@ -82,6 +87,8 @@ With only 16 life, all CMT-013 samples have the lowest life count of all of the 
 
 The developers use the term "foil" to synonymously refer to both of the matte and oil foil variants. They were both available from the beginning and should have a 50:50 split in distribution.
 
+{% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/oil-matte.jpg" description="Lorraine, Wandering Warrior (CMT-013) matte foil (left) vs. oil foil (right)." %}
+
 Matte foil is subtle whereas oil foil is very prominent. The oil foil variant also sees the rainbow pattern bleeding outside of the artwork and into the text regions of the card.
 
 #### Going down the rabbit hole...
@@ -100,14 +107,14 @@ The front and back variants have a many-to-many relationship with one another, m
 
 What this means is that there are:
 
-- 5 `Base.png` gloss variants;
-- 5 `foiltest1.png` gloss variants;
-- 5 `foiltest2.png` gloss variants;
-- 5 `foiltest3.png` gloss variants;
-- 5 `foiltest4.png` gloss variants;
-- 5 `foiltest5.png` gloss variants.
+- 5 `Base.png` (non-foil) gloss variants;
+- 5 `foiltest1.png` (foil) gloss variants;
+- 5 `foiltest2.png` (foil) gloss variants;
+- 5 `foiltest3.png` (foil) gloss variants;
+- 5 `foiltest4.png` (foil) gloss variants;
+- 5 `foiltest5.png` (foil) gloss variants.
 
-This gives a total of 5 different non-foil variants and 50 of the foil variants (split evenly between matte and oil foil).
+This gives a total of 5 different non-foil variants and 25 of each of the matte and oil foil variants (50 total).
 
 ## DOAp 1st &middot; EN-000 C
 
@@ -127,7 +134,7 @@ The 6th iteration Lorraine, Wandering Warrior was only released in a single foil
 
 {% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/17-life-photo.jpg" description="Lorraine, Wandering Warrior (6th iteration) foreground foil." max-width="500px" %}
 
-The foil is similar to that of the older matte foil samples, with added foil added to the foreground emphasising the reflective parts of Lorraine's armor.
+The foil is similar to that of the older matte foil samples, with additional foil added to the foreground emphasising the reflective parts of Lorraine's armor.
 
 ### Differences (compared with CMT-013)
 
@@ -172,7 +179,9 @@ This version of the Lorraine, Wandering Warrior was only released in non-foil. U
 
 ### Differences (compared with DOAp 1st &middot; EN-000 C)
 
-Featuring a 4x smaller rosette pattern, the artwork quality overall is in line with the 7th iteration test prints. This is by far the most refined sample Lorraine, Wandering Warrior card to have been released.
+Featuring a 4x smaller rosette pattern than the [DOAp 1st &middot; EN-000 C](#doap-1st--en-000-c) sample, the artwork quality overall is in line with the 7th iteration test prints (which are covered in the below [Printed but not publicly released](#printed-but-not-publicly-released) section).
+
+This is by far the most refined sample Lorraine, Wandering Warrior card to have been released.
 
 - **Text:** _"Enter Effect"_ ⟶ _"On Enter"_
 - **Text:** _"Sleep did not honor me with its presence, so the night will be productive elsewhere."_ ⟶ _"This beautiful world we have been tasked to save... It carries such a stench of smoke and ash."_
@@ -182,7 +191,7 @@ Featuring a 4x smaller rosette pattern, the artwork quality overall is in line w
 
 ### Differences GIF (compared with CMT-013)
 
-There was no digital image produced for the [DOAp 1st &middot; EN-000 C (foil)](#doap-1st--en-000-c) sample, so this compares the older [CMT-013](#cmt-013) sample against this DEMO22 &middot; EN-002 C version.
+There was no digital image produced for the [DOAp 1st &middot; EN-000 C](#doap-1st--en-000-c) sample, so this compares the older [CMT-013](#cmt-013) sample against this DEMO22 &middot; EN-002 C version.
 
 {% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/16-20-diff.gif" description="Lorraine, Wandering Warrior CMT-013 vs. DEMO22 &middot; EN-002 C." max-width="500px" %}
 
@@ -234,11 +243,21 @@ This particular design was never printed, and predates change to [CMT-013](#cmt-
 
 ### DOA-013
 
-When the Grand Archive Kickstarter went live on 16th November, several of the graphics used show a Lorraine, Wandering Warrior numbered "DOA-013" instead of [CMT-013](#cmt-013).
+When the Grand Archive Kickstarter went live on 16th November 2022, several of the graphics used show a Lorraine, Wandering Warrior numbered "DOA-013" instead of [CMT-013](#cmt-013).
 
 {% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/doa-013.png" description="Lorraine, Wandering Warrior DOA-013." %}
 
 This version of the card also featured on the Grand Archive TCG Quick Starter Guide video the developers [shared on YouTube](https://www.youtube.com/watch?v=r74jMgARJL4).
+
+### 2nd, 3rd, 4th and 5th iterations
+
+You may have noticed a big jump between the 1st iteration [CMT-013](#cmt-013) sample and the 6th iteration [DOAp 1st &middot; EN-000 C](#doap-1st--en-000-c) sample Lorraine, Wandering Warrior.
+
+The 2nd, 3rd, 4th and 5th iterations did exist, but they were never made public. When queried, one of the Grand Archive developers responded:
+
+{% include blockquote.html quote="The iterations that weren't publicized from iteration 1 to 5 were probably samples that were so bad, we didn't want to show" author="Grand Archive developer response" %}
+
+A lot of work went in to refining the gameplay and artwork between the releases of the 1st and 6th iterations that there probably wasn't any need for fans to be shown how the progress of this one card was shaping up.
 
 ### DEMO22 &middot; EN-002 C - 17 life
 
@@ -250,7 +269,7 @@ On 21st April 2022 all champions received a buff to their life count, and Lorrai
 
 ### APR 1st &middot; EN-000 C
 
-As a tribute to the older [Doodle Art](/doodle-art) placeholder cards included in the early versions of the Print and Play Lorraine and Rai Starter Decks, on April 1st 2022 the Grand Archive team [shared this](https://www.instagram.com/p/Cb0Hm7atEX4):
+As a tribute to the older <span class="dead-link">[Doodle Art](/doodle-art)</span> placeholder cards included in the early versions of the Print and Play Lorraine and Rai Starter Decks, on April 1st 2022 the Grand Archive team [shared this](https://www.instagram.com/p/Cb0Hm7atEX4):
 
 {% include blockquote.html quote="We have decided to change the art direction for our cards.. We hope you guys enjoy it! 😄" author="@grandarchivetcg" %}
 
@@ -260,7 +279,7 @@ This one was illustrated by Silvie &mdash; here's to hoping she graces us with m
 
 ## Individual card giveaways
 
-This section notes events which directly awarded cards to winners/participants. This does not include cards distributed within [Promotional Packs](/promotional-packs), which has its own dedicated page.
+This section notes events which directly awarded cards to winners/participants. This does not include cards distributed within <span class="dead-link">[Promotional Packs](/promotional-packs)</span>, which has its own dedicated page.
 
 ### Before 19th March 2022
 
@@ -310,4 +329,4 @@ On 28th December 2021 the first Grand Archive Community Tournament was announced
 
 Signups were open until 7th January and the tournament took place between 14th and 16th January 2022. The players in 1st, 2nd and 3rd place each received a foil Lorraine, Wandering Warrior sample, and 3 non-foil samples were awarded randomly to participants.
 
-This was the final event to award Lorraine, Wandering Warrior directly. All subsequent Lorraine, Wandering Warrior cards were obtained through [Promotional Packs](/promotional-packs).
+This was the final event to award Lorraine, Wandering Warrior directly. All subsequent Lorraine, Wandering Warrior cards were obtained through <span class="dead-link">[Promotional Packs](/promotional-packs)</span>.

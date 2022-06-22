@@ -47,15 +47,26 @@ This pack was only distributed during a single event, the [Grand Archive Communi
 - <small>[16.66%]</small> [Lorraine, Wandering Warrior _<small>CMT-013</small>_ non-foil sample](/lorraine-wandering-warrior-samples#cmt-013)
 - <small>[16.66%*]</small> [Lorraine, Wandering Warrior _<small>CMT-013</small>_ foil sample](/lorraine-wandering-warrior-samples#cmt-013)
 - <small>[16.66%]</small> Lorraine, Festive Night _<small>SAMPLE PROMO 000</small>_ star foil sample
-- <small>[16.66%]</small> [Lorraine, Wandering Warrior _<small>DEMO22 &middot; EN 000 C</small>_ foil sample](/lorraine-wandering-warrior-samples#doap-1st--en-000-c)
-- <small>[16.66%]</small> Lorraine, Blademaster _<small>DEMO22 &middot; EN 000 C</small>_ foil sample
-- <small>[16.66%]</small> Lorraine, Crux Knight _<small>DEMO22 &middot; EN 000 C</small>_ foil sample
+- <small>[16.66%]</small> [Lorraine, Wandering Warrior _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample](/lorraine-wandering-warrior-samples#doap-1st--en-000-c)
+- <small>[16.66%]</small> Lorraine, Blademaster _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample
+- <small>[16.66%]</small> Lorraine, Crux Knight _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample
 
 <small>Note: The foil Lorraine, Wandering Warrior <small>CMT-013</small> sample has a 50% chance of being either the [matte foil or oil foil variants](/lorraine-wandering-warrior-samples#matte-foil-and-oil-foil).</small>
 
 ### Identifier code: `SAMPLE3`
 
+#### Contents
+
+- <small>[33.33%]</small> [Lorraine, Wandering Warrior _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample](/lorraine-wandering-warrior-samples#doap-1st--en-000-c)
+- <small>[33.33%]</small> Lorraine, Blademaster _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample
+- <small>[33.33%]</small> Lorraine, Crux Knight _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample
+
 ### Identifier code: `P22 - 1`
+
+#### Contents
+
+- <small>[87.5%]</small> Dungeon Guide _<small>P22 &middot; EN-000 C</small>_ alternative artwork non-foil
+- <small>[12.5%]</small> Dungeon Guide _<small>P22 &middot; EN-000 C</small>_ alternative artwork foil
 
 ## Giveaways
 

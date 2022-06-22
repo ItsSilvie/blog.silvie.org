@@ -159,3 +159,17 @@ sup {
     margin-bottom: 2px;
   }
 }
+
+.external-link {
+  &::after {
+    color: #6f6f6f;
+    content: ' (' attr(href) ')';
+    text-decoration: none;
+  }
+}
+
+.dead-link {
+  a, a:visited {
+    color: #c10000;
+  }
+}
