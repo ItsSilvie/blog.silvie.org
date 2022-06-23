@@ -5,7 +5,7 @@ date:   2022-06-22 21:49:00 +0100
 modified: 2022-06-22 21:49:00 +0100
 categories: artwork
 permalink: doodle-art
-excerpt: Grand Archive's developers were keen to involve the community in play testing very early on, often before card artwork had been imagined. Doodle art bought these cards to life.
+excerpt: Grand Archive's developers were keen to involve the community in play testing very early on, often before card artwork had been imagined. Doodle art brought these cards to life.
 image: /assets/images/2022-06-22-doodle-art/thumbnail.png
 author: james
 ---
