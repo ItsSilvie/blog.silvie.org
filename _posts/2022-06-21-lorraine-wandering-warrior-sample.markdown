@@ -278,7 +278,7 @@ Version 1.3 of the <span class="dead-link">[print and play](/print-and-play)</sp
 
 This has similar text to the [DEMO22 &middot; EN-002 C](#demo22--en-002-c) sample, but is not associated with the DEMO22 deck, is number 003 instead of 002, and has 17 life instead of 20.
 
-### DEMO22 &middot; EN-002 C - 17 life
+### DEMO22 &middot; EN-002 C (17 life)
 
 When the [Grand Archive Index](https://index.gatcg.com) first launched on 24th March 2022 it included almost all of the changes seen in the [DEMO22 &middot; EN-002 C](#demo22--en-002-c) card except for the life count which was still at 17.
 
