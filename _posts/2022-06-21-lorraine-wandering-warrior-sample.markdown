@@ -244,11 +244,19 @@ This particular design was never printed, and predates the change to [CMT-013](#
 
 ### DOA-013
 
-When the Grand Archive Kickstarter went live on 16th November 2022, several of the graphics used show a Lorraine, Wandering Warrior numbered "DOA-013" instead of [CMT-013](#cmt-013).
+When the Grand Archive Kickstarter went live on 16th November 2022, several of the graphics show a Lorraine, Wandering Warrior numbered "DOA-013" instead of [CMT-013](#cmt-013). This version of the card also featured on the Grand Archive TCG Quick Starter Guide video the developers [shared on YouTube](https://www.youtube.com/watch?v=r74jMgARJL4).
 
 {% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/doa-013.png" description="Lorraine, Wandering Warrior DOA-013." %}
 
-This version of the card also featured on the Grand Archive TCG Quick Starter Guide video the developers [shared on YouTube](https://www.youtube.com/watch?v=r74jMgARJL4).
+This features the same text seen in the [CMT-013](#cmt-013) sample, but has the updated artwork seen in the [DOAp 1st &middot; EN-000 C](#doap-1st--en-000-c) sample.
+
+### DOAp TEST CARD
+
+Versions 1.0, 1.1 and 1.2 of the <span class="dead-link">[print and play](/print-and-play)</span> Lorraine Starter Deck featured a Lorraine, Wandering Warrior numbered "DOAp TEST CARD".
+
+{% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/pnp-10.png" description="Lorraine, Wandering Warrior DOAp TEST CARD." max-width="400px" %}
+
+This card was similar to the [DOA-013](#doa-013) card above, but features a reworded <span class="dead-link">[enter effect](/card-effects#enter-effect)</span> similar to that of the [DOAp 1st &middot; EN-000 C](#doap-1st--en-000-c) sample.
 
 ### 2nd, 3rd, 4th and 5th iterations
 
@@ -262,6 +270,14 @@ The 2nd, 4th and 5th iterations did exist, but they were never made public. When
 
 A lot of work went in to refining the gameplay and artwork between the releases of the 1st and 6th iterations that there probably wasn't any need for fans to be shown how the progress of this one card was shaping up.
 
+### DOAp &middot; EN-003 C
+
+Version 1.3 of the <span class="dead-link">[print and play](/print-and-play)</span> Lorraine Starter Deck featured a Lorraine, Wandering Warrior numbered "DOAp &middot; EN-003 C".
+
+{% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/pnp-13.png" description="Lorraine, Wandering Warrior DOAp TEST CARD." max-width="400px" %}
+
+This has similar text to the [DEMO22 &middot; EN-002 C](#demo22--en-002-c) sample, but is not associated with the DEMO22 deck, is number 003 instead of 002, and has 17 life instead of 20.
+
 ### DEMO22 &middot; EN-002 C - 17 life
 
 When the [Grand Archive Index](https://index.gatcg.com) first launched on 24th March 2022 it included almost all of the changes seen in the [DEMO22 &middot; EN-002 C](#demo22--en-002-c) card except for the life count which was still at 17.
@@ -272,7 +288,7 @@ On 21st April 2022 all champions received a buff to their life count, and Lorrai
 
 ### APR 1st &middot; EN-000 C
 
-As a tribute to the older [Doodle Art](/doodle-art) placeholder cards included in the early versions of the Print and Play Lorraine and Rai Starter Decks, on April 1st 2022 the Grand Archive team [shared this](https://www.instagram.com/p/Cb0Hm7atEX4):
+As a tribute to the older [Doodle Art](/doodle-art) placeholder cards included in the early versions of the <span class="dead-link">[print and play](/print-and-play)</span> Lorraine and Rai Starter Decks, on April 1st 2022 the Grand Archive team [shared this](https://www.instagram.com/p/Cb0Hm7atEX4):
 
 {% include blockquote.html quote="We have decided to change the art direction for our cards.. We hope you guys enjoy it! 😄" author="@grandarchivetcg" %}
 
@@ -328,7 +344,7 @@ From the 1st December through 14th December 2021, 6 different card templates wer
 
 #### Grand Archive Community Tournament #1
 
-On 28th December 2021 the first Grand Archive Community Tournament was announced. The tournament would run on Tabletop Simulator using version 1.1 of the Print and Play Lorraine and Rai Starter Decks.
+On 28th December 2021 the first Grand Archive Community Tournament was announced. The tournament would run on Tabletop Simulator using version 1.1 of the <span class="dead-link">[print and play](/print-and-play)</span> Lorraine and Rai Starter Decks.
 
 Signups were open until 7th January and the tournament took place between 14th and 16th January 2022. The players in 1st, 2nd and 3rd place each received a foil Lorraine, Wandering Warrior sample, and 3 non-foil samples were awarded randomly to participants.
 
