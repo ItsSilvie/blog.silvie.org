@@ -15,9 +15,9 @@ layout: default
     <p class="post-meta">
       Last updated
       {%- if page.modified_date -%}
-        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-          {{ mdate | date: date_format }}
+          {{ page.modified_date | date: date_format }}
         </time>
       {%- else -%}
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

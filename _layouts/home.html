@@ -26,12 +26,6 @@ layout: default
             <span style="background-image: url({{ post.image }})"></span>
           </span>
           <span class="post-details">
-            <span class="post-meta">
-              {{ post.date | date: date_format }}
-              {%- if post.modified_date -%}
-                <small> amended {{post.modified_date | date: date_format}}</small>
-              {%- endif -%}
-            </span>
             <h3>
               {{ post.title | escape }}
               {%- if post.part -%}
@@ -42,6 +36,12 @@ layout: default
             <p class="post-excerpt">
               {{ post.excerpt }}
             </p>
+            <span class="post-meta">
+              Created {{ post.date | date: date_format }}
+              {%- if post.modified_date -%}
+                &nbsp;&middot; Updated {{post.modified_date | date: date_format}}
+              {%- endif -%}
+            </span>
           </span>
         </a>
       </li>

@@ -2,7 +2,6 @@
 layout: post
 title:  "Grand Archive Promotional Packs"
 date:   2022-06-21 06:51:57 +0100
-modified: 2022-06-21 06:51:57 +0100
 categories: sample
 permalink: promotional-packs
 excerpt: Lorraine, Wandering Warrior was the first Grand Archive sample card to be printed and distributed. Several iterations of the card exist &ndash; this article breaks them all down.
