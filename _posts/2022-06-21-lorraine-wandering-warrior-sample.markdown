@@ -2,6 +2,7 @@
 layout: post
 title:  "Sample cards: Lorraine, Wandering Warrior"
 date:   2022-06-22 17:19:00 +0100
+modified: 2022-06-23 06:51:00 +0100
 categories: sample
 permalink: lorraine-wandering-warrior-samples
 excerpt: Lorraine, Wandering Warrior was the first Grand Archive sample card to be printed and distributed. Several iterations of the card exist &ndash; this article breaks them all down.
@@ -253,7 +254,9 @@ This version of the card also featured on the Grand Archive TCG Quick Starter Gu
 
 You may have noticed a big jump between the 1st iteration [CMT-013](#cmt-013) sample and the 6th iteration [DOAp 1st &middot; EN-000 C](#doap-1st--en-000-c) sample Lorraine, Wandering Warrior.
 
-The 2nd, 3rd, 4th and 5th iterations did exist, but they were never made public. When queried, one of the Grand Archive developers responded:
+The 3rd iteration was printed and distributed publicly, but it wasn't a Lorraine, Wandering Warrior card; it was the <span class="dead-link">[Lorraine, Festive Night](/lorraine-festive-night)</span> Christmas promo.
+
+The 2nd, 4th and 5th iterations did exist, but they were never made public. When queried, one of the Grand Archive developers responded:
 
 {% include blockquote.html quote="The iterations that weren't publicized from iteration 1 to 5 were probably samples that were so bad, we didn't want to show" author="Grand Archive developer response" %}
 
