@@ -240,7 +240,7 @@ Presumably as a small mistake by the development team, however, the version shar
 
 {% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/doa-021.jpg" description="Lorraine, Wandering Warrior DOA-021." %}
 
-This particular design was never printed, and predates the change to [CMT-013](#cmt-013).
+The move away from CMT to DOA likely happened shortly after the [CMT-013](#cmt-013) cards had been sent for manufacture.
 
 ### DOA-013
 
