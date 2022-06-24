@@ -158,11 +158,11 @@ Along with all of those, this version of the card was printed on thicker card st
 
 ## DEMO22 &middot; EN-002 C
 
-Whilst not strictly a sample card, Lorraine, Wandering Warrior was included as part of demo decks handed out at Collect-a-Con (Dallas; May 28th 2022) and Anime Expo (LA; July 1st 2022).
+Officially identified as the _8th iteration_, the original DEMO22 &middot; EN-002 C Lorraine, Wandering Warrior cards were intended to be the final product and not samples. These were included as part of demo decks handed out at Collect-a-Con (Dallas; May 28th 2022) and Anime Expo (LA; July 1st 2022).
 
 {% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/20-life.png" description="Lorraine, Wandering Warrior (DEMO22 &middot; EN-002 C)." max-width="440px" %}
 
-The particular print run of this card is included in this article, however, because of issues with printing:
+This ended up being given post-print sample status, however, due to issues with the print:
 
 {% include blockquote.html quote="After manufacturing thousands [sic] demo decks, it has become apparent that a quality control issue exists that is related to the cutting of the cards. We have identified that the issue was because the card stock we were using was too thick and was using a stiffer material than normal." author="Kickstarter Update #22" %}
 
@@ -218,7 +218,7 @@ One of the Grand Archive developers shared this quality comparison between the 6
 
 {% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/6th-7th-diff.png" description="6th vs. 7th iteration quality." %}
 
-The 7th iteration was deemed to be the final iteration of the Lorraine, Wandering Warrior card stock.
+The 7th iteration was intended to be the final iteration of the Lorraine, Wandering Warrior before the official release. However due to cutting issues discovered after print the thick card stock [DEMO22 &middot; EN-002 C](#demo22--en-002-c) was officially deemed to be the 8th iteration of the sample cards.
 
 ### DOAp 1st &middot; EN-000 C - Cold foil test (uncut sheet)
 
