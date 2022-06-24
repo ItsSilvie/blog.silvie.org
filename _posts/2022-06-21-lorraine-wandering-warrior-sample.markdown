@@ -262,7 +262,7 @@ This card was similar to the [DOA-013](#doa-013) card above, but features a rewo
 
 You may have noticed a big jump between the 1st iteration [CMT-013](#cmt-013) sample and the 6th iteration [DOAp 1st &middot; EN-000 C](#doap-1st--en-000-c) sample Lorraine, Wandering Warrior.
 
-The 3rd iteration was printed and distributed publicly, but it wasn't a Lorraine, Wandering Warrior card; it was the <span class="dead-link">[Lorraine, Festive Night](/lorraine-festive-night)</span> Christmas promo.
+The 3rd iteration was printed and distributed publicly, but it wasn't a Lorraine, Wandering Warrior card; it was the [Lorraine, Festive Night](/lorraine-festive-night-samples) Christmas promo.
 
 The 2nd, 4th and 5th iterations did exist, but they were never made public. When queried, one of the Grand Archive developers responded:
 
