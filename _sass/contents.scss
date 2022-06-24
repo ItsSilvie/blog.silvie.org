@@ -8,6 +8,12 @@
   }
 
   ul {
+    list-style: none;
     margin-bottom: 0;
+    margin-left: 0;
+
+    ul {
+      margin-left: 12px;
+    }
   }
 }

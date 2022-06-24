@@ -2,6 +2,11 @@
 ---
 
 @import "minima";
+
+$fa-font-path: "../third-party/font-awesome/webfonts";
+@import "../third-party/font-awesome/scss/fontawesome.scss";
+@import "../third-party/font-awesome/scss/solid.scss";
+
 @import "layout";
 @import "logo";
 @import "typography";

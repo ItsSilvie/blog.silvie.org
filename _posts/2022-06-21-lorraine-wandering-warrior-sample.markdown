@@ -3,7 +3,7 @@ layout: post
 title:  "Sample cards: Lorraine, Wandering Warrior"
 date: 2022-06-22 17:19:00 +0100
 modified_date: 2022-06-24 09:02:00 +0100
-categories: sample
+categories: samples
 permalink: lorraine-wandering-warrior-samples
 excerpt: Lorraine, Wandering Warrior was the first Grand Archive sample card to be printed and distributed. Several iterations of the card exist &ndash; this article breaks them all down.
 image: /assets/images/2022-06-21-lorraine-wandering-warrior-sample/lorraine-wandering-warrior.png

@@ -88,21 +88,6 @@ ol {
   line-height: 32px;
 }
 
-ul {
-  line-height: 32px;
-
-  li {
-    list-style: none;
-    position: relative;
-
-    &::before {
-      content: '❧';
-      position: absolute;
-      right: calc(100% + 6px);
-    }
-  }
-}
-
 ol ol,
 ul ol {
   font-size: 80%;
@@ -115,9 +100,11 @@ ul ul {
   font-size: 80%;
   line-height: 24px;
   margin-top: 0;
+  margin-left: 12px;
 
   li::before {
     content: '↳';
+    margin-right: 12px;
   }
 }
 
@@ -177,8 +164,46 @@ sup {
   }
 }
 
+.post a {
+  font-weight: bold;
+  text-decoration: none;
+
+  &::before {
+    font: var(--fa-font-solid);
+    font-size: 16px;
+    margin-right: 4px;
+    text-decoration: none;
+    vertical-align: 1.5px;
+  }
+
+  &:hover, &:focus {
+    color: #000;
+  }
+
+  &[href^="http"] {
+    &::before {
+      content: '\f35d';
+    }
+  }
+    
+  &[href^="#"] {
+    border-bottom: 1px dashed #bdbdbd;
+    text-decoration: none;
+
+    &::before {
+      color: #7f7f7f;
+      content: '\e447';
+      font-size: small;
+      margin-right: 6px;
+      vertical-align: 2.5px;
+    }
+  }
+}
+
+
 .dead-link {
-  a, a:visited {
+  a, a:hover, a:focus, a:visited {
     color: #c10000;
+    font-weight: normal;
   }
 }
