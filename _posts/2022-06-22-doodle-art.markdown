@@ -17,13 +17,9 @@ To introduce the fans to the game and receive feedback on the gameplay mechanics
 
 Versions 1.0, 1.1 and 1.2 all featured doodle art, but with every new version more and more of the artworks had been replaced with something closer to the final design. With the introduction of version 1.3, no doodle artworks remained.
 
-{% include image.html url="/assets/images/2022-06-22-doodle-art/Arcanists Prism.png" description="Arcanist's Prism" max-width="320px" dump="true" %}
+{% include image.html url="/assets/images/2022-06-22-doodle-art/Arcanists Prism.png" description="Arcanist's Prism" max-width="320px" dump-id="arcanists-prism" %}
 
-<h3 class="hidden-header" id="arcanists-prism">
-  Arcanist's Prism
-</h3>
-
-{% include image.html url="/assets/images/2022-06-22-doodle-art/Banner Knight.png" description="Banner Knight" max-width="320px" dump-id="arcanists-prism" %}
+{% include image.html url="/assets/images/2022-06-22-doodle-art/Banner Knight.png" description="Banner Knight" max-width="320px" dump-id="banner-knight" %}
 
 {% include image.html url="/assets/images/2022-06-22-doodle-art/Barrier Servant.png" description="Barrier Servant" max-width="320px" dump-id="barrier-servant" %}
 
