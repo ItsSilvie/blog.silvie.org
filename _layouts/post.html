@@ -28,6 +28,10 @@ layout: default
     </p>
   </header>
 
+  {%- if page.incomplete -%}
+    {% include incomplete.html %}
+  {%- endif -%}
+
   <div class="post-content e-content" itemprop="articleBody">
     {% include summary.html %}
 
