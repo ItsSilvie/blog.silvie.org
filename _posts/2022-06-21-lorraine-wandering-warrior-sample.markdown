@@ -294,7 +294,7 @@ As a tribute to the older [Doodle Art](/doodle-art) placeholder cards included i
 
 {% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/apr.png" description="Lorraine, Wandering Warrior (APR 1st &middot; EN-000 C)." max-width="400px" %}
 
-This one is said to have been illustrated by the young <span class="dead-link">[Tamer](/champions#tamer)</span> champion Silvie &mdash; here's to hoping she graces us with more of her talent in future.
+This one is said to have been illustrated by the young <span class="dead-link">[Tamer](/classes#tamer)</span> champion Silvie &mdash; here's to hoping she graces us with more of her talent in future.
 
 ## Individual card giveaways
 
