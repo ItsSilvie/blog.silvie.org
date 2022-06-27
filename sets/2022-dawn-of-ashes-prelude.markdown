@@ -4,6 +4,7 @@ title: "Dawn of Ashes Prelude (DOAp)"
 date: 2022-06-25 08:44:00 +0100
 categories: sets
 permalink: DOAp_(set)
+image: /assets/images/sets/DOAp/thumbnail.png
 ---
 
 You may be looking for the main <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> set.

@@ -41,12 +41,14 @@ defaults:
       categories: cards
       hidden: true
       layout: "post"
+      excerpt: A card from the Grand Archive trading card game. Find all variants of the card here.
   - scope:
       path: "sets"
     values:
       categories: sets
       hidden: true
       layout: "post"
+      excerpt: A set in the Grand Archive trading card game. See the full set list here.
 
 
 sass:
