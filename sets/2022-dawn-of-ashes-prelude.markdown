@@ -8,28 +8,32 @@ permalink: DOAp_(set)
 
 You may be looking for the main <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> set.
 
-Dawn of Ashes Prelude was released in parts through a combination of the Lorraine and Rai Starter Decks and special Kickstarter-exclusive 9-card booster packs.
+The Dawn of Ashes Prelude set is scheduled to be released in September 2022.
 
 ## Set list
 
 {% include templates/DOAp.html %}
 
-### Kickstarter exclusive
+### Kickstarter exclusive pack contents
+
+There are 54 cards available from the Kickstarter exclusive Dawn of Ashes Prelude booster packs. These include cards which are either not found in the Lorraine and Rai Starter Decks, or versions of those cards which instead include "KS" number prefix and the Kickstarter logo.
 
 {% include templates/DOAp-kickstarter-exclusive.html %}
 
 ## Decks
 
-### Lorraine Starter Deck
+### Lorraine Starter Deck (Prelude)
 
 {% include templates/DOAp-lorraine-starter-deck.html %}
 
-### Rai Starter Deck
+### Rai Starter Deck (Prelude)
 
 {% include templates/DOAp-rai-starter-deck.html %}
 
 ## History
 
-The Dawn of Ashes Prelude set is an offshoot of the main [Dawn of Ashes](/DOA_(set)). It is made up of 
+The Dawn of Ashes Prelude set is an offshoot of the main <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> set.
+
+It is made up of the prelude versions of the Lorraine and Rai Starter Decks (as finalised in <span class="dead-link">[Print and Play version 1.3](/print-and-play)</span>) as well as cards from the 9-card Kickstarter exclusive booster packs.
 
 {% include image.html url="/assets/images/sets/DOAp/kickstarter.png" description="Dawn of Ashes Prelude Kickstarter graphic." %}
