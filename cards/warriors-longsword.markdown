@@ -8,3 +8,7 @@ permalink: warriors-longsword_(card)
 ## DOAp &middot; EN-022 U
 
 {% include templates/warriors-longsword-doap.html %}
+
+## DEMO22 &middot; EN-008 U
+
+{% include templates/warriors-longsword-demo22.html %}

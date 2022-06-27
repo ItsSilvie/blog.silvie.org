@@ -8,3 +8,7 @@ permalink: sharpening-stone_(card)
 ## DEMO22 &middot; EN-007 C
 
 {% include templates/sharpening-stone-demo22.html %}
+
+## DEMO22 &middot; EN-007 C
+
+{% include templates/sharpening-stone-demo22.html %}

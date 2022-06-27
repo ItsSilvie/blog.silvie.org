@@ -12,3 +12,7 @@ See [Sample cards: Lorraine, Wandering Warrior](/lorraine-wandering-warrior-samp
 ## DOAp &middot; EN-003 C
 
 {% include templates/lorraine-wandering-warrior-doap.html %}
+
+## DEMO22 &middot; EN-002 C
+
+{% include templates/lorraine-wandering-warrior-demo22.html %}

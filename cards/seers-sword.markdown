@@ -8,3 +8,7 @@ permalink: seers-sword_(card)
 ## DOAp &middot; EN-018 U
 
 {% include templates/seers-sword-doap.html %}
+
+## DEMO22 &middot; EN-006 U
+
+{% include templates/seers-sword-demo22.html %}

@@ -8,3 +8,7 @@ permalink: crusader-of-aesa_(card)
 ## DOAp &middot; EN-030 C
 
 {% include templates/crusader-of-aesa-doap.html %}
+
+## DEMO22 &middot; EN-009 C
+
+{% include templates/crusader-of-aesa-demo22.html %}

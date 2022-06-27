@@ -8,3 +8,7 @@ permalink: sudden-steel_(card)
 ## DOAp &middot; EN-052 C
 
 {% include templates/sudden-steel-doap.html %}
+
+## DEMO22 &middot; EN-016 U
+
+{% include templates/sudden-steel-demo22.html %}

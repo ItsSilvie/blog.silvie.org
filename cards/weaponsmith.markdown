@@ -8,3 +8,7 @@ permalink: weaponsmith_(card)
 ## DOAp &middot; EN-056 C
 
 {% include templates/weaponsmith-doap.html %}
+
+## DEMO22 &middot; EN-019 C
+
+{% include templates/weaponsmith-demo22.html %}

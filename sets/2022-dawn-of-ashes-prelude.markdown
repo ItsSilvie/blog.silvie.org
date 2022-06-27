@@ -13,6 +13,8 @@ The Dawn of Ashes Prelude set is scheduled to be released in September 2022.
 
 ## Set list
 
+Cards in this set are prefixed `DOAp`.
+
 {% include templates/DOAp.html %}
 
 ### Kickstarter exclusive pack contents

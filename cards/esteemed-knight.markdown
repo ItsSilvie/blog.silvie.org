@@ -8,3 +8,7 @@ permalink: esteemed-knight_(card)
 ## DOAp &middot; EN-034 C
 
 {% include templates/esteemed-knight-doap.html %}
+
+## DEMO22 &middot; EN-010 C
+
+{% include templates/esteemed-knight-demo22.html %}

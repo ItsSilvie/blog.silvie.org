@@ -1,0 +1,40 @@
+---
+layout: set
+title: "LGS Demo 2022 (DEMO22)"
+date: 2022-06-25 08:44:00 +0100
+categories: sets
+permalink: DEMO22_(set)
+image: /assets/images/sets/DOAp/thumbnail.png
+---
+
+The LGS Demo Deck is set is scheduled to be released in September 2022, though some thicker card stock decks have already been distributed at events.
+
+## Set list
+
+Cards in this set are prefixed `DEMO22`.
+
+{% include templates/DEMO22.html %}
+
+## Decks
+
+### LGS Demo Deck
+
+{% include templates/DEMO22-lgs-demo-deck.html %}
+
+## History
+
+On 11th March 2022 in [Kickstarter update #18](https://www.kickstarter.com/projects/weebs/grand-archive-tcg/posts/3450881) it was announced that the LGS Demo Deck would be shipped out to distribution partners and game stores for free to help them decide if they would like to order Grand Archive product.
+
+These decks were designed to show off the bare bones mechanics of Grand Archive, and have a reduced deck size only 34 cards.
+
+These decks were also handed out at events the Grand Archive team attended, and in total 12,000 of these demo decks were produced.
+
+### Thicker card stock samples
+
+The first batch of demo decks created used thicker card stock in line with what was originally intended to be applied to all future Grand Archive releases.
+
+However on 26th May 2022 in [Kickstarter update #22](https://www.kickstarter.com/projects/weebs/grand-archive-tcg/posts/3487747) it was revealed that this thicker card stock had lead to quality control issues related to the cutting of the cards.
+
+{% include image.html url="/assets/images/sets/DEMO22/thick-deck.jpg" description="Clear cellophane-wrapped demo deck handed out at Collect-a-Con." max-width="440px" %}
+
+All demo decks handed out at Dallas Collect-a-Con in May 2022 and Los Angeles Anime Expo in July 2022 were printed on this thicker card stock, and as such were deemed not legal for organized play.

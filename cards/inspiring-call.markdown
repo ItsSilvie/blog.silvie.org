@@ -8,3 +8,7 @@ permalink: inspiring-call_(card)
 ## DOAp &middot; EN-040 C
 
 {% include templates/inspiring-call-doap.html %}
+
+## DEMO22 &middot; EN-012 U
+
+{% include templates/inspiring-call-demo22.html %}

@@ -8,3 +8,7 @@ permalink: life-essence-amulet_(card)
 ## DOAp &middot; EN-014 C
 
 {% include templates/life-essence-amulet-doap.html %}
+
+## DEMO22 &middot; EN-004 C
+
+{% include templates/life-essence-amulet-demo22.html %}

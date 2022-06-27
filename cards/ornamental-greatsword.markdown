@@ -8,3 +8,7 @@ permalink: ornamental-greatsword_(card)
 ## DOAp &middot; EN-017 C
 
 {% include templates/ornamental-greatsword-doap.html %}
+
+## DEMO22 &middot; EN-005 C
+
+{% include templates/ornamental-greatsword-demo22.html %}

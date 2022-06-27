@@ -7,6 +7,8 @@ permalink: KSP_(set)
 ---
 ## Set list
 
+Cards in this set are prefixed `KSP`.
+
 Number | Name | Rarity | Population
 :-- | :-- | :-- | --: |
 EN-001 | [Lorraine, Blademaster](/lorraine-blademaster_(card)#ksp--en-001-pr) | PR | 873

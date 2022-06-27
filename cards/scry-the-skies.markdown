@@ -8,3 +8,7 @@ permalink: scry-the-skies_(card)
 ## DOAp &middot; EN-051 C
 
 {% include templates/scry-the-skies-doap.html %}
+
+## DEMO22 &middot; EN-015 C
+
+{% include templates/scry-the-skies-demo22.html %}

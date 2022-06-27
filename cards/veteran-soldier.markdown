@@ -8,3 +8,7 @@ permalink: veteran-soldier_(card)
 ## DOAp &middot; EN-055 C
 
 {% include templates/veteran-soldier-doap.html %}
+
+## DEMO22 &middot; EN-018 C
+
+{% include templates/veteran-soldier-demo22.html %}

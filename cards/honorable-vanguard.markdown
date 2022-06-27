@@ -8,3 +8,7 @@ permalink: honorable-vanguard_(card)
 ## DOAp &middot; EN-038 C
 
 {% include templates/honorable-vanguard-doap.html %}
+
+## DEMO22 &middot; EN-011 C
+
+{% include templates/honorable-vanguard-demo22.html %}
