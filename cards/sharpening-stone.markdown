@@ -3,7 +3,6 @@ layout: card
 title:  "Sharpening Stone (trading card)"
 date:   2022-06-25 08:44:00 +0100
 permalink: sharpening-stone_(card)
-incomplete: true
 ---
 
 ## DEMO22 &middot; EN-007 C
