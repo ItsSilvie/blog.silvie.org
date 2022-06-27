@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">
+      {{ page.title | escape }}
+      {%- if page.part -%}
+        <br />
+        <small>(Part {{ page.part }})</small>
+      {%- endif -%}
+    </h1>
+    <p class="post-meta">
+      Last updated
+      {%- if page.modified_date -%}
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+          {{ page.modified_date | date: date_format }}
+        </time>
+      {%- else -%}
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {{ page.date | date: date_format }}
+        </time>
+      {%- endif -%}
+    </p>
+  </header>
+
+  {%- if page.incomplete -%}
+    {% include incomplete.html %}
+  {%- endif -%}
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <section class="summary">
+      <p>A set in the Grand Archive trading card game.</p>
+    </section>
+
+    <article class="contents">
+      <h2>Table of Contents</h2>
+      {% include contents.html html=content h_max=3 %}
+    </article>
+
+    {{ content }}
+  </div>
+
+  {% if page.references %}
+    {% include references.html %}
+  {% endif %}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

@@ -1,0 +1,33 @@
+.card-template {
+
+  &-stat {
+    margin-bottom: 8px;
+
+    &-heading {
+      display: block;
+      font-weight: medium;
+    }
+
+    &-values {
+      &-effect {
+        background: #f5f5f5;
+        border: 1px solid #ccc;
+        display: block;
+        padding: 16px;
+
+        .effect__label {
+          font-weight: 700;
+
+          &::before {
+            content: '';
+            display: block;
+          }
+        }
+        
+        .effect__reminder {
+          font-style: italic
+        }
+      }
+    }
+  }
+}

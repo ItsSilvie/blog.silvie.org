@@ -35,6 +35,19 @@ defaults:
       path: "assets/images"
     values:
       image: true
+  - scope:
+      path: "cards"
+    values:
+      categories: cards
+      hidden: true
+      layout: "post"
+  - scope:
+      path: "sets"
+    values:
+      categories: sets
+      hidden: true
+      layout: "post"
+
 
 sass:
   sass_dir: _sass

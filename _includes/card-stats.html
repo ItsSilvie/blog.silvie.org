@@ -1,0 +1,26 @@
+<figure class="card-stats">
+  <h4>Stats</h4>
+  <figure class="image">
+    <img
+      src="/assets/images/cards/{{ include.image }}"
+      alt="{{ include.name }}"
+      style="max-width: 400px"
+    >
+    <figcaption>{{ include.name }}</figcaption>
+  </figure>
+  <dl>
+    <dt>Illustrator:</dt>
+    <dd>
+      <span class="dead-link">
+        <a href="/illustrators">{{ include.illustrator }}</a>
+      </span>
+    </dd>
+    <dt>Population:</dt>
+    <dd>{{ include.population }}</dd>
+  </dl>
+  <p>
+    <a href="https://index.gatcg.com/edition/{{ include.id }}">
+      View this card on Grand Archive Index
+    </a>
+  </p>
+</figure>

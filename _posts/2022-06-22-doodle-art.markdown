@@ -2,7 +2,6 @@
 layout: post
 title:  "Image dump: Grand Archive Doodle Artwork"
 date:   2022-06-22 21:49:00 +0100
-modified: 2022-06-22 21:49:00 +0100
 categories: artwork
 permalink: doodle-art
 excerpt: Grand Archive's developers were keen to involve the community in play testing very early on, often before card artwork had been imagined. Doodle art brought these cards to life.
