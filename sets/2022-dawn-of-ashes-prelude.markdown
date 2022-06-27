@@ -27,9 +27,13 @@ There are 54 cards available from the Kickstarter exclusive Dawn of Ashes Prelud
 
 ### Lorraine Starter Deck (Prelude)
 
+The Lorraine Starter Deck is a <span class="dead-link">[Wind](/elements#wind)</span>/<span class="dead-link">[Crux](/elements#crux)</span> deck tailored towards aggro and mid-range combat, featuring champion <span class="dead-link">[Lorraine Allard](/champions#lorraine-allard)</span>.
+
 {% include templates/DOAp-lorraine-starter-deck.html %}
 
 ### Rai Starter Deck (Prelude)
+
+The Rai Starter Deck is a <span class="dead-link">[Fire](/elements#fire)</span>/<span class="dead-link">[Arcane](/elements#arcane)</span> deck tailored towards combo attacks and control, featuring champion <span class="dead-link">[Rai Kyouki](/champions#rai-kyouki)</span>.
 
 {% include templates/DOAp-rai-starter-deck.html %}
 

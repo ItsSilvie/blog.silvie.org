@@ -29,7 +29,7 @@ Print and play decks are designed for unofficial usage only and are not legal fo
 
 ## The Lorraine and Rai Starter Decks
 
-The two print and play decks centred around a <span class="dead-link">[Wind](/elements#wind)</span>/<span class="dead-link">[Warrior](/classes#warrior)</span> Lorraine deck tailored tailored towards aggro and mid-range combat, and a <span class="dead-link">[Fire](/elements#fire)</span>/<span class="dead-link">[Mage](/classes#mage)</span> Rai deck tailored towards combo attacks and control.
+The two print and play decks centred around a <span class="dead-link">[Wind](/elements#wind)</span>/<span class="dead-link">[Warrior](/classes#warrior)</span> Lorraine deck tailored towards aggro and mid-range combat, and a <span class="dead-link">[Fire](/elements#fire)</span>/<span class="dead-link">[Mage](/classes#mage)</span> Rai deck tailored towards combo attacks and control.
 
 {% include blockquote.html quote="Lorraine is an aspiring swordsman who hones her edge and raises her blade for the sake of justice. Her deck includes a multitude of weapons and attacks that she uses to defeat her opponents as well as many strong allies that answer to her call and protect her. Amass your army and attack your opponent’s champion! However, beware of mages. They might defeat your allies one by one or destroy your army entirely! Keep up your advance and don’t let them prepare their destructive spells!" author="Lorraine deck introduction" %}
 
