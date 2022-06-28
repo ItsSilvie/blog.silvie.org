@@ -1,7 +1,7 @@
 ---
 title: "Dawn of Ashes Prelude Pack Simulator"
 permalink: pack-simulator/DOAp
-excerpt: Dawn of Ashes Prelude pack simulator.
+excerpt: Each pack contains 6 Common, 2 Uncommon and 1 Rare, with a 25% chance of the Rare card being replaced by a Super Rare.
 ---
 Kickstarter exclusive [Dawn of Ashes Prelude](/DOAp_(set)) packs contain 54 cards.
 
