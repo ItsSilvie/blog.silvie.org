@@ -44,3 +44,7 @@ The Dawn of Ashes Prelude set is an offshoot of the main <span class="dead-link"
 It is made up of the prelude versions of the Lorraine and Rai Starter Decks (as finalised in <span class="dead-link">[Print and Play version 1.3](/print-and-play)</span>) as well as cards from the 9-card Kickstarter exclusive booster packs.
 
 {% include image.html url="/assets/images/sets/DOAp/kickstarter.png" description="Dawn of Ashes Prelude Kickstarter graphic." %}
+
+## Simulator
+
+Just for fun, try out the Silvie.org [Kickstarter exclusive pack simulator](/pack-simulator/DOAp) (designed for screens at least 1600x800 pixels).
