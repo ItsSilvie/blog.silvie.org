@@ -227,6 +227,10 @@ const updateStats = (selectedCards) => {
   if (stats.percentage >= 100) {
     container.querySelector(`.pack-simulator-100-percent${isAutomation ? '-automation' : ''}`).style.display = 'block';
   }
+
+  if (isAutomation && stats.percentage < 100) {
+    flipCards();
+  }
 }
 
 const flipCards = async (visible = false) => {
@@ -246,11 +250,7 @@ const flipCards = async (visible = false) => {
 
     if (!visible) {
       openPack();
-    } else if (isAutomation) {
-      if (stats.percentage < 100) {
-        flipCards();
-      }
-    } else {
+    } else if (!isAutomation) {
       btnAutomate.disabled = false;
       btnOpen.disabled = false;
     }

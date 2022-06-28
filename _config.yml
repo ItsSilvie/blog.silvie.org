@@ -57,7 +57,7 @@ defaults:
       layout: pack-simulator
       date: 2022-06-28 16:44:00 +0100
       categories: sets
-      image: /assets/images/sets/000-all-sets/thumbnail.png
+      image: /assets/images/pack-simulator/thumbnail.png
 
 
 sass:

@@ -1,7 +1,7 @@
 
 
 .pack-simulator {
-  margin-bottom: 32px;
+  margin-bottom: 48px;
 
   &-button {
     width: 220px;
@@ -76,7 +76,7 @@
         &-back,
         &-front {
           backface-visibility: hidden;
-          background-image: url(/assets/images/card-back.png);
+          background-image: url(/assets/images/pack-simulator/card-back.png);
           background-repeat: no-repeat;
           background-size: 100%;
           border-radius: 8px;
