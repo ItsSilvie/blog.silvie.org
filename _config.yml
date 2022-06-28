@@ -49,6 +49,15 @@ defaults:
       hidden: true
       layout: "post"
       excerpt: A set in the Grand Archive trading card game. See the full set list here.
+  - scope:
+      path: "pack-simulator"
+    values:
+      categories: sets
+      hidden: true
+      layout: pack-simulator
+      date: 2022-06-28 16:44:00 +0100
+      categories: sets
+      image: /assets/images/sets/000-all-sets/thumbnail.png
 
 
 sass:

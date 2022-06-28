@@ -1,0 +1,51 @@
+
+
+.pack-simulator {
+  margin-bottom: 32px;
+
+  &-button {
+    height: 64px;
+    font-size: 24px;
+  }
+
+  &-field {
+    left: 0;
+    right: 0;
+    position: absolute;
+
+    &-cards {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      transition: transform 0.5s;
+
+      &-card {
+        height: 364px;
+        margin: 16px;
+        transform-style: preserve-3d;
+        transition: transform 1s;
+        width: 260px;
+
+        &-flipped {
+          transform: rotateY(180deg);
+        }
+
+        &-back,
+        &-front {
+          backface-visibility: hidden;
+          background-image: url(/assets/images/card-back.png);
+          background-repeat: no-repeat;
+          background-size: 100%;
+          height: 100%;
+          position: absolute;
+          width: 100%;
+        }
+
+        &-front {
+          transform: rotateY(180deg);
+        }
+      }
+    }
+  }
+}
