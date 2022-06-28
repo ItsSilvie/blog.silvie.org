@@ -180,12 +180,14 @@ const lists = {
 }
 
 const container = document.querySelector('.pack-simulator');
-const btn = container.querySelector('button');
+const btnOpen = container.querySelector('.pack-simulator-button-open');
+const btnAutomate = container.querySelector('.pack-simulator-button-automate');
 const field = container.querySelector('.pack-simulator-field');
 let fieldState = 'ready';
 
 const showError = (err) => {
-  btn.disabled = true;
+  btnAutomate.disabled = true;
+  btnOpen.disabled = true;
   field.innerHTML = '<p>An error has occurred. Please try again later.</p>';
   throw new Error(err);
 }
@@ -196,7 +198,8 @@ if (!activeList) {
   showError(`There is no matching card list for set code "${container.dataset.list}".`);
 }
 
-btn.disabled = false;
+btnAutomate.disabled = false;
+btnOpen.disabled = false;
 
 const stats = {
   opened: 0,
@@ -204,6 +207,8 @@ const stats = {
   pulled: [],
   total: activeList.cards.length,
 }
+
+let isAutomation = false;
 
 container.querySelector('.pack-simulator-total-count').innerHTML = stats.total;
 
@@ -220,7 +225,7 @@ const updateStats = (selectedCards) => {
   container.querySelector('.pack-simulator-pulled-percentage').innerHTML = `${stats.percentage}%`;
 
   if (stats.percentage >= 100) {
-    container.querySelector('.pack-simulator-100-percent').style.display = 'block';
+    container.querySelector(`.pack-simulator-100-percent${isAutomation ? '-automation' : ''}`).style.display = 'block';
   }
 }
 
@@ -233,16 +238,25 @@ const flipCards = async (visible = false) => {
     await timer(visible ? CARD_FLIP_DELAY_BETWEEN_MS : CARD_FLIP_DELAY_BETWEEN_FLIPPED_MS);
   }
 
-  setTimeout(() => {
+  const offsetTime = (visible ? CARD_FLIP_DELAY_BETWEEN_MS : CARD_FLIP_DELAY_BETWEEN_FLIPPED_MS) * 4;
+
+  setTimeout(async () => {
     cards[0].parentElement.classList[visible ? 'add' : 'remove']('pack-simulator-field-cards-flipped');
-    btn.innerHTML = 'Try again';
+    btnOpen.innerHTML = 'Try again';
 
     if (!visible) {
       openPack();
+    } else if (isAutomation) {
+      if (stats.percentage < 100) {
+        flipCards();
+      }
     } else {
-      btn.disabled = false;
+      btnAutomate.disabled = false;
+      btnOpen.disabled = false;
     }
-  }, (visible ? CARD_FLIP_DELAY_BETWEEN_MS : CARD_FLIP_DELAY_BETWEEN_FLIPPED_MS) * 4);
+  }, offsetTime);
+
+  await timer(offsetTime);
 }
 
 const selectCards = () => {
@@ -327,8 +341,22 @@ const openPack = async () => {
   updateStats(selectedCards);
 }
 
-btn.addEventListener('click', () => {
-  btn.disabled = true;
+btnOpen.addEventListener('click', () => {
+  btnOpen.disabled = true;
+  btnAutomate.disabled = true;
+
+  if (fieldState === 'ready') {
+    openPack();
+    return;
+  }
+
+  resetField();
+});
+
+btnAutomate.addEventListener('click', () => {
+  btnAutomate.disabled = true;
+  btnOpen.disabled = true;
+  isAutomation = true;
 
   if (fieldState === 'ready') {
     openPack();
