@@ -1,4 +1,5 @@
 const CARD_FLIP_DELAY_BETWEEN_MS = 150;
+const CARD_FLIP_DELAY_BETWEEN_FLIPPED_MS = 75;
 
 const lists = {
   'DOAp': {
@@ -217,6 +218,10 @@ const updateStats = (selectedCards) => {
   container.querySelector('.pack-simulator-opened-count').innerHTML = stats.opened;
   container.querySelector('.pack-simulator-pulled-count').innerHTML = stats.pulled.length;
   container.querySelector('.pack-simulator-pulled-percentage').innerHTML = `${stats.percentage}%`;
+
+  if (stats.percentage >= 100) {
+    container.querySelector('.pack-simulator-100-percent').style.display = 'block';
+  }
 }
 
 const flipCards = async (visible = false) => {
@@ -225,13 +230,19 @@ const flipCards = async (visible = false) => {
 
   for (let i = 0; i < cards.length; i++) {
     cards[i].classList[visible ? 'add' : 'remove']('pack-simulator-field-cards-card-flipped');
-    await timer(CARD_FLIP_DELAY_BETWEEN_MS);
+    await timer(visible ? CARD_FLIP_DELAY_BETWEEN_MS : CARD_FLIP_DELAY_BETWEEN_FLIPPED_MS);
   }
 
   setTimeout(() => {
-    btn.disabled = false;
-    btn.innerHTML = visible ? 'Reset' : 'Open pack';
-  }, 1000);
+    cards[0].parentElement.classList[visible ? 'add' : 'remove']('pack-simulator-field-cards-flipped');
+    btn.innerHTML = 'Try again';
+
+    if (!visible) {
+      openPack();
+    } else {
+      btn.disabled = false;
+    }
+  }, (visible ? CARD_FLIP_DELAY_BETWEEN_MS : CARD_FLIP_DELAY_BETWEEN_FLIPPED_MS) * 4);
 }
 
 const selectCards = () => {
@@ -299,7 +310,12 @@ const openPack = async () => {
     new Promise((resolve, reject) => {
       const cardImage = new Image();
       cardImage.addEventListener('load', function() {
-        cards[index].style.backgroundImage = `url(${cardImage.src})`;
+        const cardElem = cards[index];
+
+        cardElem.classList[stats.pulled.find(pulledCard => pulledCard.id === card.id) ? 'add' : 'remove']('pack-simulator-field-cards-card-front-old');
+        cardElem.dataset.rarity = card.rarity;
+        cardElem.style.backgroundImage = `url(${cardImage.src})`;
+        
         resolve(true);
       });
 
