@@ -33,7 +33,7 @@ There are two main differences between First Edition and Alter Edition:
 
 In total, this means that Dawn of Ashes has:
 
-* 275 unique cards (exclusing <span class="dead-link">[CSR](/rarity#csr)</span>)
+* 275 unique cards (excluding <span class="dead-link">[CSR](/rarity#csr)</span>)
 * 268 foil cards in First Edition and 260 foil cards in Alter Edition
 * 12 cards per pack
 * 24 packs per box

@@ -52,12 +52,12 @@ h3,
 
 h3.hidden-header,
 h4.hidden-header  {
-  font-size: 0;
-  visibility: hidden;
-  margin: 0;
-  padding: 0;
-  width: 0;
-  height: 0;
+  font-size: 0 !important;
+  visibility: hidden !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 0 !important;
+  height: 0 !important;
 }
 
 h4,
