@@ -244,7 +244,7 @@ The move away from CMT to DOA likely happened shortly after the [CMT-013](#cmt-0
 
 ### DOA-013
 
-When the Grand Archive Kickstarter went live on 16th November 2022, several of the graphics show a Lorraine, Wandering Warrior numbered "DOA-013" instead of [CMT-013](#cmt-013). This version of the card also featured on the Grand Archive TCG Quick Starter Guide video the developers [shared on YouTube](https://www.youtube.com/watch?v=r74jMgARJL4).
+When the Grand Archive Kickstarter went live on 17th November 2022, several of the graphics show a Lorraine, Wandering Warrior numbered "DOA-013" instead of [CMT-013](#cmt-013). This version of the card also featured on the Grand Archive TCG Quick Starter Guide video the developers [shared on YouTube](https://www.youtube.com/watch?v=r74jMgARJL4).
 
 {% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/doa-013.png" description="Lorraine, Wandering Warrior DOA-013." %}
 

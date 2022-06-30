@@ -1,7 +1,13 @@
 {% if include.dump-id %}
+{% if include.contents-exclude %}
+<h4 class="hidden-header" id="{{ include.dump-id }}">
+  {{ include.description }}
+</h4>
+{% else %}
 <h3 class="hidden-header" id="{{ include.dump-id }}">
   {{ include.description }}
 </h3>
+{% endif %}
 {% endif %}
 <figure class="image">
   <img

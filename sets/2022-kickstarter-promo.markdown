@@ -22,7 +22,7 @@ EN-008 | [Library Witch](/library-witch_(card)#ksp--en-008-pr) | PR | 1,539
 
 ## History
 
-When the Grand Archive Kickstarter campaign launched on 16th November 2021, only a single Kickstarter promo card had been announced. It wouldn't be until nearing the end of the campaign over a month later that we'd see any more of these exclusive promo cards added.
+When the Grand Archive Kickstarter campaign launched on 17th November 2021, only a single Kickstarter promo card had been announced. It wouldn't be until nearing the end of the campaign over a month later that we'd see any more of these exclusive promo cards added.
 
 ### Alternative artwork
 
