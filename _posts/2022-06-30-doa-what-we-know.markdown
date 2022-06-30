@@ -3,7 +3,7 @@ layout: post
 title:  "What we know so far about the Dawn of Ashes set (image heavy)"
 date:   2022-06-30 09:49:00 +0100
 categories: artwork
-permalink: doa-speculation
+permalink: DOA-everything-we-know-so-far
 excerpt: Over the past couple of months several cards have been revealed for the upcoming Dawn of Ashes set. Here's what we know so far (with lots of card images).
 image: /assets/images/2022-06-30-doa-what-we-know/thumbnail.png
 author: james
@@ -16,7 +16,7 @@ Over the past month, however, we've been seeing cards with actual numbers relati
 
 Following a few social media posts, in June 2022 we saw Maindeck's [Tristan, Grim Stalker reveal](https://www.maindeck.games/grand-archive-tcg-set-1-exclusive-previews/) followed by Red Zone Rogue's [Merlin, Memory Thief reveal](https://www.youtube.com/watch?v=jZE-LyNr3kk), then Sera and Triskit's <span class="dead-link">[Designer Tier](/kickstarter#designer-tier)</span> [Triskit Guidance Angel reveal](https://youtu.be/QEGxmeosglE).
 
-At the end of the month, on 29th July, the [Grand Archive website](https://gatcg.com) received a major update which included dozens of additional numbered cards. The set has yet to be revealed in full - and is something we likely won't know until September - but for now we can piece together what has been shared.
+At the end of the month, on 29th June, the [Grand Archive website](https://gatcg.com) received a major update which included dozens of additional numbered cards. The set has yet to be revealed in full - and is something we likely won't know until September - but for now we can piece together what has been shared.
 
 ## Set variants
 
