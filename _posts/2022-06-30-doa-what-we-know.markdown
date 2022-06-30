@@ -100,7 +100,7 @@ EN-184 | [Piper's Lullaby](#pipers-lullaby) | U
 EN-185 | [Restorative Slash](#restorative-slash) | C
 EN-191 | [Snow Fairy](#snow-fairy) | R
 EN-195 | [Tidal Sweep](#tidal-sweep) | R
-EN-204 | [Camelot, Impenetrable](#camelot-impenetrable) | CR
+EN-204 | [Camelot, Impenetrable](#camelot-impenetrable) | SR
 EN-217 | [Poised Strike](#poised-strike) | C
 EN-231 | [Wind Cutter](#wind-cutter) | C
 EN-232 | [Windrider Mage](#windrider-mage) | U
