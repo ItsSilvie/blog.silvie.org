@@ -73,9 +73,13 @@ On 7th February 2022, Red Zone Rogue published [a video on YouTube](https://www.
 
 #### Content Creator Giveaway #3
 
-On 11th April after the [failed Facebook giveaway](#content-creator-giveaway-1) from 13th January, Dan Green was back on the [Grand Archive TCG Community Facebook page](https://www.facebook.com/groups/703294704035630) to award 1 star foil and 2 normal foil Lorraine, Festive Night cards.
+On 14th February 2022, Tyler Lee (OnceInLuv) of The Magic Library TCG published [a video on YouTube](https://www.youtube.com/watch?v=_FJHVOZV1lQ) announcing 10 star foil and 5 normal foil Lorraine, Festive Night cards to be given away across YouTube, Instagram and their Discord server.
 
 #### Content Creator Giveaway #4
+
+On 11th April after the [failed Facebook giveaway](#content-creator-giveaway-1) from 13th January, Dan Green was back on the [Grand Archive TCG Community Facebook page](https://www.facebook.com/groups/703294704035630) to award 1 star foil and 2 normal foil Lorraine, Festive Night cards.
+
+#### Content Creator Giveaway #5
 
 On 11th April 2022 it was also announced that Maindeck would be holding their own Grand Archive league on their [Discord server](https://discord.xyz/maindeck).
 
