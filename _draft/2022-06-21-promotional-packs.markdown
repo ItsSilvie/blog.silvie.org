@@ -19,6 +19,16 @@ In preparation for the [Grand Archive Community Tournament #2](#grand-archive-co
 
 The `17 MAR 2022` identifier turned out to be just an internal test and was not publicly released. The first promotional packs to make their way out into the public had the code `SAMPLE`, followed by `SAMPLE2` and `SAMPLE3`.
 
+## Distribution
+
+Each section below lists various ways the packs were distributed. This section provides a brief overview.
+
+Pack code | <small>Population</small> | Release date
+:-- | :-- | :--
+[`SAMPLE`](#identifier-code-sample) | 19 | 26th March 2022
+[`SAMPLE2`](#identifier-code-sample2) | 150+ | 15th April 2022
+[`SAMPLE3`](#identifier-code-sample3) | 300+ | 28th May 2022
+[`P22`](#identifier-code-p22) | 2,400 | 1st July 2022
 
 
 ## Pack list
@@ -29,43 +39,65 @@ This list aims to cover everything known about various Promotional Pack releases
 
 ### Identifier code: `SAMPLE`
 
-This pack was only distributed during a single event, the [Grand Archive Community Tournament #2](grand-archive-community-tournament-2).
+Also referred to as "SAMPLE1", this pack was only distributed during a single event, the [Grand Archive Community Tournament #2](grand-archive-community-tournament-2).
+
+{% include image.html url="/assets/images/2022-06-21-promotional-packs/sample1.png" description="Grand Archive `SAMPLE` Promotional Pack." %}
 
 #### Contents
 
 - <small>[33.33%]</small> [Lorraine, Wandering Warrior _<small>CMT-013</small>_ non-foil sample](/lorraine-wandering-warrior-samples#cmt-013)
 - <small>[33.33%*]</small> [Lorraine, Wandering Warrior _<small>CMT-013</small>_ foil sample](/lorraine-wandering-warrior-samples#cmt-013)
-- <small>[33.33%]</small> Lorraine, Festive Night _<small>SAMPLE PROMO 000</small>_ star foil sample
+- <small>[33.33%]</small> [Lorraine, Festive Night _<small>SAMPLE PROMO 000</small>_ star foil sample](/lorraine-festive-night-samples)
 
 <small>Note: The foil Lorraine, Wandering Warrior <small>CMT-013</small> sample has a 50% chance of being either the [matte foil or oil foil variants](/lorraine-wandering-warrior-samples#matte-foil-and-oil-foil).</small>
 
+#### Distribution
+
+The `SAMPLE` code packs had a very small public distribution. On 26th March 2022, 19 packs were awarded in the [Grand Archive Community Tournament #2](#grand-archive-community-tournament-2), with a further 2 packs being awarded to the tournament's organiser.
+
+A further 11 `SAMPLE` packs were advertised as the reward for the first [Friday Night Grand Archive Online Event](#friday-night-grand-archive-online-event) on 15th April 2022, however by then the developers had introduced [new `SAMPLE2` packs](#identifier-code-sample2) and awarded those instead.
+
+In total, only 21 `SAMPLE` packs are known to have been distributed, however it's unknown how many additional packs may have been given to local testers.
+
 ### Identifier code: `SAMPLE2`
+
+{% include image.html url="/assets/images/2022-06-21-promotional-packs/sample2.png" description="Grand Archive `SAMPLE2` Promotional Pack." %}
 
 #### Contents
 
 - <small>[16.66%]</small> [Lorraine, Wandering Warrior _<small>CMT-013</small>_ non-foil sample](/lorraine-wandering-warrior-samples#cmt-013)
 - <small>[16.66%*]</small> [Lorraine, Wandering Warrior _<small>CMT-013</small>_ foil sample](/lorraine-wandering-warrior-samples#cmt-013)
-- <small>[16.66%]</small> Lorraine, Festive Night _<small>SAMPLE PROMO 000</small>_ star foil sample
+- <small>[16.66%]</small> [Lorraine, Festive Night _<small>SAMPLE PROMO 000</small>_ star foil sample](/lorraine-festive-night-samples)
 - <small>[16.66%]</small> [Lorraine, Wandering Warrior _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample](/lorraine-wandering-warrior-samples#doap-1st--en-000-c)
-- <small>[16.66%]</small> Lorraine, Blademaster _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample
-- <small>[16.66%]</small> Lorraine, Crux Knight _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample
+- <small>[16.66%]</small> <span class="dead-link">[Lorraine, Blademaster _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample](/lorraine-blademaster-samples#doap-1st--en-000-c)</span>
+- <small>[16.66%]</small> <span class="dead-link">[Lorraine, Crux Knight _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample](/lorraine-crux-knight-samples#doap-1st--en-000-c)</span>
 
 <small>Note: The foil Lorraine, Wandering Warrior <small>CMT-013</small> sample has a 50% chance of being either the [matte foil or oil foil variants](/lorraine-wandering-warrior-samples#matte-foil-and-oil-foil).</small>
 
+#### Distribution
+
+On 1st April 2022 the first [Friday Night Grand Archive Online Event](#friday-night-grand-archive-online-event) was announced with [`SAMPLE` code packs](#identifier-code-sample) advertised as the reward. However by 15th April when the event went ahead, `SAMPLE2` packs had been introduced by the developers and they instead awarded those. In total, 8 `SAMPLE2` packs were awarded at this event.
+
 ### Identifier code: `SAMPLE3`
+
+{% include image.html url="/assets/images/2022-06-21-promotional-packs/sample3.png" description="Grand Archive `SAMPLE3` Promotional Pack." %}
 
 #### Contents
 
 - <small>[33.33%]</small> [Lorraine, Wandering Warrior _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample](/lorraine-wandering-warrior-samples#doap-1st--en-000-c)
-- <small>[33.33%]</small> Lorraine, Blademaster _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample
-- <small>[33.33%]</small> Lorraine, Crux Knight _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample
+- <small>[33.33%]</small> <span class="dead-link">[Lorraine, Blademaster _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample](/lorraine-blademaster-samples#doap-1st--en-000-c)</span>
+- <small>[33.33%]</small> <span class="dead-link">[Lorraine, Crux Knight _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample](/lorraine-crux-knight-samples#doap-1st--en-000-c)</span>
 
 ### Identifier code: `P22 - 1`
 
 #### Contents
 
-- <small>[87.5%]</small> Dungeon Guide _<small>P22 &middot; EN-000 C</small>_ alternative artwork non-foil
-- <small>[12.5%]</small> Dungeon Guide _<small>P22 &middot; EN-000 C</small>_ alternative artwork foil
+- <small>[87.5%]</small> <span class="dead-link">[Dungeon Guide _<small>P22 &middot; EN-000 C</small>_ alternative artwork non-foil](/dungeon-guide#p22--en-000-c)</span>
+- <small>[12.5%]</small> <span class="dead-link">[Dungeon Guide _<small>P22 &middot; EN-000 C</small>_ alternative artwork foil](/dungeon-guide#p22--en-000-c)</span>
+
+#### Distribution
+
+The developers stated publicly that the Dungeon Guide promo would have 2,100 non-foil and 300 foil copies. This results in a total of 2,400 `P22 - 1` code packs distributed.
 
 ## Giveaways
 
