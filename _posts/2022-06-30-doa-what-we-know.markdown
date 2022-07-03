@@ -2,6 +2,7 @@
 layout: post
 title:  "What we know so far about the Dawn of Ashes set (image heavy)"
 date:   2022-06-30 09:49:00 +0100
+modified_date: 2022-07-03 23:41:00 +0100
 categories: artwork
 permalink: DOA-everything-we-know-so-far
 excerpt: Over the past couple of months several cards have been revealed for the upcoming Dawn of Ashes set. Here's what we know so far (with lots of card images).
@@ -73,7 +74,10 @@ EN-019 | [Tristan, Grim Stalker](#tristan-grim-stalker-csr) (CSR) | CSR
 EN-020 | [Assassin's Ripper](#assassins-ripper) | C
 EN-022 | [Barrier Servant](#barrier-servant) | C
 EN-030 | [Crystal of Empowerment](#crystal-of-empowerment) | C
+EN-035 | [Eye of Argus](#eye-of-argus) | R
+EN-039 | [Jewel of Enlightenment](#jewel-of-enlightenment) | U
 EN-043 | [Melodious Flute](#melodious-flute) | U
+EN-050 | [Sealed Blade](#sealed-blade) | C
 EN-056 | [Sword of Seeking](#sword-of-seeking) | U
 EN-071 | [Banner Knight](#banner-knight) | C
 EN-075 | [Coup de Grace](#coup-de-grace) | SR
@@ -88,9 +92,12 @@ EN-109 | [Smack with Flute](#smack-with-flute) | C
 EN-112 | [Sudden Steel](#sudden-steel) | C
 EN-115 | [Veteran Soldier](#veteran-soldier) | C
 EN-121 | [Blitz Mage](#blitz-mage) | U
+EN-122 | [Cemetery Sentry](#cemetary-sentry) | R
+EN-123 | [Clumsy Apprentice](#clumsy-apprentice) | U
 EN-134 | [Fireball](#fireball) | U
 EN-147 | [Planted Explosive](#planted-explosive) | C
 EN-151 | [Rending Flames](#rending-flames) | R
+EN-158 | [Varruck, Smoldering Spire](#varruck-smoldering-spire) | SR
 EN-162 | [Blue Slime](#blue-slime) | U
 EN-166 | [Dewdrop Hares](#dewdrop-hares) | U
 EN-169 | [Freeze Stiff](#freeze-stiff) | C
@@ -100,6 +107,7 @@ EN-184 | [Piper's Lullaby](#pipers-lullaby) | U
 EN-185 | [Restorative Slash](#restorative-slash) | C
 EN-191 | [Snow Fairy](#snow-fairy) | R
 EN-195 | [Tidal Sweep](#tidal-sweep) | R
+EN-201 | [Beseech the Winds](#beseech-the-winds) | SR
 EN-204 | [Camelot, Impenetrable](#camelot-impenetrable) | SR
 EN-217 | [Poised Strike](#poised-strike) | C
 EN-231 | [Wind Cutter](#wind-cutter) | C
@@ -162,7 +170,13 @@ The images below are all included at their maximum resolution to show as much de
 
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/030.jpg" description="Crystal of Empowerment" contents-exclude="true" dump-id="crystal-of-empowerment" %}
 
+{% include image.html url="/assets/images/2022-06-30-doa-what-we-know/035.jpg" description="Eye of Argus" contents-exclude="true" dump-id="eye-of-argus" %}
+
+{% include image.html url="/assets/images/2022-06-30-doa-what-we-know/039.jpg" description="Jewel of Enlightenment" contents-exclude="true" dump-id="jewel-of-enlightenment" %}
+
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/043.jpg" description="Melodious Flute" contents-exclude="true" dump-id="melodious-flute" %}
+
+{% include image.html url="/assets/images/2022-06-30-doa-what-we-know/050.jpg" description="Sealed Blade" contents-exclude="true" dump-id="sealed-blade" %}
 
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/056.jpg" description="Sword of Seeking" contents-exclude="true" dump-id="sword-of-seeking" %}
 
@@ -192,11 +206,17 @@ The images below are all included at their maximum resolution to show as much de
 
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/DOA121-Blitz-Mage.20c5f63.jpg" description="Blitz Mage" contents-exclude="true" dump-id="blitz-mage" %}
 
+{% include image.html url="/assets/images/2022-06-30-doa-what-we-know/122.jpg" description="Cemetary Centry" contents-exclude="true" dump-id="cemetary-centry" %}
+
+{% include image.html url="/assets/images/2022-06-30-doa-what-we-know/123.jpg" description="Clumsy Apprentice" contents-exclude="true" dump-id="clumsy-apprentice" %}
+
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/134.jpg" description="Fireball" contents-exclude="true" dump-id="fireball" %}
 
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/planted-explosive.png" description="Planted Explosive" contents-exclude="true" dump-id="planted-explosive" %}
 
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/151.jpg" description="Rending Flames" contents-exclude="true" dump-id="rending-flames" %}
+
+{% include image.html url="/assets/images/2022-06-30-doa-what-we-know/158.jpg" description="Varuck, Smoldering Spire" contents-exclude="true" dump-id="varuck-smoldering-spire" %}
 
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/162.jpg" description="Blue Slime" contents-exclude="true" dump-id="blue-slime" %}
 
@@ -215,6 +235,8 @@ The images below are all included at their maximum resolution to show as much de
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/DOA191-Snow-Fairy.c69b477.jpg" description="Snow Fairy" contents-exclude="true" dump-id="snow-fairy" %}
 
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/195.jpg" description="Tidal Sweep" contents-exclude="true" dump-id="tidal-sweep" %}
+
+{% include image.html url="/assets/images/2022-06-30-doa-what-we-know/201.jpg" description="Beseech the Winds" contents-exclude="true" dump-id="beseech-the-winds" %}
 
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/204.jpg" description="Camelot, Impenetrable" contents-exclude="true" dump-id="camelot-impenetrable" %}
 
