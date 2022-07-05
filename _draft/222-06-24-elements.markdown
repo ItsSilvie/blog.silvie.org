@@ -2,7 +2,7 @@
 layout: post
 title:  "Gameplay: Elements"
 date: 2022-06-24 17:19:00 +0100
-modified_date: 2024-06-24 17:19:00 +0100
+last_modified_at: 2024-06-24 17:19:00 +0100
 categories: gameplay
 permalink: elements
 excerpt: In this article you will discover what elements are and how they are used in the Grand Archive TCG.

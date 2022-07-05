@@ -14,10 +14,10 @@ layout: default
     </h1>
     <p class="post-meta">
       Last updated
-      {%- if page.modified_date -%}
+      {%- if page.last_modified_at -%}
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-          {{ page.modified_date | date: date_format }}
+          {{ page.last_modified_at | date: date_format }}
         </time>
       {%- else -%}
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
