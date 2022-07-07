@@ -56,7 +56,7 @@ The cards cannot be accessed without the seal being broken.
 
 ### Loose in bag
 
-All other conventions from the Los Angeles Anime Expo in July 2022 onwards saw the decks loosely packaged in a clear plastic bag with a printed rules pamphlet separating the material deck from the main deck.
+All other conventions from the Los Angeles Anime Expo in July 2022 onwards saw the decks loosely packaged in a clear plastic bag with a printed booklet - separating the material deck from the main deck - detailing the game setup, turn phases and card anatomy.
 
 Unlike the [sealed variant](#sealed) above, these decks can be resealed without any indication that they have ever been opened.
 
@@ -76,7 +76,7 @@ All of the cards within the demo decks given out at conventions had the normal g
 
 {% include image.html url="/assets/images/2022-07-07-convention-demo-deck-samples/card-back.png" description="Grand Archive card back." max-width="320px" %}
 
-One of the activities at the Grand Archive booth at Anime Expo included the front of various cards from the [Dawn of Ashes Prelude set](/DOAp_(set)) printed on regular printer paper.
+One of the activities at the Grand Archive booth at Anime Expo allowed anyone to create their own constructed decks using paper print outs of cards from the [Dawn of Ashes Prelude set](/DOAp_(set)). These were printed on regular printer paper.
 
 At Anime Expo in Los Angeles, several of these print outs were stolen from the Grand Archive booth and later appeared on eBay.
 
