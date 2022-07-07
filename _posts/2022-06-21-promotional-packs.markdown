@@ -31,8 +31,8 @@ This section provides a brief overview of how many of each of the Grand Archive 
 Pack code | <small>Population</small> | Release date
 :-- | :-- | :--
 [`SAMPLE`](#identifier-code-sample) | 21 | 26th March 2022
-[`SAMPLE2`](#identifier-code-sample2) | >= 147 | 15th April 2022
-[`SAMPLE3`](#identifier-code-sample3) | > 200 | 28th May 2022
+[`SAMPLE2`](#identifier-code-sample2) | ≥ 147 | 15th April 2022
+[`SAMPLE3`](#identifier-code-sample3) | ≈ 200 | 28th May 2022
 [`P22`](#identifier-code-p22) | 2,400 | 1st July 2022
 
 
@@ -107,7 +107,7 @@ On 1st April 2022 the first Friday Night Grand Archive tournament was announced 
 
 #### Distribution
 
-Several hundred `SAMPLE3` packs were given out at Collect-a-Con in May 2022.
+Approximately 200 `SAMPLE3` packs were given out at Collect-a-Con in May 2022.
 
 ### Identifier code: `P22 - 1`
 
