@@ -76,8 +76,8 @@ All of the cards within the demo decks given out at conventions had the normal g
 
 {% include image.html url="/assets/images/2022-07-07-convention-demo-deck-samples/card-back.png" description="Grand Archive card back." max-width="320px" %}
 
-One of the activities at the Grand Archive booth at Anime Expo allowed anyone to create their own constructed decks using paper print outs of cards from the [Dawn of Ashes Prelude set](/DOAp_(set)). These were printed on regular printer paper.
+One of the activities at the Grand Archive booth at Anime Expo allowed anyone to create their own constructed decks using card-sized paper print outs of cards from the [Dawn of Ashes Prelude set](/DOAp_(set)). These were printed on regular printer paper.
 
 At Anime Expo in Los Angeles, several of these print outs were stolen from the Grand Archive booth and later appeared on eBay.
 
-If you want one of these blank back cards for yourself, simply grab one of the card images from the [Grand Archive Index](https://index.gatcg.com) and print it out on regular paper on your home printer.
+If you want one of these blank back cards for yourself, check out the [Print and Play section of Grand Archive Index](https://index.gatcg.com/pnp) where you can generate identical-size cards and print yourself from home.
