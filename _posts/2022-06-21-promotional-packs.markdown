@@ -141,6 +141,8 @@ Red Zone Rogue and Dan Green opened their packs in videos uploaded to YouTube ([
 
 \* davidmfinol confirmed for this article that he also opened his personalized pack but couldn't fully remember what the pack's code was, stating that he was certain it contained "DAVID" but wasn't sure if there was any more to it.
 
+\* Akumas (Chris) also confirmed for this article that he had opened his personalized pack and also couldn't remember what the code was, confirming that all 6 packs announced in Kickstarter update #21 were opened.
+
 All of these packs contained all 3 of the cards awarded by [`SAMPLE3`](#identifier-code-sample3) packs: [Lorraine, Wandering Warrior DOAp 1st &middot; EN-000 C foil sample](/lorraine-wandering-warrior-samples#doap-1st--en-000-c), <span class="dead-link">[Lorraine, Blademaster DOAp 1st &middot; EN-000 C foil sample](/lorraine-blademaster-samples#doap-1st--en-000-c)</span> and <span class="dead-link">[Lorraine, Crux Knight DOAp 1st &middot; EN-000 C foil sample](/lorraine-crux-knight-samples#doap-1st--en-000-c)</span>.
 
 On 23rd May 2022 content creator Tyler Lee ([@onceinluv](https://www.instagram.com/onceinluv)) also revealed that they had been sent a personalized pack with code `ONCEINLUV` along with some [7th iteration samples](/lorraine-wandering-warrior-samples#doap-1st--en-000-c---7th-iteration) to be destroyed on video.

@@ -44,7 +44,7 @@ On 19th March 2022 the developers announced that they would award new Promotiona
 
 {% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/promotional-pack.png" description="Grand Archive Promotional Pack." max-width="440px" %}
 
-Below lists which promotional packs contained which Lorraine, Wandering Warrior cards and the odds of them being pulled. A list of events which awarded these packs can be found in <span class="dead-links">[Promotional Packs](/promotional-packs)</span>.
+Below lists which promotional packs contained which Lorraine, Wandering Warrior cards and the odds of them being pulled. A list of events which awarded these packs can be found in [Promotional Packs](/promotional-packs).
 
 Two packs have been released containing the [CMT-013 Lorraine, Wandering Warrior](#cmt-013) sample card:
 
@@ -298,7 +298,7 @@ This one is said to have been illustrated by the young <span class="dead-link">[
 
 ## Individual card giveaways
 
-This section notes events which directly awarded cards to winners/participants. This does not include cards distributed within <span class="dead-link">[Promotional Packs](/promotional-packs)</span>, which has its own dedicated page.
+This section notes events which directly awarded cards to winners/participants. This does not include cards distributed within [Promotional Packs](/promotional-packs), which has its own dedicated page.
 
 ### Before 19th March 2022
 
@@ -348,4 +348,4 @@ On 28th December 2021 the first Grand Archive Community Tournament was announced
 
 Signups were open until 7th January and the tournament took place between 14th and 16th January 2022. The players in 1st, 2nd and 3rd place each received a foil Lorraine, Wandering Warrior sample, and 3 non-foil samples were awarded randomly to participants.
 
-This was the final event to award Lorraine, Wandering Warrior directly. All subsequent Lorraine, Wandering Warrior cards were obtained through <span class="dead-link">[Promotional Packs](/promotional-packs)</span>.
+This was the final event to award Lorraine, Wandering Warrior directly. All subsequent Lorraine, Wandering Warrior cards were obtained through [Promotional Packs](/promotional-packs).

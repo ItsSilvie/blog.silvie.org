@@ -47,7 +47,7 @@ The star foil card also appears in <span class="dead-link">[SAMPLE](/promotional
 
 ### Individual card giveaways
 
-This section notes events which directly awarded cards to winners/participants. This does not include cards distributed within <span class="dead-link">[Promotional Packs](/promotional-packs)</span>, which has its own dedicated page.
+This section notes events which directly awarded cards to winners/participants. This does not include cards distributed within [Promotional Packs](/promotional-packs), which has its own dedicated page.
 
 #### Discord Giveaway #1: PnP 1.2 photo contest
 

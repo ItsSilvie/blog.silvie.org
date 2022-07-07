@@ -23,7 +23,7 @@ D Lam ([Grand Archive Index](https://index.gatcg.com/cards?illustrator=D Lam)) i
 
 Hanh Chu ([Grand Archive Index](https://index.gatcg.com/cards?illustrator=Hanh%20Chu); [website](https://raartist3.wixsite.com/hanhchu); [Twitter](https://twitter.com/Hanh_R_A)) is a freelance illustrator, 2D and concept artist.
 
-Hanh won a doodle art contest on the Grand Archive Discord server on 3rd December 2021 before going on to be commissioned by the development team to illustrate several cards for the <span class="dead-link">[Dawn of Ashes Prelude](/dawn-of-ashes-prelude)</span> set.
+Hanh won a doodle art contest on the Grand Archive Discord server on 3rd December 2021 before going on to be commissioned by the development team to illustrate several cards for the [Dawn of Ashes Prelude](/DOAp_(set)) set.
 
 {% include image.html url="/assets/images/2022-06-24-illustrators/hanh-chu-library-witch.png" description="Hanh Chu's winning Library Witch illustration." max-width="320px" %}
 
