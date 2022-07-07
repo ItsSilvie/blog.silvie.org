@@ -31,7 +31,7 @@ This section provides a brief overview of how many of each of the Grand Archive 
 Pack code | <small>Population</small> | Release date
 :-- | :-- | :--
 [`SAMPLE`](#identifier-code-sample) | 21 | 26th March 2022
-[`SAMPLE2`](#identifier-code-sample2) | >= 137 | 15th April 2022
+[`SAMPLE2`](#identifier-code-sample2) | >= 147 | 15th April 2022
 [`SAMPLE3`](#identifier-code-sample3) | > 200 | 28th May 2022
 [`P22`](#identifier-code-p22) | 2,400 | 1st July 2022
 
@@ -81,7 +81,7 @@ In total, only 21 `SAMPLE` packs are known to have been distributed.
 
 #### Distribution
 
-On 1st April 2022 the first Friday Night Grand Archive tournament was announced with [`SAMPLE` code packs](#identifier-code-sample) advertised as the reward. However by 15th April when the event went ahead, `SAMPLE2` packs had been introduced by the developers and they instead awarded those. In total, 8 `SAMPLE2` packs were awarded at this event.
+On 1st April 2022 the first Friday Night Grand Archive tournament was announced with 8 [`SAMPLE` code packs](#identifier-code-sample) advertised as the reward. However by 15th April when the event went ahead, `SAMPLE2` packs had been introduced by the developers and they instead awarded those. In total, 8 `SAMPLE2` packs were awarded at this event, with a further 10 `SAMPLE2` packs given as a surprise reward to the participants.
 
 50 `SAMPLE2` packs were awarded on 30th April 2022 randomly on Discord to people who had left comments on cards featured on [Grand Archive Index](https://index.gatcg.com).
 
