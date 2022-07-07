@@ -37,3 +37,22 @@
   &nbsp;&middot;&nbsp;
   <a href="https://silvie.org">Get Silvie, Discord Bot</a>
 </nav>
+<nav class="header-nav-query">
+  <p>Would you be interested in a Grand Archive collection tracking app here on Silvie.org? <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1M42qKAD6ERGREGRitr5M-2zJ7kp-jvWwtQ0_PvYvKUiw2w/viewform" target="_blank" rel="noopener noreferrer">Click here to provide us with anonymous feedback</a>.</p>
+  <button type="button">Do not show me this again</button>
+</nav>
+<script>
+  const feedbackQueryElem = document.querySelector('.header-nav-query');
+  const feedbackQueryButtonElem = feedbackQueryElem.querySelector('button');
+  const isFeedbackQueryDismissed = JSON.parse(localStorage.getItem('feedback-query-dismissed'));
+
+  if (!isFeedbackQueryDismissed) {
+    feedbackQueryElem.classList.add('header-nav-query-visible');
+  }
+
+  feedbackQueryButtonElem.addEventListener('click', () => {
+    feedbackQueryButtonElem.disabled = true;
+    feedbackQueryElem.classList.remove('header-nav-query-visible');
+    localStorage.setItem('feedback-query-dismissed', true);
+  });
+</script>
