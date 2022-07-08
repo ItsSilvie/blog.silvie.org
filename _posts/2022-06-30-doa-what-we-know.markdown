@@ -91,6 +91,7 @@ EN-108 | [Scry the Skies](#scry-the-skies) | C
 EN-109 | [Smack with Flute](#smack-with-flute) | C
 EN-112 | [Sudden Steel](#sudden-steel) | C
 EN-115 | [Veteran Soldier](#veteran-soldier) | C
+EN-118 | [Arthur, Young Heir](#arthur-young-heir) | ?
 EN-121 | [Blitz Mage](#blitz-mage) | U
 EN-122 | [Cemetery Sentry](#cemetary-sentry) | R
 EN-123 | [Clumsy Apprentice](#clumsy-apprentice) | U
@@ -204,6 +205,8 @@ The images below are all included at their maximum resolution to show as much de
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/112.jpg" description="Sudden Steel" contents-exclude="true" dump-id="sudden-steel" %}
 
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/115.jpg" description="Veteran Soldier" contents-exclude="true" dump-id="veteran-soldier" %}
+
+{% include image.html url="/assets/images/2022-06-30-doa-what-we-know/118.jpg" description="Arthur, Young Heir" contents-exclude="true" dump-id="arthur-young-heir" %}
 
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/DOA121-Blitz-Mage.20c5f63.jpg" description="Blitz Mage" contents-exclude="true" dump-id="blitz-mage" %}
 
