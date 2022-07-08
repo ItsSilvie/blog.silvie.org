@@ -2,7 +2,7 @@
 layout: post
 title:  "What we know so far about the Dawn of Ashes set (image heavy)"
 date:   2022-06-30 09:49:00 +0100
-last_modified_at: 2022-07-03 23:41:00 +0100
+last_modified_at: 2022-07-08 03:17:00 +0100
 categories: artwork
 permalink: DOA-everything-we-know-so-far
 excerpt: Over the past couple of months several cards have been revealed for the upcoming Dawn of Ashes set. Here's what we know so far (with lots of card images).
@@ -102,6 +102,7 @@ EN-162 | [Blue Slime](#blue-slime) | U
 EN-166 | [Dewdrop Hares](#dewdrop-hares) | U
 EN-169 | [Freeze Stiff](#freeze-stiff) | C
 EN-176 | [Imbue in Frost](#imbue-in-frost) | C
+EN-178 | [Lunete, Frostbinder Priest](#lunete-frostbinder-priest) | R
 EN-179 | [Mind Freeze](#mind-freeze) | U
 EN-184 | [Piper's Lullaby](#pipers-lullaby) | U
 EN-185 | [Restorative Slash](#restorative-slash) | C
@@ -225,6 +226,8 @@ The images below are all included at their maximum resolution to show as much de
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/169.jpg" description="Freeze Stiff" contents-exclude="true" dump-id="freeze-stiff" %}
 
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/176.jpg" description="Imbue in Frost" contents-exclude="true" dump-id="imbue-in-frost" %}
+
+{% include image.html url="/assets/images/2022-06-30-doa-what-we-know/178.jpg" description="Lunete, Frostbinder Priest" contents-exclude="true" dump-id="lunete-frostbinder-priest" %}
 
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/179.jpg" description="Mind Freeze" contents-exclude="true" dump-id="mind-freeze" %}
 
