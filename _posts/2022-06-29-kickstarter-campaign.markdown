@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "Kickstarter Campaign"
-date:   2022-06-29 06:49:00 +0100
+date:   2022-07-09 10:37:00 +0100
 categories: kickstarter
 permalink: kickstarter
-excerpt: Grand Archive's developers were keen to involve the community in play testing very early on, often before card artwork had been imagined. Doodle art brought these cards to life.
+excerpt: After over a year of gameplay planning, Grand Archive was funded through a very successful Kickstarter campaign. This article documents the history of the campaign and everything that went on prior to the September 2022 release.
 image: /assets/images/2022-06-29-kickstarter-campaign/thumbnail.png
 author: james
 ---
-
 {% include image.html url="/assets/images/2022-06-29-kickstarter-campaign/cover.png" description="Original Grand Archive social media banner." %}
 
 ## History
@@ -29,7 +28,41 @@ Less than an hour after the Kickstarter campaign went live, the $50,000 pledge g
 
 <span class="dead-link">[Print and play](/print-and-play)</span> versions of the Lorraine and Rai Starter Decks were launched during the Kickstarter campaign to introduce everyone to the gameplay whilst providing invaluable feedback to the developers.
 
-With an extensive game guide and set of rules, small tournaments were also set up awarding [Lorraine, Wandering Warrior (sample)](/lorraine-wandering-warrior-samples) and [Lorraine, Festive Night (sample)](/lorraine-festive-night-samples) cards.
+With an extensive game guide and set of rules, small tournaments were also set up awarding 1st iteration [Lorraine, Wandering Warrior (sample)](/lorraine-wandering-warrior-samples) and 3rd iteration [Lorraine, Festive Night (sample)](/lorraine-festive-night-samples) cards.
+
+The Kickstarter campaign ended on 1st January 2022 at $947,400 - just short of 19 times the original $50,000 funding target.
+
+## Pre-Dawn of Ashes release
+
+The Kickstarter campaign was set to not see any product shipped out until April 2022, with the main set release being scheduled for September 2022 - 9 months after the campaign ended. This section documents what the Grand Archive developers were doing during this between phase.
+
+After the Kickstarter campaign ended the developers were hard at work testing card stock, print and cut quality. Everything from the gloss placement on the back of the card to the overall appearance of the foil was thoroughly tested until the developers were happy with the result, and the outcome of this testing was shared with the community on a regular basis.
+
+Following feedback from vendors and distributors, in [Kickstarter update #17](https://www.kickstarter.com/projects/weebs/grand-archive-tcg/posts/3450865) on 10th March 2022 the developers announced _Wave 1 Product Delays_:
+
+> We originally wanted to release the Starter Kits months in advance of the full release of Dawn of Ashes. This would have given our backers and game stores the opportunity to try out and enjoy the product before the big release in Q3 of this year. We've discussed this timeline with multiple vendors as well as with distributors and are now acting upon the feedback we have received. They had voiced their concerns regarding the significant delay between the Starter Kit release and the Booster Box release, weakening the overall launch of Grand Archive. In addition, they also expressed that the efficiency of 1 wave versus 2 waves of shipments of products was not optimal. As a result, **we are delaying the release and shipment of the Starter Kits to match the Booster Box release for Dawn of Ashes**. With this, **products that were meant for Wave 1 shipment will also be delayed**. These products include **metal cards, promo cards, playmats, and deck boxes**.
+
+The original April 2022 plan for the [Dawn of Ashes Prelude](/DOAp_(set)) Starter Kits was now pushed back to be in line with the September 2022 <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> First Edition release. To make up for it, however, the developers also announced that any Starter Kit pre-order affected by this would have the number of included Prelude Packs upped from 2 to 4.
+
+Despite the gravity of this announcement, the community almost unanimously agreed that this was the best move.
+
+In late March 2022 the developers announced the introduction of [Promotional Packs](/promotional-packs). Starting with `SAMPLE`-code packs, these would replace the previous individual sample card giveaways with booster packs containing a card at random.
+
+In April 2022 a new set of 6th iteration foil Lorraine, Wandering Warrior, Blademaster and Crux Knight [sample cards](/lorraine-wandering-warrior-samples#doap-1st--en-000-c) would be available to the public randomly inside [`SAMPLE2` Promotional Packs](/promotional-packs#identifier-code-sample2) alongside the older sample cards that had been given away. The clarity, pixel density and overall feel of these new sample cards were noticeably better than what we had seen before.
+
+{% include image.html url="/assets/images/2022-06-29-kickstarter-campaign/lorraine-comparison.png" description="1st iteration Lorraine, Wandering Warrior (left) vs 6th iteration (right)." %}
+
+The team went on to improve this even further with a 7th iteration sample run - which wasn't distributed to the public - before they were finally happy with what they'd created.
+
+In May 2022 Grand Archive would appear with their own booth Collect-a-Con in Dallas. A gameplay section allowed anyone to learn how the game worked, rewarding free [Convention Demo Decks](/convention-demo-deck-samples). This was the first time merchandise had been available to purchase outside of the Kickstarter campaign - [`SAMPLE3` Promotional Packs](/promotional-packs#identifier-code-sample3) were given out for every $40 spent on merchandise.
+
+In July 2022 the team had an even larger booth at Anime Expo in Los Angeles, which was an overwhelming success. For almost the entirety of the four-day event the booth was packed full of people learning about the game far beyond the expectations of the developers.
+
+{% include image.html url="/assets/images/2022-06-29-kickstarter-campaign/ax-crowd.png" description="Grand Archive's booth at Anime Expo, Los Angeles (July 2022)." %}
+
+This convention introduced three cards from the <span class="dead-link">[2022 Promo](P22_(set))</span> set, Bubble Mage, Dungeon Guide, and Honorable Vanguard. No longer regarded as samples, these were printed on finalised card stock and were the first tournament legal cards to be released.
+
+This section will be updated over the next few months as new news comes in. In the mean time, check out [What we know so far about the Dawn of Ashes set](/DOA-everything-we-know-so-far).
 
 ## Tiers
 
