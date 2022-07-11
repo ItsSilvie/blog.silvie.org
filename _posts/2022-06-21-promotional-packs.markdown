@@ -33,7 +33,7 @@ Pack code | <small>Population</small> | Release date
 [`SAMPLE`](#identifier-code-sample) | 21 | 26th March 2022
 [`SAMPLE2`](#identifier-code-sample2) | ≥ 147 | 15th April 2022
 [`SAMPLE3`](#identifier-code-sample3) | ≈ 200 | 28th May 2022
-[`P22`](#identifier-code-p22) | 2,400 | 1st July 2022
+[`P22 - 1`](#identifier-code-p22---1) | 2,400 | 1st July 2022
 
 
 ## Pack list
