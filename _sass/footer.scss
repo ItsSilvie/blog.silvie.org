@@ -1,0 +1,48 @@
+.patreon-button {
+  display: inline-flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  outline: 0px;
+  border: 0px;
+  margin: 0px;
+  cursor: pointer;
+  user-select: none;
+  vertical-align: middle;
+  appearance: none;
+  text-decoration: none;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 500;
+  font-size: 0.875rem;
+  letter-spacing: 0.02857em;
+  min-width: 64px;
+  padding: 6px 16px 6px 40px;
+  border-radius: 4px;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: rgb(255, 66, 77);
+  background-image: url(/assets/patreon.png);
+  background-position: 12px center;
+  background-repeat: no-repeat;
+  background-size: 16px;
+  color: rgb(255, 255, 255);
+  height: 32px;
+  line-height: 32px;
+  text-transform: initial;
+
+  &:visited {
+    color: rgb(255, 255, 255);
+  }
+
+  &:hover,
+  &:focus,
+  &:active {
+    background-color: rgb(255, 66, 77);
+    color: rgb(255, 255, 255);
+    outline: rgb(0, 0, 0) solid 2px;
+    text-decoration: none;
+  }
+}

@@ -121,6 +121,7 @@ EN-255 | [Spirit Blade: Infusion](#spirit-blade-infusion) | R
 EN-262 | [Luxem Sight](#luxem-sight) | U
 EN-263 | [Thousand Refractions](#thousand-refractions) | SR
 EN-264 | [Triskit, Guidance Angel](#triskit-guidance-angel) | SR
+EN-266 | [Arima, Gaia's Wings](#arima-gaias-wings) | SR
 
 ## Card images
 
@@ -265,3 +266,5 @@ The images below are all included at their maximum resolution to show as much de
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/263.jpg" description="Thousand Refractions" contents-exclude="true" dump-id="thousand-refractions" %}
 
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/DOA264_Trisket_Guidance_Angel.png" description="Triskit, Guidance Angel" contents-exclude="true" dump-id="triskit-guidance-angel" %}
+
+{% include image.html url="/assets/images/2022-06-30-doa-what-we-know/266.png" description="Arima, Gaia's Wings" contents-exclude="true" dump-id="arima-gaias-wings" %}
