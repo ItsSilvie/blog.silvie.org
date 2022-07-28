@@ -101,6 +101,7 @@ EN-151 | [Rending Flames](#rending-flames) | R
 EN-158 | [Varruck, Smoldering Spire](#varruck-smoldering-spire) | SR
 EN-162 | [Blue Slime](#blue-slime) | U
 EN-166 | [Dewdrop Hares](#dewdrop-hares) | U
+EN-169 | [Fishing Accident](#fishing-accident) | U
 EN-169 | [Freeze Stiff](#freeze-stiff) | C
 EN-176 | [Imbue in Frost](#imbue-in-frost) | C
 EN-178 | [Lunete, Frostbinder Priest](#lunete-frostbinder-priest) | R
@@ -226,6 +227,8 @@ The images below are all included at their maximum resolution to show as much de
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/162.jpg" description="Blue Slime" contents-exclude="true" dump-id="blue-slime" %}
 
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/DOA166-Dewdrop-Hares.d866c2e.jpg" description="Dewdrop Hares" contents-exclude="true" dump-id="dewdrop-hares" %}
+
+{% include image.html url="/assets/images/2022-06-30-doa-what-we-know/168.jpg" description="Fishing Accident" contents-exclude="true" dump-id="fishing-accident" %}
 
 {% include image.html url="/assets/images/2022-06-30-doa-what-we-know/169.jpg" description="Freeze Stiff" contents-exclude="true" dump-id="freeze-stiff" %}
 
