@@ -101,7 +101,7 @@ EN-151 | [Rending Flames](#rending-flames) | R
 EN-158 | [Varruck, Smoldering Spire](#varruck-smoldering-spire) | SR
 EN-162 | [Blue Slime](#blue-slime) | U
 EN-166 | [Dewdrop Hares](#dewdrop-hares) | U
-EN-169 | [Fishing Accident](#fishing-accident) | U
+EN-168 | [Fishing Accident](#fishing-accident) | U
 EN-169 | [Freeze Stiff](#freeze-stiff) | C
 EN-176 | [Imbue in Frost](#imbue-in-frost) | C
 EN-178 | [Lunete, Frostbinder Priest](#lunete-frostbinder-priest) | R
