@@ -2,7 +2,7 @@
 layout: post
 title:  "What we know so far about the Dawn of Ashes set (image heavy)"
 date:   2022-06-30 09:49:00 +0100
-last_modified_at: 2022-07-08 03:17:00 +0100
+last_modified_at: 2022-07-28 11:10:00 +0100
 categories: artwork
 permalink: DOA-everything-we-know-so-far
 excerpt: Over the past couple of months several cards have been revealed for the upcoming Dawn of Ashes set. Here's what we know so far (with lots of card images).
