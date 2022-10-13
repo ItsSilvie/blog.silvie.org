@@ -2,6 +2,7 @@
 layout: post
 title:  "Grand Archive Promotional Packs"
 date:   2022-07-05 06:51:57 +0100
+last_modified_at: 2022-10-13 21:02:00 +0100
 categories: sample
 permalink: promotional-packs
 excerpt: Promotional Packs were first seen in March 2022, replacing individual card giveaways with a random selection of cards instead. Here is everything we know about them.
