@@ -33,7 +33,7 @@ Pack code | <small>Population</small> | Release date
 [`SAMPLE`](#identifier-code-sample) | 21 | 26th March 2022
 [`SAMPLE2`](#identifier-code-sample2) | ≥ 147 | 15th April 2022
 [`SAMPLE3`](#identifier-code-sample3) | ≈ 200 | 28th May 2022
-[`P22 - 1`](#identifier-code-p22---1) | 2,400 | 1st July 2022
+[`P22 - 1`](#identifier-code-p22---1) | 1,350 | 1st July 2022
 
 
 ## Pack list
@@ -120,9 +120,9 @@ Approximately 200 `SAMPLE3` packs were given out at Collect-a-Con in May 2022.
 
 #### Distribution
 
-The developers stated publicly that the Dungeon Guide promo would have 2,100 non-foil and 300 foil copies. This results in a total of 2,400 `P22 - 1` code packs distributed.
+The developers stated publicly that the Dungeon Guide promo would have 2,100 non-foil and 300 foil copies, however only 1,200 non-foil and 150 foil were eventually distributed. This results in a total of 1,350 `P22 - 1` code packs in circulation.
 
-Approximately 480 packs were distributed at Anime Expo in July 2022.
+Approximately 480 packs were distributed at Anime Expo in July 2022, with the remainder distributed at Anime Matsuri, Anime Houston and Collect-A-Con Long Beach throughout summer 2022, and as part of separate Discord chat bot and merchandise events.
 
 ### Personalized packs
 
