@@ -8,4 +8,4 @@ incomplete: true
 
 ## DOApSP &middot; EN-068 R
 
-{% include templates/bauble-of-beastcalling-doapsp.html %}
+{% include templates/horn-of-beastcalling-doapsp.html %}
