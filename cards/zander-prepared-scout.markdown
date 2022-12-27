@@ -9,3 +9,8 @@ incomplete: true
 ## DOA 1st &middot; EN-013 C
 
 {% include templates/zander-prepared-scout-doa1e.html %}
+
+
+## DOA 1st &middot; EN-013 CUR
+
+{% include templates/zander-prepared-scout-doa1e-cur.html %}

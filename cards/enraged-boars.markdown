@@ -6,6 +6,11 @@ permalink: enraged-boars_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-084 C
+
+{% include templates/enraged-boars-doa1e.html %}
+
+
 ## DOAp &middot; EN-039 C
 
 {% include templates/enraged-boars-doap.html %}

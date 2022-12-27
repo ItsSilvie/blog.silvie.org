@@ -6,6 +6,11 @@ permalink: swift-recruit_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-225 C
+
+{% include templates/swift-recruit-doa1e.html %}
+
+
 ## DOAp &middot; EN-096 C
 
 {% include templates/swift-recruit-doap.html %}

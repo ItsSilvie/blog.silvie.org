@@ -9,3 +9,8 @@ incomplete: true
 ## DOAp &middot; EN-097 U
 
 {% include templates/tactful-sergeant-doap.html %}
+
+
+## DOA 1st &middot; EN-226 R
+
+{% include templates/tactful-sergeant-doa1e.html %}

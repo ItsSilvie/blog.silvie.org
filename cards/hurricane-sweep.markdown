@@ -6,6 +6,11 @@ permalink: hurricane-sweep_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-214 R
+
+{% include templates/hurricane-sweep-doa1e.html %}
+
+
 ## DOAp &middot; EN-090 R
 
 {% include templates/hurricane-sweep-doap.html %}

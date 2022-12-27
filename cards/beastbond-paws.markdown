@@ -9,3 +9,8 @@ incomplete: true
 ## DOApSP &middot; EN-025 C
 
 {% include templates/beastbond-paws-doapsp.html %}
+
+
+## DOA 1st &middot; EN-025 C
+
+{% include templates/beastbond-paws-doa1e.html %}

@@ -9,3 +9,13 @@ incomplete: true
 ## DOApSP &middot; EN-010 C
 
 {% include templates/silvie-wilds-whisperer-doapsp.html %}
+
+
+## DOA 1st &middot; EN-010 C
+
+{% include templates/silvie-wilds-whisperer-doa1e.html %}
+
+
+## DOA 1st &middot; EN-010 CUR
+
+{% include templates/silvie-wilds-whisperer-doa1e-cur.html %}

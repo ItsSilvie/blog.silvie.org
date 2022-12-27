@@ -9,3 +9,8 @@ incomplete: true
 ## DOA 1st &middot; EN-006 C
 
 {% include templates/lorraine-spirit-ruler-doa1e.html %}
+
+
+## DOA 1st &middot; EN-006 CUR
+
+{% include templates/lorraine-spirit-ruler-doa1e-cur.html %}

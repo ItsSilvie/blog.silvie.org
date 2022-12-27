@@ -6,6 +6,11 @@ permalink: tome-of-knowledge_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-057 U
+
+{% include templates/tome-of-knowledge-doa1e.html %}
+
+
 ## DOAp &middot; EN-025 U
 
 {% include templates/tome-of-knowledge-doap.html %}

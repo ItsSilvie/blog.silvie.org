@@ -6,6 +6,11 @@ permalink: wind-cutter_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-231 C
+
+{% include templates/wind-cutter-doa1e.html %}
+
+
 ## DOAp &middot; EN-100 C
 
 {% include templates/wind-cutter-doap.html %}

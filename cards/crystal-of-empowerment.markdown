@@ -6,6 +6,11 @@ permalink: crystal-of-empowerment_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-030 C
+
+{% include templates/crystal-of-empowerment-doa1e.html %}
+
+
 ## DOAp &middot; EN-013 C
 
 {% include templates/crystal-of-empowerment-doap.html %}

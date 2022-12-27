@@ -6,6 +6,11 @@ permalink: creative-shock_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-125 U
+
+{% include templates/creative-shock-doa1e.html %}
+
+
 ## DOAp &middot; EN-066 U
 
 {% include templates/creative-shock-doap.html %}

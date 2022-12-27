@@ -9,3 +9,8 @@ incomplete: true
 ## DOAp &middot; EN-012 R
 
 {% include templates/clarent-sword-of-peace-doap.html %}
+
+
+## KSP &middot; EN-005 PR
+
+{% include templates/clarent-sword-of-peace-ksp.html %}

@@ -9,3 +9,8 @@ incomplete: true
 ## DOApSP &middot; EN-024 C
 
 {% include templates/beastbond-ears-doapsp.html %}
+
+
+## DOA 1st &middot; EN-024 C
+
+{% include templates/beastbond-ears-doa1e.html %}

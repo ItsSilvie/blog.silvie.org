@@ -9,3 +9,13 @@ incomplete: true
 ## DOAp &middot; EN-105 R
 
 {% include templates/power-overwhelming-doap.html %}
+
+
+## DOAp &middot; EN-105KS R
+
+{% include templates/power-overwhelming-doap-ks.html %}
+
+
+## DOA 1st &middot; EN-245 SR
+
+{% include templates/power-overwhelming-doa1e.html %}

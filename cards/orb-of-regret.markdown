@@ -9,3 +9,8 @@ incomplete: true
 ## DOApSP &middot; EN-045 SR
 
 {% include templates/orb-of-regret-doapsp.html %}
+
+
+## DOA 1st &middot; EN-045 SR
+
+{% include templates/orb-of-regret-doa1e.html %}

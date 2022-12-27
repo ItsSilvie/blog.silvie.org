@@ -9,3 +9,8 @@ incomplete: true
 ## DOAp &middot; EN-029 SR
 
 {% include templates/prismatic-edge-doap.html %}
+
+
+## KSP &middot; EN-007 PR
+
+{% include templates/prismatic-edge-ksp.html %}

@@ -6,6 +6,11 @@ permalink: arcane-blast_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-239 U
+
+{% include templates/arcane-blast-doa1e.html %}
+
+
 ## DOAp &middot; EN-102 U
 
 {% include templates/arcane-blast-doap.html %}

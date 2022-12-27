@@ -6,6 +6,11 @@ permalink: spirit-of-wind_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-003 C
+
+{% include templates/spirit-of-wind-doa1e.html %}
+
+
 ## DOAp &middot; EN-002 C
 
 {% include templates/spirit-of-wind-doap.html %}

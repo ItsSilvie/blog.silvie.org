@@ -9,3 +9,8 @@ incomplete: true
 ## DOApSP &middot; EN-049 U
 
 {% include templates/safeguard-amulet-doapsp.html %}
+
+
+## DOA 1st &middot; EN-049 U
+
+{% include templates/safeguard-amulet-doa1e.html %}

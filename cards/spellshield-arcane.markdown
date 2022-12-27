@@ -6,6 +6,11 @@ permalink: spellshield-arcane_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-247 R
+
+{% include templates/spellshield-arcane-doa1e.html %}
+
+
 ## DOAp &middot; EN-107 R
 
 {% include templates/spellshield-arcane-doap.html %}

@@ -6,6 +6,11 @@ permalink: sword-of-seeking_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-056 U
+
+{% include templates/sword-of-seeking-doa1e.html %}
+
+
 ## DOAp &middot; EN-024 U
 
 {% include templates/sword-of-seeking-doap.html %}

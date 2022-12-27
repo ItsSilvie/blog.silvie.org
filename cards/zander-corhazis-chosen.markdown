@@ -9,3 +9,8 @@ incomplete: true
 ## DOA 1st &middot; EN-015 C
 
 {% include templates/zander-corhazis-chosen-doa1e.html %}
+
+
+## DOA 1st &middot; EN-015 CUR
+
+{% include templates/zander-corhazis-chosen-doa1e-cur.html %}

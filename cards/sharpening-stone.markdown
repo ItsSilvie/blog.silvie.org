@@ -6,6 +6,11 @@ permalink: sharpening-stone_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-052 C
+
+{% include templates/sharpening-stone-doa1e.html %}
+
+
 ## DEMO22 &middot; EN-008 C
 
 {% include templates/sharpening-stone-demo22.html %}

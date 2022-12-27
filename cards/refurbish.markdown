@@ -6,6 +6,11 @@ permalink: refurbish_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-106 C
+
+{% include templates/refurbish-doa1e.html %}
+
+
 ## DOAp &middot; EN-055 C
 
 {% include templates/refurbish-doap.html %}

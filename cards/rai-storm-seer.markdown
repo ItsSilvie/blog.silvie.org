@@ -9,3 +9,8 @@ incomplete: true
 ## DOAp &middot; EN-008 C
 
 {% include templates/rai-storm-seer-doap.html %}
+
+
+## KSP &middot; EN-003 PR
+
+{% include templates/rai-storm-seer-ksp.html %}

@@ -9,3 +9,8 @@ incomplete: true
 ## DOApSP &middot; EN-131 U
 
 {% include templates/energetic-beastbonder-doapsp.html %}
+
+
+## DOA 1st &middot; EN-131 U
+
+{% include templates/energetic-beastbonder-doa1e.html %}

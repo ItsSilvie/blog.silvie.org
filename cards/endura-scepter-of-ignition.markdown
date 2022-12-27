@@ -9,3 +9,8 @@ incomplete: true
 ## DOAp &middot; EN-014 R
 
 {% include templates/endura-scepter-of-ignition-doap.html %}
+
+
+## KSP &middot; EN-006 PR
+
+{% include templates/endura-scepter-of-ignition-ksp.html %}

@@ -15,7 +15,7 @@ Cards in this set are prefixed `P22`.
 
 The cards from this set were released at separate times during separate events. This section notes when and where each card was distributed.
 
-Each of the cards in the Promotional 2022 set are alternative artworks of cards found in the [Dawn of Ashes](/DOA_1st_(set)) set.
+Each of the cards in the Promotional 2022 set are alternative artworks of cards found in the [Dawn of Ashes](/DOA-1st_(set)) set.
 
 ### Dungeon Guide
 

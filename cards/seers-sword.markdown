@@ -6,6 +6,16 @@ permalink: seers-sword_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-051 U
+
+{% include templates/seers-sword-doa1e.html %}
+
+
 ## DOAp &middot; EN-022 U
 
 {% include templates/seers-sword-doap.html %}
+
+
+## DEMO22 &middot; EN-007 U
+
+{% include templates/seers-sword-demo22.html %}

@@ -6,6 +6,11 @@ permalink: focused-flames_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-138 U
+
+{% include templates/focused-flames-doa1e.html %}
+
+
 ## DOAp &middot; EN-074 U
 
 {% include templates/focused-flames-doap.html %}

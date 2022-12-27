@@ -9,3 +9,8 @@ incomplete: true
 ## DOApSP &middot; EN-267 SR
 
 {% include templates/artificers-opus-doapsp.html %}
+
+
+## DOA 1st &middot; EN-267 SR
+
+{% include templates/artificers-opus-doa1e.html %}

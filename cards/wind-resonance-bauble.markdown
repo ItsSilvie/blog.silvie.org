@@ -6,6 +6,11 @@ permalink: wind-resonance-bauble_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-060 U
+
+{% include templates/wind-resonance-bauble-doa1e.html %}
+
+
 ## DOAp &middot; EN-027 U
 
 {% include templates/wind-resonance-bauble-doap.html %}

@@ -9,3 +9,8 @@ incomplete: true
 ## DOApSP &middot; EN-027 R
 
 {% include templates/chalice-of-blood-doapsp.html %}
+
+
+## DOA 1st &middot; EN-027 R
+
+{% include templates/chalice-of-blood-doa1e.html %}

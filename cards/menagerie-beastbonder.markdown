@@ -9,3 +9,8 @@ incomplete: true
 ## DOApSP &middot; EN-215 C
 
 {% include templates/menagerie-beastbonder-doapsp.html %}
+
+
+## DOA 1st &middot; EN-215 C
+
+{% include templates/menagerie-beastbonder-doa1e.html %}

@@ -9,3 +9,8 @@ incomplete: true
 ## DOA 1st &middot; EN-014 C
 
 {% include templates/zander-always-watching-doa1e.html %}
+
+
+## DOA 1st &middot; EN-014 CUR
+
+{% include templates/zander-always-watching-doa1e-cur.html %}

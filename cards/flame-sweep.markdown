@@ -6,6 +6,11 @@ permalink: flame-sweep_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-135 R
+
+{% include templates/flame-sweep-doa1e.html %}
+
+
 ## DOAp &middot; EN-072KS R
 
 {% include templates/flame-sweep-doap-ks.html %}

@@ -9,3 +9,8 @@ incomplete: true
 ## DOApSP &middot; EN-272 R
 
 {% include templates/invoke-dominance-doapsp.html %}
+
+
+## DOA 1st &middot; EN-272 R
+
+{% include templates/invoke-dominance-doa1e.html %}

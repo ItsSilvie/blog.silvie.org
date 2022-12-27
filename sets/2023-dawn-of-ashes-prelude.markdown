@@ -7,7 +7,7 @@ permalink: DOAp_(set)
 image: /assets/images/sets/DOAp/thumbnail.png
 ---
 
-You may be looking for the main [Dawn of Ashes](/DOA_1st_(set)) set.
+You may be looking for the main [Dawn of Ashes](/DOA-1st_(set)) set.
 
 The Dawn of Ashes Prelude set is scheduled to be released in January 2023.
 

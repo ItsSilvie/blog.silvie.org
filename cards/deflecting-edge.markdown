@@ -6,6 +6,11 @@ permalink: deflecting-edge_(card)
 incomplete: true
 ---
 
+## DOA 1st &middot; EN-080 C
+
+{% include templates/deflecting-edge-doa1e.html %}
+
+
 ## DOAp &middot; EN-037 C
 
 {% include templates/deflecting-edge-doap.html %}

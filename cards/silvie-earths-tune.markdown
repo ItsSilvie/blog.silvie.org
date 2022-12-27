@@ -9,3 +9,8 @@ incomplete: true
 ## DOA 1st &middot; EN-012 C
 
 {% include templates/silvie-earths-tune-doa1e.html %}
+
+
+## DOA 1st &middot; EN-012 CUR
+
+{% include templates/silvie-earths-tune-doa1e-cur.html %}

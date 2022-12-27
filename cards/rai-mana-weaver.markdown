@@ -9,3 +9,8 @@ incomplete: true
 ## DOA 1st &middot; EN-009 C
 
 {% include templates/rai-mana-weaver-doa1e.html %}
+
+
+## DOA 1st &middot; EN-009 CUR
+
+{% include templates/rai-mana-weaver-doa1e-cur.html %}
