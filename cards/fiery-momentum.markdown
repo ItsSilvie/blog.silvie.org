@@ -6,6 +6,6 @@ permalink: fiery-momentum_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-064 U
+## DOAp &middot; EN-070 U
 
 {% include templates/fiery-momentum-doap.html %}

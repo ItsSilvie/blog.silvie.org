@@ -6,6 +6,6 @@ permalink: wind-cutter_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-094 C
+## DOAp &middot; EN-100 C
 
 {% include templates/wind-cutter-doap.html %}

@@ -6,6 +6,6 @@ permalink: second-wind_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-089 U
+## DOAp &middot; EN-095 U
 
 {% include templates/second-wind-doap.html %}

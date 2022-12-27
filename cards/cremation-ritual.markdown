@@ -6,6 +6,6 @@ permalink: cremation-ritual_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-061 C
+## DOAp &middot; EN-067 C
 
 {% include templates/cremation-ritual-doap.html %}

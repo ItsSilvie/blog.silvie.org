@@ -6,6 +6,6 @@ permalink: silvie-loved-by-all_(card)
 incomplete: true
 ---
 
-## DOApSP &middot; EN-000 C
+## DOAp &middot; EN-009 C
 
-{% include templates/silvie-loved-by-all-doapsp.html %}
+{% include templates/silvie-loved-by-all-doap.html %}

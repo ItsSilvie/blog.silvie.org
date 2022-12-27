@@ -6,6 +6,6 @@ permalink: honorable-vanguard_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-038 C
+## DOAp &middot; EN-044 C
 
 {% include templates/honorable-vanguard-doap.html %}

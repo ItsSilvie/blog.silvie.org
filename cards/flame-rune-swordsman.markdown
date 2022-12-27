@@ -6,6 +6,6 @@ permalink: flame-rune-swordsman_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-066 C
+## DOAp &middot; EN-073 C
 
 {% include templates/flame-rune-swordsman-doap.html %}

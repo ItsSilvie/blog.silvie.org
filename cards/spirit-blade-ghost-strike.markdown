@@ -6,6 +6,6 @@ permalink: spirit-blade-ghost-strike_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-106 U
+## DOAp &middot; EN-112 U
 
 {% include templates/spirit-blade-ghost-strike-doap.html %}

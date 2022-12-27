@@ -6,6 +6,6 @@ permalink: blazing-throw_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-058 C
+## DOAp &middot; EN-064 C
 
 {% include templates/blazing-throw-doap.html %}

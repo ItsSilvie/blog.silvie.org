@@ -6,6 +6,6 @@ permalink: bubble-mage_(card)
 incomplete: true
 ---
 
-## P22 &middot; EN-003 CR
+## P22 &middot; EN-003 PR
 
 {% include templates/bubble-mage-p22.html %}

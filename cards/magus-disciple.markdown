@@ -6,6 +6,6 @@ permalink: magus-disciple_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-043 C
+## DOAp &middot; EN-049 C
 
 {% include templates/magus-disciple-doap.html %}

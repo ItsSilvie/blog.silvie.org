@@ -6,6 +6,6 @@ permalink: life-essence-amulet_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-014 C
+## DOAp &middot; EN-017 C
 
 {% include templates/life-essence-amulet-doap.html %}

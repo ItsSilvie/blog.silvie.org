@@ -6,6 +6,6 @@ permalink: power-overwhelming_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-099 SR
+## DOAp &middot; EN-105 R
 
 {% include templates/power-overwhelming-doap.html %}

@@ -6,6 +6,6 @@ permalink: reckless-conversion_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-100KS SR
+## DOAp &middot; EN-106KS SR
 
-{% include templates/reckless-conversion-doap.html %}
+{% include templates/reckless-conversion-doap-ks.html %}

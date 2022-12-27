@@ -6,6 +6,6 @@ permalink: bauble-of-abundance_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-009 C
+## DOAp &middot; EN-011 C
 
 {% include templates/bauble-of-abundance-doap.html %}

@@ -6,6 +6,6 @@ permalink: wind-resonance-bauble_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-023 U
+## DOAp &middot; EN-027 U
 
 {% include templates/wind-resonance-bauble-doap.html %}

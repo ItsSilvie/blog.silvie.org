@@ -6,6 +6,6 @@ permalink: arcane-blast_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-096 U
+## DOAp &middot; EN-102 U
 
 {% include templates/arcane-blast-doap.html %}

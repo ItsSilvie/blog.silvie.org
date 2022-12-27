@@ -6,6 +6,6 @@ permalink: ignite-the-soul_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-069 C
+## DOAp &middot; EN-075 C
 
 {% include templates/ignite-the-soul-doap.html %}

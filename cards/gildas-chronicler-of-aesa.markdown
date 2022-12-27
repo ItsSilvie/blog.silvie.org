@@ -6,6 +6,6 @@ permalink: gildas-chronicler-of-aesa_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-036KS SR
+## DOAp &middot; EN-042KS SR
 
-{% include templates/gildas-chronicler-of-aesa-doap.html %}
+{% include templates/gildas-chronicler-of-aesa-doap-ks.html %}

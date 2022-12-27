@@ -6,6 +6,6 @@ permalink: arcane-sight_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-098 U
+## DOAp &middot; EN-104 U
 
 {% include templates/arcane-sight-doap.html %}

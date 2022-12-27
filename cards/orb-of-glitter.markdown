@@ -6,6 +6,6 @@ permalink: orb-of-glitter_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-016KS SR
+## DOAp &middot; EN-020KS SR
 
-{% include templates/orb-of-glitter-doap.html %}
+{% include templates/orb-of-glitter-doap-ks.html %}

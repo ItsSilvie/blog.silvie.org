@@ -6,6 +6,6 @@ permalink: combo-strike_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-079 U
+## DOAp &middot; EN-085 U
 
 {% include templates/combo-strike-doap.html %}

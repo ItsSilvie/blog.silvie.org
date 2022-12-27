@@ -6,6 +6,6 @@ permalink: sudden-steel_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-052 C
+## DOAp &middot; EN-058 C
 
 {% include templates/sudden-steel-doap.html %}

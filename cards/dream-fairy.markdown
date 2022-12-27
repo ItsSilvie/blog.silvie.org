@@ -6,6 +6,6 @@ permalink: dream-fairy_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-081 R
+## DOAp &middot; EN-087 R
 
 {% include templates/dream-fairy-doap.html %}

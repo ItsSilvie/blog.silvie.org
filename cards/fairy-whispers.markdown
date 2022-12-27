@@ -6,6 +6,6 @@ permalink: fairy-whispers_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-082 U
+## DOAp &middot; EN-088 U
 
 {% include templates/fairy-whispers-doap.html %}

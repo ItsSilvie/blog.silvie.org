@@ -6,6 +6,6 @@ permalink: spirits-blessing_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-108 R
+## DOAp &middot; EN-114 R
 
 {% include templates/spirits-blessing-doap.html %}

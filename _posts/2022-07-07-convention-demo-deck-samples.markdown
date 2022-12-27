@@ -2,6 +2,7 @@
 layout: post
 title:  "Sample cards: Convention Demo Decks"
 date:   2022-07-07 06:51:57 +0100
+last_modified_at: 2022-12-08 20:10:00 +0100
 categories: sample
 permalink: convention-demo-deck-samples
 excerpt: Not originally intended to be sample cards, thousands of thick card stock DEMO22 Demo Decks were created and distributed to everyone who wanted to try Grand Archive for free at conventions.
@@ -16,9 +17,11 @@ author: james
 
 On 26th May 2022, a couple of days before Grand Archive made an appearance at Collect-a-Con in Dallas, [Kickstarter update #22](https://www.kickstarter.com/projects/weebs/grand-archive-tcg/posts/3487747) announced that anyone attending the convention could visit the Grand Archive booth to play a gameplay demo against one of the developers. Regardless of whether or not you beat the developer, you'd get to keep your demo deck
 
-These demo decks were intended to be identical to the LGS Demo Decks the developers had announced on 11th March 2022 in [Kickstarter update #18](https://www.kickstarter.com/projects/weebs/grand-archive-tcg/posts/3450881), however also noted in the 26th May update was that there had been issues with the cutting of the cards due to the thick card stock used.
+These demo decks were intended to be identical to the LGS Demo Decks the developers had announced on 11th March 2022 in [Kickstarter update #18](https://www.kickstarter.com/projects/weebs/grand-archive-tcg/posts/3450881), however also noted in the 26th May update were issues with the cutting of the cards due to the thick card stock used.
 
 The team decided that all future cards were to be printed on thinner card stock. As such these thick card stock convention demo decks were labelled as not legal for play and were unintentionally given sample card status.
+
+When the finalised [LGS Demo 2022](/DEMO22_(set)) decks did release 6 months later in December 2022, some [changes](#differences) had been made.
 
 ### Kickstarter update excerpt
 
@@ -64,11 +67,267 @@ Unlike the [sealed variant](#sealed) above, these decks can be resealed without 
 
 ## Deck contents
 
-The sample Demo Decks are made up of 34 cards and have the same set list as the [LGS Demo 2022 (DEMO22)](/DEMO22_(set)) decks given to game stores and distributors:
+The sample Demo Decks are made up of 34 cards . The set list is [slightly different](#differences) to that of the final [LGS Demo 2022 (DEMO22)](/DEMO22_(set)) decks given to game stores and distributors in December 2022:
 
-{% include templates/DEMO22-lgs-demo-deck.html %}
+<table class="condensed-table">
+  <thead>
+    <tr>
+      <th style="text-align: left">Number</th>
+      <th style="text-align: left">Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="3">CHAMPION</th>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-001
+      </td>
+      <td style="text-align: left" colspan="3">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Lost Spirit
+        </strong> x1
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-002
+      </td>
+      <td style="text-align: left" colspan="3">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Lorraine, Wandering Warrior
+        </strong> x1
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-003
+      </td>
+      <td style="text-align: left" colspan="3">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Lorraine, Blademaster
+        </strong> x1
+      </td>
+    </tr>
+    <tr>
+      <th colspan="3">REGALIA</th>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-004
+      </td>
+      <td style="text-align: left">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Bauble of Abundance
+        </strong> x1
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-005
+      </td>
+      <td style="text-align: left">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Life Essence Amulet
+        </strong> x1
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-006
+      </td>
+      <td style="text-align: left">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Ornamental Greatsword
+        </strong> x1
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-007
+      </td>
+      <td style="text-align: left">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Seer's Sword
+        </strong> x1
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-008
+      </td>
+      <td style="text-align: left">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Sharpening Stone
+        </strong> x1
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-009
+      </td>
+      <td style="text-align: left">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Warrior's Longsword
+        </strong> x1
+      </td>
+    </tr>
+    <tr>
+      <th colspan="3">ALLY</th>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-010
+      </td>
+      <td style="text-align: left">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Banner Knight
+        </strong> x3
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-011
+      </td>
+      <td style="text-align: left">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Crusader of Aesa
+        </strong> x2
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-012
+      </td>
+      <td style="text-align: left">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Esteemed Knight
+        </strong> x3
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-013
+      </td>
+      <td style="text-align: left">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Honorable Vanguard
+        </strong> x3
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-018
+      </td>
+      <td style="text-align: left">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Trusty Steed
+        </strong> x2
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-019
+      </td>
+      <td style="text-align: left">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Veteran Soldier
+        </strong> x3
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-020
+      </td>
+      <td style="text-align: left">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Weaponsmith
+        </strong> x2
+      </td>
+    </tr>
+    <tr>
+      <th colspan="3">ACTION</th>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-014
+      </td>
+      <td style="text-align: left">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Inspiring Call
+        </strong> x2
+      </td>
+    </tr>
+    <tr>
+      <th colspan="3">ATTACK</th>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-015
+      </td>
+      <td style="text-align: left">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Opening Cut
+        </strong> x2
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-016
+      </td>
+      <td style="text-align: left">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Reckless Slash
+        </strong> x2
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">
+        EN-017
+      </td>
+      <td style="text-align: left">
+        <img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" alt="NORM element" />
+        <strong>
+          Sudden Steel
+        </strong> x2
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 The quantity of each card reveals its overall population. With 12,000 decks distributed, cards with _x1_ have a population of 12,000, whilst _x2_ has a population of 24,000 and _x3_ has the highest population at 36,000.
+
+## Differences
+
+Compared with the final 19-card [LGS Demo 2022](/DEMO22_(set)) deck release, the sample deck has a total of 20 cards. [Lorraine, Blademaster](/lorraine-blademaster) and [Banner Knight](/banner-knight) make an appearance in the sample deck, with [Scry the Skies](/scry-the-skies_(card)#demo22--en-015-c) from the final release not included.
+
+Lorraine, Blademaster adds a 3rd champion card to the sample decks. This version of the card is identical to that of the [Dawn of Ashes Prelude](/DOAp_(set)) release.
+
+{% include image.html url="/assets/images/2022-07-07-convention-demo-deck-samples/lorraine-blademaster.png" description="Sample deck Lorraine, Blademaster EN-003 champion." max-width="400px" %}
+
+Banner Knight is also identical to that of the [Dawn of Ashes Prelude](/DOAp_(set)) version of the card.
+
+{% include image.html url="/assets/images/2022-07-07-convention-demo-deck-samples/banner-knight.png" description="Sample deck Banner Knight EN-010 ally." max-width="400px" %}
 
 ## What about the cards with blank backs?
 

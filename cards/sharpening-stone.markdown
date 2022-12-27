@@ -6,6 +6,6 @@ permalink: sharpening-stone_(card)
 incomplete: true
 ---
 
-## DEMO22 &middot; EN-007 C
+## DEMO22 &middot; EN-008 C
 
 {% include templates/sharpening-stone-demo22.html %}

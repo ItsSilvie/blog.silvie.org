@@ -6,6 +6,6 @@ permalink: tactful-sergeant_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-091 U
+## DOAp &middot; EN-097 U
 
 {% include templates/tactful-sergeant-doap.html %}

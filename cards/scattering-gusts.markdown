@@ -6,6 +6,6 @@ permalink: scattering-gusts_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-088KS R
+## DOAp &middot; EN-094KS R
 
-{% include templates/scattering-gusts-doap.html %}
+{% include templates/scattering-gusts-doap-ks.html %}

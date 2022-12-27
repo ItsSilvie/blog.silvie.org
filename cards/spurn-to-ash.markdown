@@ -6,6 +6,6 @@ permalink: spurn-to-ash_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-076 U
+## DOAp &middot; EN-082 U
 
 {% include templates/spurn-to-ash-doap.html %}

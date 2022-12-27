@@ -6,6 +6,6 @@ permalink: nimue-cursed-touch_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-044KS SR
+## DOAp &middot; EN-050KS SR
 
-{% include templates/nimue-cursed-touch-doap.html %}
+{% include templates/nimue-cursed-touch-doap-ks.html %}

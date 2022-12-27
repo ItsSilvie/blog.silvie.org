@@ -6,6 +6,6 @@ permalink: favorable-winds_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-083 C
+## DOAp &middot; EN-089 C
 
 {% include templates/favorable-winds-doap.html %}

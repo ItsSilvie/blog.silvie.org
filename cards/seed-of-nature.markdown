@@ -6,6 +6,6 @@ permalink: seed-of-nature_(card)
 incomplete: true
 ---
 
-## DOApSP &middot; EN-000 SR
+## DOAp &middot; EN-031 SR
 
-{% include templates/seed-of-nature-doapsp.html %}
+{% include templates/seed-of-nature-doap.html %}

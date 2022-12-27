@@ -6,6 +6,6 @@ permalink: disintegrate_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-063KS R
+## DOAp &middot; EN-069KS R
 
-{% include templates/disintegrate-doap.html %}
+{% include templates/disintegrate-doap-ks.html %}

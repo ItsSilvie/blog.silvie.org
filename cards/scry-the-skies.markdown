@@ -6,6 +6,6 @@ permalink: scry-the-skies_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-051 C
+## DOAp &middot; EN-057 C
 
 {% include templates/scry-the-skies-doap.html %}

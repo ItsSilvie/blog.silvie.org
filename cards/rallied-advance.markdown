@@ -6,6 +6,6 @@ permalink: rallied-advance_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-085 C
+## DOAp &middot; EN-091 C
 
 {% include templates/rallied-advance-doap.html %}

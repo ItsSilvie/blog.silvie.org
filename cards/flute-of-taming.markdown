@@ -6,6 +6,6 @@ permalink: flute-of-taming_(card)
 incomplete: true
 ---
 
-## DOApSP &middot; EN-000 R
+## DOAp &middot; EN-016 R
 
-{% include templates/flute-of-taming-doapsp.html %}
+{% include templates/flute-of-taming-doap.html %}

@@ -6,6 +6,6 @@ permalink: reckless-slash_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-048 C
+## DOAp &middot; EN-054 C
 
 {% include templates/reckless-slash-doap.html %}

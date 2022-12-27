@@ -6,6 +6,6 @@ permalink: arcanists-prism_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-024 SR
+## DOAp &middot; EN-028 SR
 
 {% include templates/arcanists-prism-doap.html %}

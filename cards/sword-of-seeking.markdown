@@ -6,6 +6,6 @@ permalink: sword-of-seeking_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-020 U
+## DOAp &middot; EN-024 U
 
 {% include templates/sword-of-seeking-doap.html %}

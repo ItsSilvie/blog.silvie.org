@@ -6,6 +6,6 @@ permalink: esteemed-knight_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-034 C
+## DOAp &middot; EN-040 C
 
 {% include templates/esteemed-knight-doap.html %}

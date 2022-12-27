@@ -6,6 +6,6 @@ permalink: crux-sight_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-102 U
+## DOAp &middot; EN-108 U
 
 {% include templates/crux-sight-doap.html %}

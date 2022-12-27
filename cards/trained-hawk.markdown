@@ -6,6 +6,6 @@ permalink: trained-hawk_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-092 C
+## DOAp &middot; EN-098 C
 
 {% include templates/trained-hawk-doap.html %}

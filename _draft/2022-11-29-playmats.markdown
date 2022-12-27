@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Official Grand Archive Playmats"
+date:   2022-11-29 21:49:00 +0100
+categories: merch
+permalink: playmats
+excerpt: The very first merchandise item revealed by the Grand Archive team was a playmat. Since then various playmat designs have been introduced. This article aims to list all of them.
+image: /assets/images/2022-11-29-playmats/cover.png
+author: james
+---
+
+{% include image.html url="/assets/images/2022-11-29-playmats/cover.png" description="Grand Archive Nimue, Cursed Touch playmat." %}
+
+## Introduction
+
+Playmats have been an integral 

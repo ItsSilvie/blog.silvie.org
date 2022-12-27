@@ -6,6 +6,6 @@ permalink: gray-wolf_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-037 C
+## DOAp &middot; EN-043 C
 
 {% include templates/gray-wolf-doap.html %}

@@ -6,6 +6,6 @@ permalink: crusader-of-aesa_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-030 C
+## DOAp &middot; EN-036 C
 
 {% include templates/crusader-of-aesa-doap.html %}

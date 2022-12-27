@@ -6,6 +6,6 @@ permalink: spirit-blade-dispersion_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-105 R
+## DOAp &middot; EN-111 R
 
 {% include templates/spirit-blade-dispersion-doap.html %}

@@ -6,6 +6,6 @@ permalink: spirit-blade-infusion_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-107 U
+## DOAp &middot; EN-113 U
 
 {% include templates/spirit-blade-infusion-doap.html %}

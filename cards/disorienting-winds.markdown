@@ -6,6 +6,6 @@ permalink: disorienting-winds_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-080 U
+## DOAp &middot; EN-086 U
 
 {% include templates/disorienting-winds-doap.html %}

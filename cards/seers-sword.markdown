@@ -6,6 +6,6 @@ permalink: seers-sword_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-018 U
+## DOAp &middot; EN-022 U
 
 {% include templates/seers-sword-doap.html %}

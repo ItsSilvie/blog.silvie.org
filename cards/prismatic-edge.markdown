@@ -6,6 +6,6 @@ permalink: prismatic-edge_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-025 SR
+## DOAp &middot; EN-029 SR
 
 {% include templates/prismatic-edge-doap.html %}

@@ -6,6 +6,6 @@ permalink: warriors-longsword_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-022 U
+## DOAp &middot; EN-026 U
 
 {% include templates/warriors-longsword-doap.html %}

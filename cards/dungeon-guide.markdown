@@ -6,6 +6,6 @@ permalink: dungeon-guide_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-032 R
+## DOAp &middot; EN-038 R
 
 {% include templates/dungeon-guide-doap.html %}

@@ -6,6 +6,6 @@ permalink: devastating-blow_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-062 U
+## DOAp &middot; EN-068 U
 
 {% include templates/devastating-blow-doap.html %}

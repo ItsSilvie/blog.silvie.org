@@ -6,6 +6,6 @@ permalink: galahad-court-knight_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-035KS SR
+## DOAp &middot; EN-041KS SR
 
-{% include templates/galahad-court-knight-doap.html %}
+{% include templates/galahad-court-knight-doap-ks.html %}

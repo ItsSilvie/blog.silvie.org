@@ -6,6 +6,6 @@ permalink: weaponsmith_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-056 C
+## DOAp &middot; EN-062 C
 
 {% include templates/weaponsmith-doap.html %}

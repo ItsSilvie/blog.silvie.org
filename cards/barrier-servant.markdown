@@ -6,6 +6,6 @@ permalink: barrier-servant_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-027 C
+## DOAp &middot; EN-033 C
 
 {% include templates/barrier-servant-doap.html %}

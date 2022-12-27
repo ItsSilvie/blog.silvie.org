@@ -6,6 +6,6 @@ permalink: ghosts-of-pendragon_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-103KS SR
+## DOAp &middot; EN-109KS SR
 
-{% include templates/ghosts-of-pendragon-doap.html %}
+{% include templates/ghosts-of-pendragon-doap-ks.html %}

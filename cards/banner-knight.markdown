@@ -6,6 +6,6 @@ permalink: banner-knight_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-026 C
+## DOAp &middot; EN-032 C
 
 {% include templates/banner-knight-doap.html %}

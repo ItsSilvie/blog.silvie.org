@@ -6,6 +6,6 @@ permalink: ornamental-greatsword_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-017 C
+## DOAp &middot; EN-021 C
 
 {% include templates/ornamental-greatsword-doap.html %}

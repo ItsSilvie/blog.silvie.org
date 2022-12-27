@@ -6,6 +6,6 @@ permalink: veteran-soldier_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-055 C
+## DOAp &middot; EN-061 C
 
 {% include templates/veteran-soldier-doap.html %}

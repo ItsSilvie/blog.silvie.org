@@ -6,6 +6,6 @@ permalink: arcane-disposition_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-097 U
+## DOAp &middot; EN-103 U
 
 {% include templates/arcane-disposition-doap.html %}

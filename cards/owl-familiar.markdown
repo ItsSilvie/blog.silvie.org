@@ -6,6 +6,6 @@ permalink: owl-familiar_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-046 C
+## DOAp &middot; EN-052 C
 
 {% include templates/owl-familiar-doap.html %}

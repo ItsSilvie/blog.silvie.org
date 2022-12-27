@@ -6,6 +6,6 @@ permalink: trusty-steed_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-054 C
+## DOAp &middot; EN-060 C
 
 {% include templates/trusty-steed-doap.html %}

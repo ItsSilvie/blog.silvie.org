@@ -6,6 +6,6 @@ permalink: blitz-mage_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-059 U
+## DOAp &middot; EN-065 U
 
 {% include templates/blitz-mage-doap.html %}

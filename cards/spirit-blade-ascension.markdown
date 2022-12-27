@@ -6,6 +6,6 @@ permalink: spirit-blade-ascension_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-104 R
+## DOAp &middot; EN-110 R
 
 {% include templates/spirit-blade-ascension-doap.html %}

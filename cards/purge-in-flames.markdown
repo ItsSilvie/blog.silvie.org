@@ -6,6 +6,6 @@ permalink: purge-in-flames_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-072 R
+## DOAp &middot; EN-078 R
 
 {% include templates/purge-in-flames-doap.html %}

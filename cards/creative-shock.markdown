@@ -6,6 +6,6 @@ permalink: creative-shock_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-060 U
+## DOAp &middot; EN-066 U
 
 {% include templates/creative-shock-doap.html %}

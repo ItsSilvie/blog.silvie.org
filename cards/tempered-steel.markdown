@@ -6,6 +6,6 @@ permalink: tempered-steel_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-077 C
+## DOAp &middot; EN-083 C
 
 {% include templates/tempered-steel-doap.html %}

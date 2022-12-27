@@ -6,6 +6,6 @@ permalink: fireball_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-065 C
+## DOAp &middot; EN-071 C
 
 {% include templates/fireball-doap.html %}

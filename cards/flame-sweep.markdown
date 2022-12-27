@@ -6,6 +6,6 @@ permalink: flame-sweep_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-067KS R
+## DOAp &middot; EN-072KS R
 
-{% include templates/flame-sweep-doap.html %}
+{% include templates/flame-sweep-doap-ks.html %}

@@ -6,6 +6,6 @@ permalink: savage-slash_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-050 C
+## DOAp &middot; EN-056 C
 
 {% include templates/savage-slash-doap.html %}

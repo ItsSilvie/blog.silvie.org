@@ -6,6 +6,6 @@ permalink: fire-resonance-bauble_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-013 U
+## DOAp &middot; EN-015 U
 
 {% include templates/fire-resonance-bauble-doap.html %}

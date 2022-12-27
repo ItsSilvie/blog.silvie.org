@@ -6,6 +6,6 @@ permalink: peer-into-mana_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-047 C
+## DOAp &middot; EN-053 C
 
 {% include templates/peer-into-mana-doap.html %}

@@ -6,6 +6,6 @@ permalink: rending-flames_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-074 U
+## DOAp &middot; EN-080 U
 
 {% include templates/rending-flames-doap.html %}

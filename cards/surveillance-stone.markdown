@@ -6,6 +6,6 @@ permalink: surveillance-stone_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-019 U
+## DOAp &middot; EN-023 U
 
 {% include templates/surveillance-stone-doap.html %}

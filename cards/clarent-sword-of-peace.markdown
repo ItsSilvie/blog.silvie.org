@@ -6,6 +6,6 @@ permalink: clarent-sword-of-peace_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-010 R
+## DOAp &middot; EN-012 R
 
 {% include templates/clarent-sword-of-peace-doap.html %}

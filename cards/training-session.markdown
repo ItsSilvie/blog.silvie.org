@@ -6,6 +6,6 @@ permalink: training-session_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-053 C
+## DOAp &middot; EN-059 C
 
 {% include templates/training-session-doap.html %}

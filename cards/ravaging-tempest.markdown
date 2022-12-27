@@ -6,6 +6,6 @@ permalink: ravaging-tempest_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-086KS R
+## DOAp &middot; EN-092KS R
 
-{% include templates/ravaging-tempest-doap.html %}
+{% include templates/ravaging-tempest-doap-ks.html %}

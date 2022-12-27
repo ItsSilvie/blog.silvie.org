@@ -6,6 +6,6 @@ permalink: endura-scepter-of-ignition_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-012 R
+## DOAp &middot; EN-014 R
 
 {% include templates/endura-scepter-of-ignition-doap.html %}

@@ -6,6 +6,6 @@ permalink: invigorated-slash_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-041 U
+## DOAp &middot; EN-047 U
 
 {% include templates/invigorated-slash-doap.html %}

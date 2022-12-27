@@ -6,6 +6,6 @@ permalink: mana-limiter_(card)
 incomplete: true
 ---
 
-## DOAp &middot; EN-015 U
+## DOAp &middot; EN-018 U
 
 {% include templates/mana-limiter-doap.html %}
