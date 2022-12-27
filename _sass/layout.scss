@@ -170,6 +170,11 @@
   a, a:visited {
     color: #2a7ae2;
   }
+
+  @media screen and (max-width: 600px) {
+    max-width: 300px;
+    text-align: center;
+  }
 }
 
 .header-nav-query {
