@@ -9,16 +9,7 @@ permalink: KSP_(set)
 
 Cards in this set are prefixed `KSP`.
 
-Number | Name | Rarity | Population
-:-- | :-- | :-- | --: |
-EN-001 | [Lorraine, Blademaster](/lorraine-blademaster_(card)#ksp--en-001-pr) | PR | 873
-EN-002 | [Lorraine, Crux Knight](/lorraine-crux-knight_(card)#ksp--en-002-pr) | PR | ≥ 2,358
-EN-003 | [Rai, Storm Seer](/rai-storm-seer_(card)#ksp--en-003-pr) | PR | ≥ 2,358
-EN-004 | [Arcanist's Prism](/arcanists-prism_(card)#ksp--en-004-pr) | PR | 1,539
-EN-005 | [Clarent, Sword of Peace](/clarent-sword-of-peace_(card)#ksp--en-005-pr) | PR | 1,539
-EN-006 | [Endura, Scepter of Ignition](/endura-scepter-of-ignition_(card)#ksp--en-006-pr) | PR | 1,539
-EN-007 | [Prismatic Edge](/prismatic-edge_(card)#ksp--en-007-pr) | PR | 1,539
-EN-008 | [Library Witch](/library-witch_(card)#ksp--en-008-pr) | PR | 1,539
+{% include templates/KSP.html %}
 
 ## History
 

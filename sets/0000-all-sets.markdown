@@ -12,23 +12,23 @@ excerpt: View all Grand Archive TCG sets here.
 
 Prefix | Name | Release
 :-- | :-- | :--
-DOAp | [Dawn of Ashes Prelude](/DOAp_(set)) | TBD September 2022
-DOA | <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> | TBD September 2022
-TBD | <span class="dead-link">[Dawn of Ashes Alter Edition](/TBD_(set))</span> | TBD January 2023
+DOAp | [Dawn of Ashes Prelude](/DOAp_(set)) | January 2023
+DOA 1st | [Dawn of Ashes First Edition](/DOA_1st_(set)) | January 2023
+DOA Alter | <span class="dead-link">[Dawn of Ashes Alter Edition](/DOA_Alter_(set))</span> | April 2023
 
 ## Decks
 
 Prefix | Name | Release
 :-- | :-- | :--
-DEMO22 | [<img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" /><br>LGS Demo Deck](/DEMO22_(set)) | TBD September 2022*
-DOAp | [<img class="image-element" src="https://img.silvie.org/misc/elements/wind.png" /> <img class="image-element" src="https://img.silvie.org/misc/elements/crux.png" /><br>Lorraine Starter Deck (DOAp)](/DOAp_(set)#lorraine-starter-deck-prelude) | TBD September 2022
-DOAp | [<img class="image-element" src="https://img.silvie.org/misc/elements/fire.png" /> <img class="image-element" src="https://img.silvie.org/misc/elements/arcane.png" /><br>Rai Starter Deck (DOAp)](/DOAp_(set)#rai-starter-deck-prelude) | TBD September 2022
+DEMO22 | [<img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" /><br>LGS Demo Deck](/DEMO22_(set)) | January 2023*
+DOAp | [<img class="image-element" src="https://img.silvie.org/misc/elements/wind.png" /> <img class="image-element" src="https://img.silvie.org/misc/elements/crux.png" /><br>Lorraine Starter Deck (DOAp)](/DOAp_(set)#lorraine-starter-deck-prelude) | January 2023
+DOAp | [<img class="image-element" src="https://img.silvie.org/misc/elements/fire.png" /> <img class="image-element" src="https://img.silvie.org/misc/elements/arcane.png" /><br>Rai Starter Deck (DOAp)](/DOAp_(set)#rai-starter-deck-prelude) | January 2023
 
-\* Thicker card stock samples were distributed [from May 2022](/DEMO22_(set)#thicker-card-stock-samples), but these are not tournament legal and are not the same card stock local game stores and distributors are set to receive.
+\* Thicker card stock samples were distributed [between May and August 2022](/DEMO22_(set)#thicker-card-stock-samples), but these were not tournament legal and were not printed on the same card stock local game stores and distributors received in December 2022.
 
 ## Promo sets
 
 Prefix | Name | Release
 :-- | :-- | :--
-P22 | <span class="dead-link">[Promo 2022]()</span> | July 2022 &ndash; Present
-KSP | [Kickstarter Promo](/KSP_(set)) | TBD September 2022
+P22 | [Promotional 2022](/P22_(set))| July 2022 &ndash; TBD 2023
+KSP | [Kickstarter Promo](/KSP_(set)) | January 2023
