@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Windrider Mage (card)"
-date:   "2022-12-29T21:47:36.977Z"
+date:   "2022-12-26T06:00:00.000Z"
 permalink: windrider-mage_(card)
 ---
 

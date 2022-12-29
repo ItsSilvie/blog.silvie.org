@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Rai, Mana Weaver (card)"
-date:   "2022-12-29T21:47:36.831Z"
+date:   "2022-12-26T06:00:00.000Z"
 permalink: rai-mana-weaver_(card)
 ---
 

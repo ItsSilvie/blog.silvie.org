@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Orb of Glitter (card)"
-date:   "2022-12-29T21:47:36.082Z"
+date:   "2022-12-26T06:00:00.000Z"
 permalink: orb-of-glitter_(card)
 ---
 

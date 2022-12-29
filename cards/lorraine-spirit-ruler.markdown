@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Lorraine, Spirit Ruler (card)"
-date:   "2022-12-29T21:47:36.817Z"
+date:   "2022-12-26T06:00:00.000Z"
 permalink: lorraine-spirit-ruler_(card)
 ---
 

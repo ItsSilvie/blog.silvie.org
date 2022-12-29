@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Rebellious Bull (card)"
-date:   "2022-12-29T21:47:36.290Z"
+date:   "2022-12-29T22:57:30.129Z"
 permalink: rebellious-bull_(card)
 ---
 

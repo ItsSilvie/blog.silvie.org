@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Impassioned Tutor (card)"
-date:   "2022-12-29T21:47:36.116Z"
+date:   "2022-12-26T06:00:00.000Z"
 permalink: impassioned-tutor_(card)
 ---
 

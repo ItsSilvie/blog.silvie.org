@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Frozen Nova (card)"
-date:   "2022-12-29T21:47:36.950Z"
+date:   "2022-12-26T06:00:00.000Z"
 permalink: frozen-nova_(card)
 ---
 

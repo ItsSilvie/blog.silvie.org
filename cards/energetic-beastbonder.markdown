@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Energetic Beastbonder (card)"
-date:   "2022-12-29T21:47:36.292Z"
+date:   "2022-12-29T22:57:30.156Z"
 permalink: energetic-beastbonder_(card)
 ---
 

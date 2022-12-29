@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Embertail Squirrel (card)"
-date:   "2022-12-29T21:47:36.292Z"
+date:   "2022-12-29T22:57:30.154Z"
 permalink: embertail-squirrel_(card)
 ---
 

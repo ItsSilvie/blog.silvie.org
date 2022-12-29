@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Menagerie Beastbonder (card)"
-date:   "2022-12-29T21:47:36.294Z"
+date:   "2022-12-29T22:57:30.162Z"
 permalink: menagerie-beastbonder_(card)
 ---
 

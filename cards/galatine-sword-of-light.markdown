@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Galatine, Sword of Sunlight (card)"
-date:   "2022-12-29T21:47:36.876Z"
+date:   "2022-12-26T06:00:00.000Z"
 permalink: galatine-sword-of-light_(card)
 ---
 

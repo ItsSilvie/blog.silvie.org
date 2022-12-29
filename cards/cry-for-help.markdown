@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Cry for Help (card)"
-date:   "2022-12-29T21:47:36.293Z"
+date:   "2022-12-29T22:57:30.161Z"
 permalink: cry-for-help_(card)
 ---
 

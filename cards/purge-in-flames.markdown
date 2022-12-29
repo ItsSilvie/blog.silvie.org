@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Purge in Flames (card)"
-date:   "2022-12-29T21:47:36.118Z"
+date:   "2022-12-26T06:00:00.000Z"
 permalink: purge-in-flames_(card)
 ---
 

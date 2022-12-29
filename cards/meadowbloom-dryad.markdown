@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Meadowbloom Dryad (card)"
-date:   "2022-12-29T21:47:36.298Z"
+date:   "2022-12-29T22:57:30.170Z"
 permalink: meadowbloom-dryad_(card)
 ---
 

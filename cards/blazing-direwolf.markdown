@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Blazing Direwolf (card)"
-date:   "2022-12-29T21:47:36.291Z"
+date:   "2022-12-29T22:57:30.142Z"
 permalink: blazing-direwolf_(card)
 ---
 

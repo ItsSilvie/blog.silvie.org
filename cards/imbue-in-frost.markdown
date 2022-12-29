@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Imbue in Frost (card)"
-date:   "2022-12-29T21:47:36.951Z"
+date:   "2022-12-26T06:00:00.000Z"
 permalink: imbue-in-frost_(card)
 ---
 

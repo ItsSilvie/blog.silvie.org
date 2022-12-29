@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Gray Wolf (card)"
-date:   "2022-12-29T21:47:36.100Z"
+date:   "2022-12-26T06:00:00.000Z"
 permalink: gray-wolf_(card)
 ---
 
