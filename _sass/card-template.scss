@@ -66,9 +66,28 @@
     align-items: center;
     column-gap: 8px;
     display: flex;
+    flex-wrap: wrap;
+    row-gap: 4px;
+
+    .name-wrapper {
+      flex: 1 1 100%;
+      order: 100;
+    }
 
     .image-element {
       vertical-align: top;
+    }
+
+    @media screen and (min-width: 768px) {
+      flex-wrap: unset;
+
+      .name-wrapper {
+        flex: 1 1 auto;
+      }
+
+      .card-rarity-label {
+        flex: 0 0 30px;
+      }
     }
   }
 }
