@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Wind Resonance Bauble (trading card)"
-date:   2022-06-25 08:44:00 +0100
+date:   "2022-12-29T10:21:13.275Z"
 permalink: wind-resonance-bauble_(card)
 incomplete: true
 ---

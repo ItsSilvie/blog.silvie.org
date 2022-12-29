@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Arcanist's Prism (trading card)"
-date:   2022-06-25 08:44:00 +0100
+date:   "2022-12-29T10:21:13.279Z"
 permalink: arcanists-prism_(card)
 incomplete: true
 ---

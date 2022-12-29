@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Strategic Planning (trading card)"
-date:   2022-06-25 08:44:00 +0100
+date:   "2022-12-29T10:21:14.498Z"
 permalink: strategic-planning_(card)
 incomplete: true
 ---

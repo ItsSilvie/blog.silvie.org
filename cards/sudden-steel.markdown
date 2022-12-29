@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Sudden Steel (trading card)"
-date:   2022-06-25 08:44:00 +0100
+date:   "2022-12-29T10:21:13.444Z"
 permalink: sudden-steel_(card)
 incomplete: true
 ---

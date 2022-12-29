@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Chilling Touch (trading card)"
-date:   2022-06-25 08:44:00 +0100
+date:   "2022-12-29T10:21:14.521Z"
 permalink: chilling-touch_(card)
 incomplete: true
 ---

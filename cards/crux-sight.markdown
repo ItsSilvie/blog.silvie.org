@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Crux Sight (trading card)"
-date:   2022-06-25 08:44:00 +0100
+date:   "2022-12-29T10:21:13.666Z"
 permalink: crux-sight_(card)
 incomplete: true
 ---

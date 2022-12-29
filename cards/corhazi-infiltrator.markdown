@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Corhazi Infiltrator (trading card)"
-date:   2022-06-25 08:44:00 +0100
+date:   "2022-12-29T10:21:14.568Z"
 permalink: corhazi-infiltrator_(card)
 incomplete: true
 ---

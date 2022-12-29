@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Careful Study (trading card)"
-date:   2022-06-25 08:44:00 +0100
+date:   "2022-12-29T10:21:13.307Z"
 permalink: careful-study_(card)
 incomplete: true
 ---

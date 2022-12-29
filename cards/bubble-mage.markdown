@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Bubble Mage (trading card)"
-date:   2022-06-25 08:44:00 +0100
+date:   "2022-12-29T10:21:13.800Z"
 permalink: bubble-mage_(card)
 incomplete: true
 ---

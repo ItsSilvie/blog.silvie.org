@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Command the Hunt (trading card)"
-date:   2022-06-25 08:44:00 +0100
+date:   "2022-12-29T10:21:14.572Z"
 permalink: command-the-hunt_(card)
 incomplete: true
 ---

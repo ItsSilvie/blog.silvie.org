@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Majestic Spirit's Crest (trading card)"
-date:   2022-06-25 08:44:00 +0100
+date:   "2022-12-29T10:21:14.479Z"
 permalink: majestic-spirits-crest_(card)
 incomplete: true
 ---
