@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Clean Cut (card)"
-date:   "2022-12-29T21:27:37.538Z"
+date:   "2022-12-29T21:47:36.895Z"
 permalink: clean-cut_(card)
 ---
 

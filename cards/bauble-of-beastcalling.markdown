@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Horn of Beastcalling (card)"
-date:   "2022-12-29T21:27:36.841Z"
+date:   "2022-12-29T21:47:36.289Z"
 permalink: bauble-of-beastcalling_(card)
 ---
 

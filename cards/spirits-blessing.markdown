@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Spirit's Blessing (card)"
-date:   "2022-12-29T21:27:36.702Z"
+date:   "2022-12-29T21:47:36.160Z"
 permalink: spirits-blessing_(card)
 ---
 

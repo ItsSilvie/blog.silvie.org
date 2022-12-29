@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Seer's Sword (card)"
-date:   "2022-12-29T21:27:36.610Z"
+date:   "2022-12-29T21:47:36.083Z"
 permalink: seers-sword_(card)
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Dungeon Guide (card)"
-date:   "2022-12-29T21:27:36.619Z"
+date:   "2022-12-29T21:47:36.090Z"
 permalink: dungeon-guide_(card)
 ---
 

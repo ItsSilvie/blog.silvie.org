@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Arima, Gaia's Wings (card)"
-date:   "2022-12-29T21:27:36.851Z"
+date:   "2022-12-29T21:47:36.297Z"
 permalink: arima-gaias-wings_(card)
 ---
 

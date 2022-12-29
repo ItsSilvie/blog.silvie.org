@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Scry the Skies (card)"
-date:   "2022-12-29T21:27:36.650Z"
+date:   "2022-12-29T21:47:36.108Z"
 permalink: scry-the-skies_(card)
 ---
 

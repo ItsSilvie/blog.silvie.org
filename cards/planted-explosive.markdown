@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Planted Explosive (card)"
-date:   "2022-12-29T21:27:37.576Z"
+date:   "2022-12-29T21:47:36.929Z"
 permalink: planted-explosive_(card)
 ---
 

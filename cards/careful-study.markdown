@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Careful Study (card)"
-date:   "2022-12-29T21:27:36.616Z"
+date:   "2022-12-29T21:47:36.089Z"
 permalink: careful-study_(card)
 ---
 

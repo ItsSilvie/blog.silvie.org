@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Opening Cut (card)"
-date:   "2022-12-29T21:27:36.648Z"
+date:   "2022-12-29T21:47:36.105Z"
 permalink: opening-cut_(card)
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Training Session (card)"
-date:   "2022-12-29T21:27:36.651Z"
+date:   "2022-12-29T21:47:36.109Z"
 permalink: training-session_(card)
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Hymn of Gaia's Grace (card)"
-date:   "2022-12-29T21:27:37.656Z"
+date:   "2022-12-29T21:47:37.001Z"
 permalink: hymn-of-gaias-grace_(card)
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Weaponsmith (card)"
-date:   "2022-12-29T21:27:36.652Z"
+date:   "2022-12-29T21:47:36.111Z"
 permalink: weaponsmith_(card)
 ---
 

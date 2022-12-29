@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Arthur, Young Heir (card)"
-date:   "2022-12-29T21:27:37.564Z"
+date:   "2022-12-29T21:47:36.915Z"
 permalink: arthur-young-heir_(card)
 ---
 

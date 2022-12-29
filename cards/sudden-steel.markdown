@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Sudden Steel (card)"
-date:   "2022-12-29T21:27:36.651Z"
+date:   "2022-12-29T21:47:36.109Z"
 permalink: sudden-steel_(card)
 ---
 

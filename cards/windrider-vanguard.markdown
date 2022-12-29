@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Windrider Vanguard (card)"
-date:   "2022-12-29T21:27:37.633Z"
+date:   "2022-12-29T21:47:36.978Z"
 permalink: windrider-vanguard_(card)
 ---
 

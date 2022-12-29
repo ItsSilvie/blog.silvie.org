@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Hasty Messenger (card)"
-date:   "2022-12-29T21:27:37.573Z"
+date:   "2022-12-29T21:47:36.924Z"
 permalink: hasty-messenger_(card)
 ---
 

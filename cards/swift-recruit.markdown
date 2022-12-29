@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Swift Recruit (card)"
-date:   "2022-12-29T21:27:36.675Z"
+date:   "2022-12-29T21:47:36.133Z"
 permalink: swift-recruit_(card)
 ---
 

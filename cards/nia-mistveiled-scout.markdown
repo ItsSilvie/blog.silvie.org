@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Nia, Mistveiled Scout (card)"
-date:   "2022-12-29T21:27:37.600Z"
+date:   "2022-12-29T21:47:36.955Z"
 permalink: nia-mistveiled-scout_(card)
 ---
 

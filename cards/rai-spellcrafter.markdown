@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Rai, Spellcrafter (card)"
-date:   "2022-12-29T21:27:36.604Z"
+date:   "2022-12-29T21:47:36.077Z"
 permalink: rai-spellcrafter_(card)
 ---
 

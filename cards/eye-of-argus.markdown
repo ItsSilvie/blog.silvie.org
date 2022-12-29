@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Eye of Argus (card)"
-date:   "2022-12-29T21:27:37.517Z"
+date:   "2022-12-29T21:47:36.874Z"
 permalink: eye-of-argus_(card)
 ---
 

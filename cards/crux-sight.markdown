@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Crux Sight (card)"
-date:   "2022-12-29T21:27:36.687Z"
+date:   "2022-12-29T21:47:36.144Z"
 permalink: crux-sight_(card)
 ---
 

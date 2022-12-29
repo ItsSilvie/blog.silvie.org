@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Fiery Momentum (card)"
-date:   "2022-12-29T21:27:36.656Z"
+date:   "2022-12-29T21:47:36.113Z"
 permalink: fiery-momentum_(card)
 ---
 

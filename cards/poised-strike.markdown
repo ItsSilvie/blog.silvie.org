@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Poised Strike (card)"
-date:   "2022-12-29T21:27:37.627Z"
+date:   "2022-12-29T21:47:36.970Z"
 permalink: poised-strike_(card)
 ---
 

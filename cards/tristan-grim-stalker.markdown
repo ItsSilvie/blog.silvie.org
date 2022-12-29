@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Tristan, Grim Stalker (card)"
-date:   "2022-12-29T21:27:37.511Z"
+date:   "2022-12-29T21:47:36.866Z"
 permalink: tristan-grim-stalker_(card)
 ---
 

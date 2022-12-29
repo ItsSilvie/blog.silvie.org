@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Curved Dagger (card)"
-date:   "2022-12-29T21:27:37.516Z"
+date:   "2022-12-29T21:47:36.872Z"
 permalink: curved-dagger_(card)
 ---
 

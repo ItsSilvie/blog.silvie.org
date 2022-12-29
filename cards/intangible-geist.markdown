@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Intangible Geist (card)"
-date:   "2022-12-29T21:27:37.645Z"
+date:   "2022-12-29T21:47:36.985Z"
 permalink: intangible-geist_(card)
 ---
 

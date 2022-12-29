@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Arcane Elemental (card)"
-date:   "2022-12-29T21:27:37.642Z"
+date:   "2022-12-29T21:47:36.981Z"
 permalink: arcane-elemental_(card)
 ---
 

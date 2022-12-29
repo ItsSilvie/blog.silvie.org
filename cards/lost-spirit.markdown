@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Lost Spirit (card)"
-date:   "2022-12-29T21:27:36.731Z"
+date:   "2022-12-29T21:47:36.194Z"
 permalink: lost-spirit_(card)
 ---
 

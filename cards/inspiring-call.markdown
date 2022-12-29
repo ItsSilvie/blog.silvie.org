@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Inspiring Call (card)"
-date:   "2022-12-29T21:27:36.645Z"
+date:   "2022-12-29T21:47:36.104Z"
 permalink: inspiring-call_(card)
 ---
 

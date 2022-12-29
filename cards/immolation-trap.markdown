@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Immolation Trap (card)"
-date:   "2022-12-29T21:27:37.574Z"
+date:   "2022-12-29T21:47:36.925Z"
 permalink: immolation-trap_(card)
 ---
 

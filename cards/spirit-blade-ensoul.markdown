@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Spirit Blade: Ensoul (card)"
-date:   "2022-12-29T21:27:37.647Z"
+date:   "2022-12-29T21:47:36.986Z"
 permalink: spirit-blade-ensoul_(card)
 ---
 

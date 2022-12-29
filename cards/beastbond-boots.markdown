@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Beastbond Boots (card)"
-date:   "2022-12-29T21:27:36.837Z"
+date:   "2022-12-29T21:47:36.287Z"
 permalink: beastbond-boots_(card)
 ---
 

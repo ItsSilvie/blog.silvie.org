@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Mistbound Cutthroat (card)"
-date:   "2022-12-29T21:27:37.599Z"
+date:   "2022-12-29T21:47:36.954Z"
 permalink: mistbound-cutthroat_(card)
 ---
 

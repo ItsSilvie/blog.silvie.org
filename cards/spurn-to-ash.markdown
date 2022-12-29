@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Spurn to Ash (card)"
-date:   "2022-12-29T21:27:36.668Z"
+date:   "2022-12-29T21:47:36.128Z"
 permalink: spurn-to-ash_(card)
 ---
 

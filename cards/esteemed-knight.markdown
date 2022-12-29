@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Esteemed Knight (card)"
-date:   "2022-12-29T21:27:36.642Z"
+date:   "2022-12-29T21:47:36.098Z"
 permalink: esteemed-knight_(card)
 ---
 

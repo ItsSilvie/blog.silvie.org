@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Crusader of Aesa (card)"
-date:   "2022-12-29T21:27:36.618Z"
+date:   "2022-12-29T21:47:36.089Z"
 permalink: crusader-of-aesa_(card)
 ---
 

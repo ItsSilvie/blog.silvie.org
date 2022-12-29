@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Enraged Boars (card)"
-date:   "2022-12-29T21:27:36.642Z"
+date:   "2022-12-29T21:47:36.097Z"
 permalink: enraged-boars_(card)
 ---
 

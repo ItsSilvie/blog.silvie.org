@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Set the Traps (card)"
-date:   "2022-12-29T21:27:37.605Z"
+date:   "2022-12-29T21:47:36.957Z"
 permalink: set-the-traps_(card)
 ---
 

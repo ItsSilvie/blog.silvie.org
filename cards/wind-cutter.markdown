@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Wind Cutter (card)"
-date:   "2022-12-29T21:27:36.676Z"
+date:   "2022-12-29T21:47:36.135Z"
 permalink: wind-cutter_(card)
 ---
 

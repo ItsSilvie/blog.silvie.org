@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Arrow Trap (card)"
-date:   "2022-12-29T21:27:37.618Z"
+date:   "2022-12-29T21:47:36.962Z"
 permalink: arrow-trap_(card)
 ---
 

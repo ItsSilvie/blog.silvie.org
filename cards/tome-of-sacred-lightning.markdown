@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Tome of Sacred Lightning (card)"
-date:   "2022-12-29T21:27:37.533Z"
+date:   "2022-12-29T21:47:36.887Z"
 permalink: tome-of-sacred-lightning_(card)
 ---
 

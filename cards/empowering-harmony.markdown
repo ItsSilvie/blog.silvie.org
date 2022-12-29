@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Empowering Harmony (card)"
-date:   "2022-12-29T21:27:37.542Z"
+date:   "2022-12-29T21:47:36.899Z"
 permalink: empowering-harmony_(card)
 ---
 

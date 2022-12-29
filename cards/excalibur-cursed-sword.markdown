@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Excalibur, Cursed Sword (card)"
-date:   "2022-12-29T21:27:37.517Z"
+date:   "2022-12-29T21:47:36.873Z"
 permalink: excalibur-cursed-sword_(card)
 ---
 

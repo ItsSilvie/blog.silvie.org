@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Erratic Bolt (card)"
-date:   "2022-12-29T21:27:37.643Z"
+date:   "2022-12-29T21:47:36.983Z"
 permalink: erratic-bolt_(card)
 ---
 

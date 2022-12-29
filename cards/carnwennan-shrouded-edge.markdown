@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Carnwennan, Shrouded Edge (card)"
-date:   "2022-12-29T21:27:37.534Z"
+date:   "2022-12-29T21:47:36.888Z"
 permalink: carnwennan-shrouded-edge_(card)
 ---
 

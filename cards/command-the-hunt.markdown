@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Command the Hunt (card)"
-date:   "2022-12-29T21:27:37.656Z"
+date:   "2022-12-29T21:47:37.000Z"
 permalink: command-the-hunt_(card)
 ---
 

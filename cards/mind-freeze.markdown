@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Mind Freeze (card)"
-date:   "2022-12-29T21:27:37.598Z"
+date:   "2022-12-29T21:47:36.953Z"
 permalink: mind-freeze_(card)
 ---
 

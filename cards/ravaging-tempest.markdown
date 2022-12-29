@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Ravaging Tempest (card)"
-date:   "2022-12-29T21:27:36.674Z"
+date:   "2022-12-29T21:47:36.132Z"
 permalink: ravaging-tempest_(card)
 ---
 

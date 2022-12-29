@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Orb of Regret (card)"
-date:   "2022-12-29T21:27:36.840Z"
+date:   "2022-12-29T21:47:36.289Z"
 permalink: orb-of-regret_(card)
 ---
 

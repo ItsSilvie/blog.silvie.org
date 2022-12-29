@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Idle Thoughts (card)"
-date:   "2022-12-29T21:27:36.644Z"
+date:   "2022-12-29T21:47:36.103Z"
 permalink: idle-thoughts_(card)
 ---
 

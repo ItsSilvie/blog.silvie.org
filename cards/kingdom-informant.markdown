@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Kingdom Informant (card)"
-date:   "2022-12-29T21:27:36.758Z"
+date:   "2022-12-29T21:47:36.236Z"
 permalink: kingdom-informant_(card)
 ---
 

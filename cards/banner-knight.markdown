@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Banner Knight (card)"
-date:   "2022-12-29T21:27:36.615Z"
+date:   "2022-12-29T21:47:36.088Z"
 permalink: banner-knight_(card)
 ---
 

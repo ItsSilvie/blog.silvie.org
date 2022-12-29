@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Triskit, Guidance Angel (card)"
-date:   "2022-12-29T21:27:37.653Z"
+date:   "2022-12-29T21:47:36.998Z"
 permalink: triskit-guidance-angel_(card)
 ---
 

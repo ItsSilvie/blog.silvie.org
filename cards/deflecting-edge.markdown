@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Deflecting Edge (card)"
-date:   "2022-12-29T21:27:36.618Z"
+date:   "2022-12-29T21:47:36.090Z"
 permalink: deflecting-edge_(card)
 ---
 

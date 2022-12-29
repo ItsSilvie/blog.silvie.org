@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Invoke Dominance (card)"
-date:   "2022-12-29T21:27:36.854Z"
+date:   "2022-12-29T21:47:36.297Z"
 permalink: invoke-dominance_(card)
 ---
 

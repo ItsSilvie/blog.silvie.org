@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Orb of Choking Fumes (card)"
-date:   "2022-12-29T21:27:36.609Z"
+date:   "2022-12-29T21:47:36.082Z"
 permalink: orb-of-choking-fumes_(card)
 ---
 

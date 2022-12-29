@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Dewdrop Hares (card)"
-date:   "2022-12-29T21:27:37.591Z"
+date:   "2022-12-29T21:47:36.948Z"
 permalink: dewdrop-hares_(card)
 ---
 

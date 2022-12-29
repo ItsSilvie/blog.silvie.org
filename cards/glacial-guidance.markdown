@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Glacial Guidance (card)"
-date:   "2022-12-29T21:27:37.596Z"
+date:   "2022-12-29T21:47:36.951Z"
 permalink: glacial-guidance_(card)
 ---
 

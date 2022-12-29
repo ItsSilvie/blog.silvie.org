@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Arcane Sight (card)"
-date:   "2022-12-29T21:27:36.678Z"
+date:   "2022-12-29T21:47:36.137Z"
 permalink: arcane-sight_(card)
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Ghosts of Pendragon (card)"
-date:   "2022-12-29T21:27:36.688Z"
+date:   "2022-12-29T21:47:36.144Z"
 permalink: ghosts-of-pendragon_(card)
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Aesan Protector (card)"
-date:   "2022-12-29T21:27:36.671Z"
+date:   "2022-12-29T21:47:36.129Z"
 permalink: aesan-protector_(card)
 ---
 

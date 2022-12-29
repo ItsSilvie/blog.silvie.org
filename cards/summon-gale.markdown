@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Summon Gale (card)"
-date:   "2022-12-29T21:27:37.630Z"
+date:   "2022-12-29T21:47:36.973Z"
 permalink: summon-gale_(card)
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Trained Hawk (card)"
-date:   "2022-12-29T21:27:36.676Z"
+date:   "2022-12-29T21:47:36.134Z"
 permalink: trained-hawk_(card)
 ---
 

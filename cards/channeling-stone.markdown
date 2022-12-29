@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Channeling Stone (card)"
-date:   "2022-12-29T21:27:37.515Z"
+date:   "2022-12-29T21:47:36.870Z"
 permalink: channeling-stone_(card)
 ---
 

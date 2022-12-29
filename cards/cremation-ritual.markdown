@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Cremation Ritual (card)"
-date:   "2022-12-29T21:27:36.655Z"
+date:   "2022-12-29T21:47:36.112Z"
 permalink: cremation-ritual_(card)
 ---
 

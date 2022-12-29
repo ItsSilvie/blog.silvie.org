@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Scattering Gusts (card)"
-date:   "2022-12-29T21:27:36.674Z"
+date:   "2022-12-29T21:47:36.132Z"
 permalink: scattering-gusts_(card)
 ---
 

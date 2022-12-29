@@ -61,6 +61,38 @@
   }
 }
 
+.set-list {
+  &-card-name {
+    align-items: center;
+    column-gap: 8px;
+    display: flex;
+
+    .image-element {
+      vertical-align: top;
+    }
+  }
+}
+
+.card-cost {
+  align-items: center;
+  border: 1px solid #9d9d9d;
+  border-radius: 100%;
+  box-sizing: border-box;
+  display: inline-flex;
+  justify-content: center;
+  height: 24px;
+  vertical-align: -1px;
+  width: 24px;
+
+  &-memory {
+    background: #a9e8f4;
+  }
+
+  &-reserve {
+    background: #f1df76;
+  }
+}
+
 .card-rarity-label {
   font-weight: bold;
 

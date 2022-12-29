@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Flamelash Subduer (card)"
-date:   "2022-12-29T21:27:37.572Z"
+date:   "2022-12-29T21:47:36.923Z"
 permalink: flamelash-subduer_(card)
 ---
 

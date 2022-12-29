@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Ensnaring Fumes (card)"
-date:   "2022-12-29T21:27:37.623Z"
+date:   "2022-12-29T21:47:36.967Z"
 permalink: ensnaring-fumes_(card)
 ---
 

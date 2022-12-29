@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Intrepid Highwayman (card)"
-date:   "2022-12-29T21:27:37.597Z"
+date:   "2022-12-29T21:47:36.952Z"
 permalink: intrepid-highwayman_(card)
 ---
 

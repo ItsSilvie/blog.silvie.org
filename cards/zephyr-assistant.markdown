@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Zephyr Assistant (card)"
-date:   "2022-12-29T21:27:37.636Z"
+date:   "2022-12-29T21:47:36.979Z"
 permalink: zephyr-assistant_(card)
 ---
 

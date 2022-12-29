@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Attune with the Winds (card)"
-date:   "2022-12-29T21:27:36.849Z"
+date:   "2022-12-29T21:47:36.293Z"
 permalink: attune-with-the-winds_(card)
 ---
 

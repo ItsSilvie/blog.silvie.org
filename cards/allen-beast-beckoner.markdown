@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Allen, Beast Beckoner (card)"
-date:   "2022-12-29T21:27:37.510Z"
+date:   "2022-12-29T21:47:36.865Z"
 permalink: allen-beast-beckoner_(card)
 ---
 

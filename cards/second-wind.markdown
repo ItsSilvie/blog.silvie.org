@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Second Wind (card)"
-date:   "2022-12-29T21:27:36.675Z"
+date:   "2022-12-29T21:47:36.133Z"
 permalink: second-wind_(card)
 ---
 

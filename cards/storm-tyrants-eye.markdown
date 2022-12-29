@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Storm Tyrant's Eye (card)"
-date:   "2022-12-29T21:27:37.532Z"
+date:   "2022-12-29T21:47:36.886Z"
 permalink: storm-tyrants-eye_(card)
 ---
 

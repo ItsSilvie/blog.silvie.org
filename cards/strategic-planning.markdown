@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Strategic Planning (card)"
-date:   "2022-12-29T21:27:37.557Z"
+date:   "2022-12-29T21:47:36.912Z"
 permalink: strategic-planning_(card)
 ---
 

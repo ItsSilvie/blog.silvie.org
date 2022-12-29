@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Invigorated Slash (card)"
-date:   "2022-12-29T21:27:36.646Z"
+date:   "2022-12-29T21:47:36.104Z"
 permalink: invigorated-slash_(card)
 ---
 

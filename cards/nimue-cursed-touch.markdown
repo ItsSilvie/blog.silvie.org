@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Nimue, Cursed Touch (card)"
-date:   "2022-12-29T21:27:36.647Z"
+date:   "2022-12-29T21:47:36.105Z"
 permalink: nimue-cursed-touch_(card)
 ---
 

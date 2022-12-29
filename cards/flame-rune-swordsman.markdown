@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Flame-Rune Swordsman (card)"
-date:   "2022-12-29T21:27:36.657Z"
+date:   "2022-12-29T21:47:36.114Z"
 permalink: flame-rune-swordsman_(card)
 ---
 

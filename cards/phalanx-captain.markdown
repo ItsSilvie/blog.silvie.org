@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Phalanx Captain (card)"
-date:   "2022-12-29T21:27:37.626Z"
+date:   "2022-12-29T21:47:36.969Z"
 permalink: phalanx-captain_(card)
 ---
 

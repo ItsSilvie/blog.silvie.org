@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Snow Fairy (card)"
-date:   "2022-12-29T21:27:37.609Z"
+date:   "2022-12-29T21:47:36.959Z"
 permalink: snow-fairy_(card)
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Camelot, Impenetrable (card)"
-date:   "2022-12-29T21:27:37.620Z"
+date:   "2022-12-29T21:47:36.964Z"
 permalink: camelot-impenetrable_(card)
 ---
 

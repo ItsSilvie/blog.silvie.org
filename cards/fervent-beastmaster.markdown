@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Fervent Beastmaster (card)"
-date:   "2022-12-29T21:27:37.543Z"
+date:   "2022-12-29T21:47:36.901Z"
 permalink: fervent-beastmaster_(card)
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Thousand Refractions (card)"
-date:   "2022-12-29T21:27:37.652Z"
+date:   "2022-12-29T21:47:36.997Z"
 permalink: thousand-refractions_(card)
 ---
 

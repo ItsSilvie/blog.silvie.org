@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Devastating Blow (card)"
-date:   "2022-12-29T21:27:36.655Z"
+date:   "2022-12-29T21:47:36.113Z"
 permalink: devastating-blow_(card)
 ---
 

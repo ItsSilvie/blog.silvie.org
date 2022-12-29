@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Flute of Taming (card)"
-date:   "2022-12-29T21:27:36.607Z"
+date:   "2022-12-29T21:47:36.081Z"
 permalink: flute-of-taming_(card)
 ---
 

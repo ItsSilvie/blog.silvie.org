@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Blue Slime (card)"
-date:   "2022-12-29T21:27:37.590Z"
+date:   "2022-12-29T21:47:36.946Z"
 permalink: blue-slime_(card)
 ---
 

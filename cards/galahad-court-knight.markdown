@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Galahad, Court Knight (card)"
-date:   "2022-12-29T21:27:36.643Z"
+date:   "2022-12-29T21:47:36.099Z"
 permalink: galahad-court-knight_(card)
 ---
 

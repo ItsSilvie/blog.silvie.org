@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Arcane Disposition (card)"
-date:   "2022-12-29T21:27:36.677Z"
+date:   "2022-12-29T21:47:36.137Z"
 permalink: arcane-disposition_(card)
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Peer into Mana (card)"
-date:   "2022-12-29T21:27:36.649Z"
+date:   "2022-12-29T21:47:36.107Z"
 permalink: peer-into-mana_(card)
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Tera Sight (card)"
-date:   "2022-12-29T21:27:36.855Z"
+date:   "2022-12-29T21:47:36.298Z"
 permalink: tera-sight_(card)
 ---
 

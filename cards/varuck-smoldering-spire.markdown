@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Varuck, Smoldering Spire (card)"
-date:   "2022-12-29T21:27:37.587Z"
+date:   "2022-12-29T21:47:36.944Z"
 permalink: varuck-smoldering-spire_(card)
 ---
 

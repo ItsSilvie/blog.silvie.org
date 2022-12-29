@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Ornamental Greatsword (card)"
-date:   "2022-12-29T21:27:36.610Z"
+date:   "2022-12-29T21:47:36.083Z"
 permalink: ornamental-greatsword_(card)
 ---
 

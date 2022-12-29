@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Harness Mana (card)"
-date:   "2022-12-29T21:27:37.545Z"
+date:   "2022-12-29T21:47:36.902Z"
 permalink: harness-mana_(card)
 ---
 

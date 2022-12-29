@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Excalibur, Cleansing Light (card)"
-date:   "2022-12-29T21:27:37.650Z"
+date:   "2022-12-29T21:47:36.991Z"
 permalink: excalibur-cleansing-light_(card)
 ---
 

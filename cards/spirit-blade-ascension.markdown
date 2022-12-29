@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Spirit Blade: Ascension (card)"
-date:   "2022-12-29T21:27:36.688Z"
+date:   "2022-12-29T21:47:36.145Z"
 permalink: spirit-blade-ascension_(card)
 ---
 

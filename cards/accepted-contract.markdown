@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Accepted Contract (card)"
-date:   "2022-12-29T21:27:37.535Z"
+date:   "2022-12-29T21:47:36.889Z"
 permalink: accepted-contract_(card)
 ---
 

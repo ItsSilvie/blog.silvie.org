@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Spirit of Wind (card)"
-date:   "2022-12-29T21:27:36.600Z"
+date:   "2022-12-29T21:47:36.075Z"
 permalink: spirit-of-wind_(card)
 ---
 

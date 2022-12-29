@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Creative Shock (card)"
-date:   "2022-12-29T21:27:36.654Z"
+date:   "2022-12-29T21:47:36.112Z"
 permalink: creative-shock_(card)
 ---
 

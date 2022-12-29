@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Artificer's Opus (card)"
-date:   "2022-12-29T21:27:36.852Z"
+date:   "2022-12-29T21:47:36.297Z"
 permalink: artificers-opus_(card)
 ---
 

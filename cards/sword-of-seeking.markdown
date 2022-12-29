@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Sword of Seeking (card)"
-date:   "2022-12-29T21:27:36.611Z"
+date:   "2022-12-29T21:47:36.084Z"
 permalink: sword-of-seeking_(card)
 ---
 

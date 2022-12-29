@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Freezing Hail (card)"
-date:   "2022-12-29T21:27:37.593Z"
+date:   "2022-12-29T21:47:36.949Z"
 permalink: freezing-hail_(card)
 ---
 

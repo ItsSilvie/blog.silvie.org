@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Trusty Steed (card)"
-date:   "2022-12-29T21:27:36.652Z"
+date:   "2022-12-29T21:47:36.110Z"
 permalink: trusty-steed_(card)
 ---
 

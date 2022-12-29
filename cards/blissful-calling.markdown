@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Blissful Calling (card)"
-date:   "2022-12-29T21:27:36.842Z"
+date:   "2022-12-29T21:47:36.290Z"
 permalink: blissful-calling_(card)
 ---
 

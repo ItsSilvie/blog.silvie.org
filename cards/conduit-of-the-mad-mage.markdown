@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Conduit of the Mad Mage (card)"
-date:   "2022-12-29T21:27:37.642Z"
+date:   "2022-12-29T21:47:36.982Z"
 permalink: conduit-of-the-mad-mage_(card)
 ---
 

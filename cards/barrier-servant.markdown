@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Barrier Servant (card)"
-date:   "2022-12-29T21:27:36.616Z"
+date:   "2022-12-29T21:47:36.088Z"
 permalink: barrier-servant_(card)
 ---
 

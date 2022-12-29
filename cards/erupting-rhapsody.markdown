@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Erupting Rhapsody (card)"
-date:   "2022-12-29T21:27:37.570Z"
+date:   "2022-12-29T21:47:36.921Z"
 permalink: erupting-rhapsody_(card)
 ---
 

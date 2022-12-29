@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Blinding Orb (card)"
-date:   "2022-12-29T21:27:37.514Z"
+date:   "2022-12-29T21:47:36.869Z"
 permalink: blinding-orb_(card)
 ---
 

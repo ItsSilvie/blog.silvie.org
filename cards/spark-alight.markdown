@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Spark Alight (card)"
-date:   "2022-12-29T21:27:36.667Z"
+date:   "2022-12-29T21:47:36.127Z"
 permalink: spark-alight_(card)
 ---
 

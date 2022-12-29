@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Fireball (card)"
-date:   "2022-12-29T21:27:36.657Z"
+date:   "2022-12-29T21:47:36.113Z"
 permalink: fireball_(card)
 ---
 

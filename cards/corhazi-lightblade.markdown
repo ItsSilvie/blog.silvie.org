@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Corhazi Lightblade (card)"
-date:   "2022-12-29T21:27:37.649Z"
+date:   "2022-12-29T21:47:36.989Z"
 permalink: corhazi-lightblade_(card)
 ---
 

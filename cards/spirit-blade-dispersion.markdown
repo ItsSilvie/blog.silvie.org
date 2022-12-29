@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Spirit Blade: Dispersion (card)"
-date:   "2022-12-29T21:27:36.695Z"
+date:   "2022-12-29T21:47:36.151Z"
 permalink: spirit-blade-dispersion_(card)
 ---
 

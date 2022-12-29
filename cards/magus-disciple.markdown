@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Magus Disciple (card)"
-date:   "2022-12-29T21:27:36.647Z"
+date:   "2022-12-29T21:47:36.105Z"
 permalink: magus-disciple_(card)
 ---
 

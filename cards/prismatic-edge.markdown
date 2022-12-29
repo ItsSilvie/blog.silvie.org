@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Prismatic Edge (card)"
-date:   "2022-12-29T21:27:36.615Z"
+date:   "2022-12-29T21:47:36.086Z"
 permalink: prismatic-edge_(card)
 ---
 
