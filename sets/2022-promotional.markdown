@@ -2,6 +2,7 @@
 layout: set
 title: "Promotional 2022 (P22)"
 date: 2022-12-27 17:34:00 +0100
+last_modified_at: 2022-12-29 20:34:00 +0100
 categories: sets
 permalink: P22_(set)
 ---
@@ -65,7 +66,7 @@ Kingdom Informant first appeared alongside [Clumsy Apprentice](#clumsy-apprentic
 
 {% include image.html url="https://img.silvie.org/api-data/SPeGjoHFJn.jpg" description="Kingdom Informant from the Promotional 2022 set." max-width="400px" %}
 
-Bubble Mage was obtainable at all winter conventions Grand Archive appeared at, with a 1 in 8 chance of being foil, as well as being given out during Discord events.
+Kingdom Informant was obtainable at all winter conventions Grand Archive appeared at, with a 25% chance of obtaining a foil. Foil versions of the card were also given out during Discord events.
 
 {% include image.html url="https://img.silvie.org/api-data/QrcDjNKwgS.jpg" description="Dawn of Ashes Kingdom Informant artwork." max-width="256px" %}
 
