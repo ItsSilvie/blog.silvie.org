@@ -71,7 +71,6 @@
 
     .name-wrapper {
       flex: 1 1 100%;
-      order: 100;
     }
 
     .image-element {
@@ -83,10 +82,12 @@
 
       .name-wrapper {
         flex: 1 1 auto;
+        order: -2;
       }
 
       .card-rarity-label {
         flex: 0 0 30px;
+        order: -1;
       }
     }
   }
