@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Inspiring Call (trading card)"
-date:   "2022-12-29T16:01:28.079Z"
+title:  "Inspiring Call (card)"
+date:   "2022-12-29T21:27:36.645Z"
 permalink: inspiring-call_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-046 C

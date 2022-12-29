@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Barrier Servant (trading card)"
-date:   "2022-12-29T16:01:28.055Z"
+title:  "Barrier Servant (card)"
+date:   "2022-12-29T21:27:36.616Z"
 permalink: barrier-servant_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-033 C

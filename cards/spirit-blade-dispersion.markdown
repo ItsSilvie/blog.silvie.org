@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Spirit Blade: Dispersion (trading card)"
-date:   "2022-12-29T16:01:28.142Z"
+title:  "Spirit Blade: Dispersion (card)"
+date:   "2022-12-29T21:27:36.695Z"
 permalink: spirit-blade-dispersion_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-111 R

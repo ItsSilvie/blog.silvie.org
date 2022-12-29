@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Tactful Sergeant (trading card)"
-date:   "2022-12-29T16:01:28.118Z"
+title:  "Tactful Sergeant (card)"
+date:   "2022-12-29T21:27:36.675Z"
 permalink: tactful-sergeant_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-097 U

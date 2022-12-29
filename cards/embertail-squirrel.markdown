@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Embertail Squirrel (trading card)"
-date:   "2022-12-29T16:01:28.362Z"
+title:  "Embertail Squirrel (card)"
+date:   "2022-12-29T21:27:36.848Z"
 permalink: embertail-squirrel_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-130 C

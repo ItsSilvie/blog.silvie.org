@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Erupting Rhapsody (trading card)"
-date:   "2022-12-29T16:01:29.114Z"
+title:  "Erupting Rhapsody (card)"
+date:   "2022-12-29T21:27:37.570Z"
 permalink: erupting-rhapsody_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-132 R

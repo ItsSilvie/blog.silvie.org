@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Woodland Squirrels (trading card)"
-date:   "2022-12-29T16:01:28.092Z"
+title:  "Woodland Squirrels (card)"
+date:   "2022-12-29T21:27:36.653Z"
 permalink: woodland-squirrels_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-063 C

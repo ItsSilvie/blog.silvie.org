@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Endura, Scepter of Ignition (trading card)"
-date:   "2022-12-29T16:01:28.043Z"
+title:  "Endura, Scepter of Ignition (card)"
+date:   "2022-12-29T21:27:36.607Z"
 permalink: endura-scepter-of-ignition_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-014 R

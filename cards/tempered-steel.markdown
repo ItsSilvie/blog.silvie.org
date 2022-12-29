@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Tempered Steel (trading card)"
-date:   "2022-12-29T16:01:28.110Z"
+title:  "Tempered Steel (card)"
+date:   "2022-12-29T21:27:36.670Z"
 permalink: tempered-steel_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-083 C

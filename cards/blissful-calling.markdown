@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Blissful Calling (trading card)"
-date:   "2022-12-29T16:01:28.359Z"
+title:  "Blissful Calling (card)"
+date:   "2022-12-29T21:27:36.842Z"
 permalink: blissful-calling_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-073 C

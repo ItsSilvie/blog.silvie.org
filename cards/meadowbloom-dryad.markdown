@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Meadowbloom Dryad (trading card)"
-date:   "2022-12-29T16:01:28.367Z"
+title:  "Meadowbloom Dryad (card)"
+date:   "2022-12-29T21:27:36.855Z"
 permalink: meadowbloom-dryad_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-273 U

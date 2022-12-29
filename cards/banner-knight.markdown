@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Banner Knight (trading card)"
-date:   "2022-12-29T16:01:28.054Z"
+title:  "Banner Knight (card)"
+date:   "2022-12-29T21:27:36.615Z"
 permalink: banner-knight_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-032 C

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Camelot, Impenetrable (trading card)"
-date:   "2022-12-29T16:01:29.144Z"
+title:  "Camelot, Impenetrable (card)"
+date:   "2022-12-29T21:27:37.620Z"
 permalink: camelot-impenetrable_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-204 SR

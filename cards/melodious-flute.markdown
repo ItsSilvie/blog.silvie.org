@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Melodious Flute (trading card)"
-date:   "2022-12-29T16:01:28.349Z"
+title:  "Melodious Flute (card)"
+date:   "2022-12-29T21:27:36.838Z"
 permalink: melodious-flute_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-043 U

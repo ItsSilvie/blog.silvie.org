@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Creative Shock (trading card)"
-date:   "2022-12-29T16:01:28.093Z"
+title:  "Creative Shock (card)"
+date:   "2022-12-29T21:27:36.654Z"
 permalink: creative-shock_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-066 U

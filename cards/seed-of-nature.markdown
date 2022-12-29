@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Seed of Nature (trading card)"
-date:   "2022-12-29T16:01:28.054Z"
+title:  "Seed of Nature (card)"
+date:   "2022-12-29T21:27:36.615Z"
 permalink: seed-of-nature_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-031 SR

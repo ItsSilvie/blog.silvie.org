@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Artificer's Opus (trading card)"
-date:   "2022-12-29T16:01:28.366Z"
+title:  "Artificer's Opus (card)"
+date:   "2022-12-29T21:27:36.852Z"
 permalink: artificers-opus_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-267 SR

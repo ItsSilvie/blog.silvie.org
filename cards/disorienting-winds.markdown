@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Disorienting Winds (trading card)"
-date:   "2022-12-29T16:01:28.111Z"
+title:  "Disorienting Winds (card)"
+date:   "2022-12-29T21:27:36.672Z"
 permalink: disorienting-winds_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-086 U

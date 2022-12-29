@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Rai, Storm Seer (trading card)"
-date:   "2022-12-29T16:01:28.041Z"
+title:  "Rai, Storm Seer (card)"
+date:   "2022-12-29T21:27:36.604Z"
 permalink: rai-storm-seer_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-008 C

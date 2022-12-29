@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Clarent, Sword of Peace (trading card)"
-date:   "2022-12-29T16:01:28.043Z"
+title:  "Clarent, Sword of Peace (card)"
+date:   "2022-12-29T21:27:36.606Z"
 permalink: clarent-sword-of-peace_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-012 R

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Giant Tortoise (trading card)"
-date:   "2022-12-29T16:01:29.132Z"
+title:  "Giant Tortoise (card)"
+date:   "2022-12-29T21:27:37.594Z"
 permalink: giant-tortoise_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-172 U

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Beastbond Ears (trading card)"
-date:   "2022-12-29T16:01:28.348Z"
+title:  "Beastbond Ears (card)"
+date:   "2022-12-29T21:27:36.838Z"
 permalink: beastbond-ears_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-024 C

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Dream Fairy (trading card)"
-date:   "2022-12-29T16:01:28.112Z"
+title:  "Dream Fairy (card)"
+date:   "2022-12-29T21:27:36.672Z"
 permalink: dream-fairy_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-087 R

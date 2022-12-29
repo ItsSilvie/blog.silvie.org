@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Intangible Geist (trading card)"
-date:   "2022-12-29T16:01:29.168Z"
+title:  "Intangible Geist (card)"
+date:   "2022-12-29T21:27:37.645Z"
 permalink: intangible-geist_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-250 SR

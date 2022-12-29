@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Bushwhack Bandit (trading card)"
-date:   "2022-12-29T16:01:29.144Z"
+title:  "Bushwhack Bandit (card)"
+date:   "2022-12-29T21:27:37.619Z"
 permalink: bushwhack-bandit_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-203 C

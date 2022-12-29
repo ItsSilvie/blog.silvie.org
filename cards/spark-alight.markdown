@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Spark Alight (trading card)"
-date:   "2022-12-29T16:01:28.109Z"
+title:  "Spark Alight (card)"
+date:   "2022-12-29T21:27:36.667Z"
 permalink: spark-alight_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-081 C

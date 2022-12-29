@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Channeling Stone (trading card)"
-date:   "2022-12-29T16:01:29.037Z"
+title:  "Channeling Stone (card)"
+date:   "2022-12-29T21:27:37.515Z"
 permalink: channeling-stone_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-028 R

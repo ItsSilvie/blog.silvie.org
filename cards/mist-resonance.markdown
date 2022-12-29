@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Mist Resonance (trading card)"
-date:   "2022-12-29T16:01:29.134Z"
+title:  "Mist Resonance (card)"
+date:   "2022-12-29T21:27:37.598Z"
 permalink: mist-resonance_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-180 R

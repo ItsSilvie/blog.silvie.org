@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Cremation Ritual (trading card)"
-date:   "2022-12-29T16:01:28.093Z"
+title:  "Cremation Ritual (card)"
+date:   "2022-12-29T21:27:36.655Z"
 permalink: cremation-ritual_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-067 C

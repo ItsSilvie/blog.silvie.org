@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Gray Wolf (trading card)"
-date:   "2022-12-29T16:01:28.077Z"
+title:  "Gray Wolf (card)"
+date:   "2022-12-29T21:27:36.644Z"
 permalink: gray-wolf_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-043 C

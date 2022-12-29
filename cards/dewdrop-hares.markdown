@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Dewdrop Hares (trading card)"
-date:   "2022-12-29T16:01:29.129Z"
+title:  "Dewdrop Hares (card)"
+date:   "2022-12-29T21:27:37.591Z"
 permalink: dewdrop-hares_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-166 C

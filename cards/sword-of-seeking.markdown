@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Sword of Seeking (trading card)"
-date:   "2022-12-29T16:01:28.050Z"
+title:  "Sword of Seeking (card)"
+date:   "2022-12-29T21:27:36.611Z"
 permalink: sword-of-seeking_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-024 U

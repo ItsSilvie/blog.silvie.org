@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Flame-Rune Swordsman (trading card)"
-date:   "2022-12-29T16:01:28.096Z"
+title:  "Flame-Rune Swordsman (card)"
+date:   "2022-12-29T21:27:36.657Z"
 permalink: flame-rune-swordsman_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-073 C

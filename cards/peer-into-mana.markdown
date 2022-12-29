@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Peer into Mana (trading card)"
-date:   "2022-12-29T16:01:28.085Z"
+title:  "Peer into Mana (card)"
+date:   "2022-12-29T21:27:36.649Z"
 permalink: peer-into-mana_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-053 C

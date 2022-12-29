@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Silvie, Loved by All (trading card)"
-date:   "2022-12-29T16:01:28.042Z"
+title:  "Silvie, Loved by All (card)"
+date:   "2022-12-29T21:27:36.605Z"
 permalink: silvie-loved-by-all_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-009 C

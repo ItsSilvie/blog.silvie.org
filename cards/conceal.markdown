@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Conceal (trading card)"
-date:   "2022-12-29T16:01:28.055Z"
+title:  "Conceal (card)"
+date:   "2022-12-29T21:27:36.617Z"
 permalink: conceal_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-035 C

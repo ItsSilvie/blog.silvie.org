@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Bubble Mage (trading card)"
-date:   "2022-12-29T16:01:28.294Z"
+title:  "Bubble Mage (card)"
+date:   "2022-12-29T21:27:36.757Z"
 permalink: bubble-mage_(card)
-incomplete: true
 ---
 
 ## P22 &middot; EN-003 PR

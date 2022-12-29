@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Spontaneous Combustion (trading card)"
-date:   "2022-12-29T16:01:29.124Z"
+title:  "Spontaneous Combustion (card)"
+date:   "2022-12-29T21:27:37.579Z"
 permalink: spontaneous-combustion_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-154 U

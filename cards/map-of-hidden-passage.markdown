@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Map of Hidden Passage (trading card)"
-date:   "2022-12-29T16:01:29.044Z"
+title:  "Map of Hidden Passage (card)"
+date:   "2022-12-29T21:27:37.520Z"
 permalink: map-of-hidden-passage_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-042 SR

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Beastbond Boots (trading card)"
-date:   "2022-12-29T16:01:28.348Z"
+title:  "Beastbond Boots (card)"
+date:   "2022-12-29T21:27:36.837Z"
 permalink: beastbond-boots_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-023 U

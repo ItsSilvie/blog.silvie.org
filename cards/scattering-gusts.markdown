@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Scattering Gusts (trading card)"
-date:   "2022-12-29T16:01:28.117Z"
+title:  "Scattering Gusts (card)"
+date:   "2022-12-29T21:27:36.674Z"
 permalink: scattering-gusts_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-094KS R

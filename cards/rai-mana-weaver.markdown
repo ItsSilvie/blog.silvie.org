@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Rai, Mana Weaver (trading card)"
-date:   "2022-12-29T16:01:28.955Z"
+title:  "Rai, Mana Weaver (card)"
+date:   "2022-12-29T21:27:37.474Z"
 permalink: rai-mana-weaver_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-009 C

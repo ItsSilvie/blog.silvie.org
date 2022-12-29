@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Sharpening Stone (trading card)"
-date:   "2022-12-29T16:01:28.260Z"
+title:  "Sharpening Stone (card)"
+date:   "2022-12-29T21:27:36.735Z"
 permalink: sharpening-stone_(card)
-incomplete: true
 ---
 
 ## DEMO22 &middot; EN-008 C

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Mana Limiter (trading card)"
-date:   "2022-12-29T16:01:28.046Z"
+title:  "Mana Limiter (card)"
+date:   "2022-12-29T21:27:36.609Z"
 permalink: mana-limiter_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-018 U

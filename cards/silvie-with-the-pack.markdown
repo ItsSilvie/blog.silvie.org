@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Silvie, With the Pack (trading card)"
-date:   "2022-12-29T16:01:28.347Z"
+title:  "Silvie, With the Pack (card)"
+date:   "2022-12-29T21:27:36.837Z"
 permalink: silvie-with-the-pack_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-011 C

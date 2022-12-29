@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Spirit Blade: Infusion (trading card)"
-date:   "2022-12-29T16:01:28.157Z"
+title:  "Spirit Blade: Infusion (card)"
+date:   "2022-12-29T21:27:36.701Z"
 permalink: spirit-blade-infusion_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-113 U

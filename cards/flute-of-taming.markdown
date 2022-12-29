@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Flute of Taming (trading card)"
-date:   "2022-12-29T16:01:28.045Z"
+title:  "Flute of Taming (card)"
+date:   "2022-12-29T21:27:36.607Z"
 permalink: flute-of-taming_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-016 R

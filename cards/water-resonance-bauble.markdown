@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Water Resonance Bauble (trading card)"
-date:   "2022-12-29T16:01:29.052Z"
+title:  "Water Resonance Bauble (card)"
+date:   "2022-12-29T21:27:37.531Z"
 permalink: water-resonance-bauble_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-059 U

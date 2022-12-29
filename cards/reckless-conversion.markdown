@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Reckless Conversion (trading card)"
-date:   "2022-12-29T16:01:28.133Z"
+title:  "Reckless Conversion (card)"
+date:   "2022-12-29T21:27:36.686Z"
 permalink: reckless-conversion_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-106KS SR

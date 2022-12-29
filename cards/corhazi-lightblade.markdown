@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Corhazi Lightblade (trading card)"
-date:   "2022-12-29T16:01:29.172Z"
+title:  "Corhazi Lightblade (card)"
+date:   "2022-12-29T21:27:37.649Z"
 permalink: corhazi-lightblade_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-258 U

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Gleaming Cut (trading card)"
-date:   "2022-12-29T16:01:29.173Z"
+title:  "Gleaming Cut (card)"
+date:   "2022-12-29T21:27:37.651Z"
 permalink: gleaming-cut_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-260 U

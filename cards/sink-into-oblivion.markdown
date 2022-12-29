@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Sink into Oblivion (trading card)"
-date:   "2022-12-29T16:01:28.294Z"
+title:  "Sink into Oblivion (card)"
+date:   "2022-12-29T21:27:36.758Z"
 permalink: sink-into-oblivion_(card)
-incomplete: true
 ---
 
 ## P22 &middot; EN-004 PR

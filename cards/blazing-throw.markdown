@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Blazing Throw (trading card)"
-date:   "2022-12-29T16:01:28.092Z"
+title:  "Blazing Throw (card)"
+date:   "2022-12-29T21:27:36.653Z"
 permalink: blazing-throw_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-064 C

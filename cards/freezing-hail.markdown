@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Freezing Hail (trading card)"
-date:   "2022-12-29T16:01:29.130Z"
+title:  "Freezing Hail (card)"
+date:   "2022-12-29T21:27:37.593Z"
 permalink: freezing-hail_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-170 C

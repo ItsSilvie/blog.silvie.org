@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Reckless Slash (trading card)"
-date:   "2022-12-29T16:01:28.086Z"
+title:  "Reckless Slash (card)"
+date:   "2022-12-29T21:27:36.649Z"
 permalink: reckless-slash_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-054 C

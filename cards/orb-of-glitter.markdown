@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Orb of Glitter (trading card)"
-date:   "2022-12-29T16:01:28.047Z"
+title:  "Orb of Glitter (card)"
+date:   "2022-12-29T21:27:36.610Z"
 permalink: orb-of-glitter_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-020KS SR

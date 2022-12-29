@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Swift Recruit (trading card)"
-date:   "2022-12-29T16:01:28.118Z"
+title:  "Swift Recruit (card)"
+date:   "2022-12-29T21:27:36.675Z"
 permalink: swift-recruit_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-096 C

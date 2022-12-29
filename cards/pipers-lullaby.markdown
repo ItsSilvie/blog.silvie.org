@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Piper's Lullaby (trading card)"
-date:   "2022-12-29T16:01:29.136Z"
+title:  "Piper's Lullaby (card)"
+date:   "2022-12-29T21:27:37.600Z"
 permalink: pipers-lullaby_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-184 U

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Luxem Sight (trading card)"
-date:   "2022-12-29T16:01:29.174Z"
+title:  "Luxem Sight (card)"
+date:   "2022-12-29T21:27:37.652Z"
 permalink: luxem-sight_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-262 U

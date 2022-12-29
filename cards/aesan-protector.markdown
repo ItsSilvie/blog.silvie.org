@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Aesan Protector (trading card)"
-date:   "2022-12-29T16:01:28.110Z"
+title:  "Aesan Protector (card)"
+date:   "2022-12-29T21:27:36.671Z"
 permalink: aesan-protector_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-084 U

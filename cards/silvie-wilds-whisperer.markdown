@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Silvie, Wilds Whisperer (trading card)"
-date:   "2022-12-29T16:01:28.347Z"
+title:  "Silvie, Wilds Whisperer (card)"
+date:   "2022-12-29T21:27:36.837Z"
 permalink: silvie-wilds-whisperer_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-010 C

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Savage Slash (trading card)"
-date:   "2022-12-29T16:01:28.087Z"
+title:  "Savage Slash (card)"
+date:   "2022-12-29T21:27:36.650Z"
 permalink: savage-slash_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-056 C

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Zephyr Assistant (trading card)"
-date:   "2022-12-29T16:01:29.162Z"
+title:  "Zephyr Assistant (card)"
+date:   "2022-12-29T21:27:37.636Z"
 permalink: zephyr-assistant_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-236 C

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Stillwater Patrol (trading card)"
-date:   "2022-12-29T16:01:29.139Z"
+title:  "Stillwater Patrol (card)"
+date:   "2022-12-29T21:27:37.609Z"
 permalink: stillwater-patrol_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-192 C

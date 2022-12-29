@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Uncover the Plot (trading card)"
-date:   "2022-12-29T16:01:29.175Z"
+title:  "Uncover the Plot (card)"
+date:   "2022-12-29T21:27:37.653Z"
 permalink: uncover-the-plot_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-265 R

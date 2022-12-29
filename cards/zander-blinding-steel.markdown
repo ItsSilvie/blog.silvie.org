@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Zander, Blinding Steel (trading card)"
-date:   "2022-12-29T16:01:28.042Z"
+title:  "Zander, Blinding Steel (card)"
+date:   "2022-12-29T21:27:36.605Z"
 permalink: zander-blinding-steel_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-010 C

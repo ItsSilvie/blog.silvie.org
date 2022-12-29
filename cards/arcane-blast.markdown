@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Arcane Blast (trading card)"
-date:   "2022-12-29T16:01:28.120Z"
+title:  "Arcane Blast (card)"
+date:   "2022-12-29T21:27:36.677Z"
 permalink: arcane-blast_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-102 U

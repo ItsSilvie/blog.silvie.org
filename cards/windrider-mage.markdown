@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Windrider Mage (trading card)"
-date:   "2022-12-29T16:01:29.160Z"
+title:  "Windrider Mage (card)"
+date:   "2022-12-29T21:27:37.633Z"
 permalink: windrider-mage_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-232 U

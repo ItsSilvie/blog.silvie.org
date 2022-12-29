@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Trained Hawk (trading card)"
-date:   "2022-12-29T16:01:28.119Z"
+title:  "Trained Hawk (card)"
+date:   "2022-12-29T21:27:36.676Z"
 permalink: trained-hawk_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-098 C

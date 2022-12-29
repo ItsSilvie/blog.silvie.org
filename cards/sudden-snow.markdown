@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Sudden Snow (trading card)"
-date:   "2022-12-29T16:01:29.140Z"
+title:  "Sudden Snow (card)"
+date:   "2022-12-29T21:27:37.610Z"
 permalink: sudden-snow_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-194 U

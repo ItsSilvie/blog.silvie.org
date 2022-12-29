@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Kingdom Informant (trading card)"
-date:   "2022-12-29T16:01:28.295Z"
+title:  "Kingdom Informant (card)"
+date:   "2022-12-29T21:27:36.758Z"
 permalink: kingdom-informant_(card)
-incomplete: true
 ---
 
 ## P22 &middot; EN-005 PR

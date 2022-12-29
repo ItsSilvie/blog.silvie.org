@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Smack with Flute (trading card)"
-date:   "2022-12-29T16:01:28.361Z"
+title:  "Smack with Flute (card)"
+date:   "2022-12-29T21:27:36.843Z"
 permalink: smack-with-flute_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-109 C

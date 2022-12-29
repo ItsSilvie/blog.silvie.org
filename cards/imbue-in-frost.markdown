@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Imbue in Frost (trading card)"
-date:   "2022-12-29T16:01:29.133Z"
+title:  "Imbue in Frost (card)"
+date:   "2022-12-29T21:27:37.596Z"
 permalink: imbue-in-frost_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-175 C

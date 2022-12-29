@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Idle Thoughts (trading card)"
-date:   "2022-12-29T16:01:28.078Z"
+title:  "Idle Thoughts (card)"
+date:   "2022-12-29T21:27:36.644Z"
 permalink: idle-thoughts_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-045 C

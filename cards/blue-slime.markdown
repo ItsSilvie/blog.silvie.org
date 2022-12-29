@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Blue Slime (trading card)"
-date:   "2022-12-29T16:01:29.127Z"
+title:  "Blue Slime (card)"
+date:   "2022-12-29T21:27:37.590Z"
 permalink: blue-slime_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-162 U

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Zander, Always Watching (trading card)"
-date:   "2022-12-29T16:01:29.016Z"
+title:  "Zander, Always Watching (card)"
+date:   "2022-12-29T21:27:37.500Z"
 permalink: zander-always-watching_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-014 C

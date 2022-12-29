@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Song of Nurturing (trading card)"
-date:   "2022-12-29T16:01:28.361Z"
+title:  "Song of Nurturing (card)"
+date:   "2022-12-29T21:27:36.844Z"
 permalink: song-of-nurturing_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-110 C

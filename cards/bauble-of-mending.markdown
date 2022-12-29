@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Bauble of Mending (trading card)"
-date:   "2022-12-29T16:01:29.035Z"
+title:  "Bauble of Mending (card)"
+date:   "2022-12-29T21:27:37.512Z"
 permalink: bauble-of-mending_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-022 R

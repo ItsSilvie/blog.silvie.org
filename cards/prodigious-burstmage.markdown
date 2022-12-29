@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Prodigious Burstmage (trading card)"
-date:   "2022-12-29T16:01:29.120Z"
+title:  "Prodigious Burstmage (card)"
+date:   "2022-12-29T21:27:37.576Z"
 permalink: prodigious-burstmage_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-148 C

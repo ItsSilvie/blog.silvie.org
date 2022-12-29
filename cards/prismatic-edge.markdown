@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Prismatic Edge (trading card)"
-date:   "2022-12-29T16:01:28.052Z"
+title:  "Prismatic Edge (card)"
+date:   "2022-12-29T21:27:36.615Z"
 permalink: prismatic-edge_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-029 SR

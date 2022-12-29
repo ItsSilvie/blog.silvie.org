@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Lorraine, Crux Knight (trading card)"
-date:   "2022-12-29T16:01:28.040Z"
+title:  "Lorraine, Crux Knight (card)"
+date:   "2022-12-29T21:27:36.603Z"
 permalink: lorraine-crux-knight_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-005 C

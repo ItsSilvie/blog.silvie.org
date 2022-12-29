@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Water Barrier (trading card)"
-date:   "2022-12-29T16:01:29.142Z"
+title:  "Water Barrier (card)"
+date:   "2022-12-29T21:27:37.617Z"
 permalink: water-barrier_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-197 U

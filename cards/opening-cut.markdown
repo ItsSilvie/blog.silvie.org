@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Opening Cut (trading card)"
-date:   "2022-12-29T16:01:28.084Z"
+title:  "Opening Cut (card)"
+date:   "2022-12-29T21:27:36.648Z"
 permalink: opening-cut_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-051 C

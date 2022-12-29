@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Dungeon Guide (trading card)"
-date:   "2022-12-29T16:01:28.056Z"
+title:  "Dungeon Guide (card)"
+date:   "2022-12-29T21:27:36.619Z"
 permalink: dungeon-guide_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-038 R

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Rending Flames (trading card)"
-date:   "2022-12-29T16:01:28.109Z"
+title:  "Rending Flames (card)"
+date:   "2022-12-29T21:27:36.667Z"
 permalink: rending-flames_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-080 U

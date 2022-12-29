@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Caliburn of Silencing (trading card)"
-date:   "2022-12-29T16:01:28.053Z"
+title:  "Caliburn of Silencing (card)"
+date:   "2022-12-29T21:27:36.615Z"
 permalink: caliburn-of-silencing_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-030 SR

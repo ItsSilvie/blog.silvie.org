@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Nia, Mistveiled Scout (trading card)"
-date:   "2022-12-29T16:01:29.135Z"
+title:  "Nia, Mistveiled Scout (card)"
+date:   "2022-12-29T21:27:37.600Z"
 permalink: nia-mistveiled-scout_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-183 R

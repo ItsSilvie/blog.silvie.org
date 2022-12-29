@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Power Overwhelming (trading card)"
-date:   "2022-12-29T16:01:28.122Z"
+title:  "Power Overwhelming (card)"
+date:   "2022-12-29T21:27:36.678Z"
 permalink: power-overwhelming_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-105 R

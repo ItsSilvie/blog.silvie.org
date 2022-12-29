@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Rai, Spellcrafter (trading card)"
-date:   "2022-12-29T16:01:28.041Z"
+title:  "Rai, Spellcrafter (card)"
+date:   "2022-12-29T21:27:36.604Z"
 permalink: rai-spellcrafter_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-006 C

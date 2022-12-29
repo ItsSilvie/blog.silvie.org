@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Arthur, Young Heir (trading card)"
-date:   "2022-12-29T16:01:29.095Z"
+title:  "Arthur, Young Heir (card)"
+date:   "2022-12-29T21:27:37.564Z"
 permalink: arthur-young-heir_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-118 SR

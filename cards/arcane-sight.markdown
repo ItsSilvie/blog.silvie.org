@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Arcane Sight (trading card)"
-date:   "2022-12-29T16:01:28.122Z"
+title:  "Arcane Sight (card)"
+date:   "2022-12-29T21:27:36.678Z"
 permalink: arcane-sight_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-104 U

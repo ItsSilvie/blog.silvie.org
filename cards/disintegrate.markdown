@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Disintegrate (trading card)"
-date:   "2022-12-29T16:01:28.094Z"
+title:  "Disintegrate (card)"
+date:   "2022-12-29T21:27:36.656Z"
 permalink: disintegrate_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-069KS R

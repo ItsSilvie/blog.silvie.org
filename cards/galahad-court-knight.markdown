@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Galahad, Court Knight (trading card)"
-date:   "2022-12-29T16:01:28.072Z"
+title:  "Galahad, Court Knight (card)"
+date:   "2022-12-29T21:27:36.643Z"
 permalink: galahad-court-knight_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-041KS SR

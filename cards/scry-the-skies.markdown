@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Scry the Skies (trading card)"
-date:   "2022-12-29T16:01:28.087Z"
+title:  "Scry the Skies (card)"
+date:   "2022-12-29T21:27:36.650Z"
 permalink: scry-the-skies_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-057 C

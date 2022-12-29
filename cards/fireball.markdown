@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Fireball (trading card)"
-date:   "2022-12-29T16:01:28.095Z"
+title:  "Fireball (card)"
+date:   "2022-12-29T21:27:36.657Z"
 permalink: fireball_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-071 C

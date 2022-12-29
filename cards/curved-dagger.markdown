@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Curved Dagger (trading card)"
-date:   "2022-12-29T16:01:29.039Z"
+title:  "Curved Dagger (card)"
+date:   "2022-12-29T21:27:37.516Z"
 permalink: curved-dagger_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-031 U

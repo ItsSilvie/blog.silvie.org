@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Weaponsmith (trading card)"
-date:   "2022-12-29T16:01:28.090Z"
+title:  "Weaponsmith (card)"
+date:   "2022-12-29T21:27:36.652Z"
 permalink: weaponsmith_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-062 C

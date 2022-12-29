@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Esteemed Knight (trading card)"
-date:   "2022-12-29T16:01:28.070Z"
+title:  "Esteemed Knight (card)"
+date:   "2022-12-29T21:27:36.642Z"
 permalink: esteemed-knight_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-040 C

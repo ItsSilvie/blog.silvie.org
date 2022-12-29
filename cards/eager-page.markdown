@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Eager Page (trading card)"
-date:   "2022-12-29T16:01:29.078Z"
+title:  "Eager Page (card)"
+date:   "2022-12-29T21:27:37.541Z"
 permalink: eager-page_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-082 C

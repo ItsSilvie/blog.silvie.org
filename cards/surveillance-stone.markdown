@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Surveillance Stone (trading card)"
-date:   "2022-12-29T16:01:28.049Z"
+title:  "Surveillance Stone (card)"
+date:   "2022-12-29T21:27:36.611Z"
 permalink: surveillance-stone_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-023 U

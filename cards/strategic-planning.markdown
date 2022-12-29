@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Strategic Planning (trading card)"
-date:   "2022-12-29T16:01:29.092Z"
+title:  "Strategic Planning (card)"
+date:   "2022-12-29T21:27:37.557Z"
 permalink: strategic-planning_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-111 C

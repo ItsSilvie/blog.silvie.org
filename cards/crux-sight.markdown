@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Crux Sight (trading card)"
-date:   "2022-12-29T16:01:28.134Z"
+title:  "Crux Sight (card)"
+date:   "2022-12-29T21:27:36.687Z"
 permalink: crux-sight_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-108 U

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Owl Familiar (trading card)"
-date:   "2022-12-29T16:01:28.085Z"
+title:  "Owl Familiar (card)"
+date:   "2022-12-29T21:27:36.649Z"
 permalink: owl-familiar_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-052 C

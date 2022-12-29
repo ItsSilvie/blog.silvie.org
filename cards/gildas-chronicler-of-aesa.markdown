@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Gildas, Chronicler of Aesa (trading card)"
-date:   "2022-12-29T16:01:28.076Z"
+title:  "Gildas, Chronicler of Aesa (card)"
+date:   "2022-12-29T21:27:36.643Z"
 permalink: gildas-chronicler-of-aesa_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-042KS SR

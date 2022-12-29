@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Sword of Adversity (trading card)"
-date:   "2022-12-29T16:01:29.051Z"
+title:  "Sword of Adversity (card)"
+date:   "2022-12-29T21:27:37.529Z"
 permalink: sword-of-adversity_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-055 R

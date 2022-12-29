@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Lunete, Frostbinder Priest (trading card)"
-date:   "2022-12-29T16:01:29.134Z"
+title:  "Lunete, Frostbinder Priest (card)"
+date:   "2022-12-29T21:27:37.597Z"
 permalink: lunete-frostbinder-priest_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-178 R

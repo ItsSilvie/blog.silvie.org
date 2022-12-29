@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Snow Fairy (trading card)"
-date:   "2022-12-29T16:01:29.139Z"
+title:  "Snow Fairy (card)"
+date:   "2022-12-29T21:27:37.609Z"
 permalink: snow-fairy_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-191 R

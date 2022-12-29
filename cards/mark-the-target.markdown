@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Mark the Target (trading card)"
-date:   "2022-12-29T16:01:29.119Z"
+title:  "Mark the Target (card)"
+date:   "2022-12-29T21:27:37.575Z"
 permalink: mark-the-target_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-145 C

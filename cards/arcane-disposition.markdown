@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Arcane Disposition (trading card)"
-date:   "2022-12-29T16:01:28.121Z"
+title:  "Arcane Disposition (card)"
+date:   "2022-12-29T21:27:36.677Z"
 permalink: arcane-disposition_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-103 U

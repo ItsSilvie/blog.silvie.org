@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Spirit of Fire (trading card)"
-date:   "2022-12-29T16:01:28.038Z"
+title:  "Spirit of Fire (card)"
+date:   "2022-12-29T21:27:36.599Z"
 permalink: spirit-of-fire_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-001 C

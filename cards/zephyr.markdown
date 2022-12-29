@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Zephyr (trading card)"
-date:   "2022-12-29T16:01:29.161Z"
+title:  "Zephyr (card)"
+date:   "2022-12-29T21:27:37.634Z"
 permalink: zephyr_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-235 R

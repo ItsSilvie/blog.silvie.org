@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Attune with the Winds (trading card)"
-date:   "2022-12-29T16:01:28.364Z"
+title:  "Attune with the Winds (card)"
+date:   "2022-12-29T21:27:36.849Z"
 permalink: attune-with-the-winds_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-200 R

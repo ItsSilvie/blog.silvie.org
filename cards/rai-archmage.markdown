@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Rai, Archmage (trading card)"
-date:   "2022-12-29T16:01:28.041Z"
+title:  "Rai, Archmage (card)"
+date:   "2022-12-29T21:27:36.604Z"
 permalink: rai-archmage_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-007 C

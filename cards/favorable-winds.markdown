@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Favorable Winds (trading card)"
-date:   "2022-12-29T16:01:28.113Z"
+title:  "Favorable Winds (card)"
+date:   "2022-12-29T21:27:36.673Z"
 permalink: favorable-winds_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-089 C

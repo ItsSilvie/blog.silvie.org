@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Arima, Gaia's Wings (trading card)"
-date:   "2022-12-29T16:01:28.366Z"
+title:  "Arima, Gaia's Wings (card)"
+date:   "2022-12-29T21:27:36.851Z"
 permalink: arima-gaias-wings_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-266 SR

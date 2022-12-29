@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Carnwennan, Shrouded Edge (trading card)"
-date:   "2022-12-29T16:01:29.056Z"
+title:  "Carnwennan, Shrouded Edge (card)"
+date:   "2022-12-29T21:27:37.534Z"
 permalink: carnwennan-shrouded-edge_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-065 R

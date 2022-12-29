@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Safeguard Amulet (trading card)"
-date:   "2022-12-29T16:01:28.350Z"
+title:  "Safeguard Amulet (card)"
+date:   "2022-12-29T21:27:36.841Z"
 permalink: safeguard-amulet_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-049 U

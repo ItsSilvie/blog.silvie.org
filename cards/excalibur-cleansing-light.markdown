@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Excalibur, Cleansing Light (trading card)"
-date:   "2022-12-29T16:01:29.172Z"
+title:  "Excalibur, Cleansing Light (card)"
+date:   "2022-12-29T21:27:37.650Z"
 permalink: excalibur-cleansing-light_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-259 R

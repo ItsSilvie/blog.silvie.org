@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Tome of Knowledge (trading card)"
-date:   "2022-12-29T16:01:28.051Z"
+title:  "Tome of Knowledge (card)"
+date:   "2022-12-29T21:27:36.611Z"
 permalink: tome-of-knowledge_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-025 U

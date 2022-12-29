@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Patient Rogue (trading card)"
-date:   "2022-12-29T16:01:29.120Z"
+title:  "Patient Rogue (card)"
+date:   "2022-12-29T21:27:37.576Z"
 permalink: patient-rogue_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-146 U

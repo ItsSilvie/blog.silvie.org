@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Lost Spirit (trading card)"
-date:   "2022-12-29T16:01:28.251Z"
+title:  "Lost Spirit (card)"
+date:   "2022-12-29T21:27:36.731Z"
 permalink: lost-spirit_(card)
-incomplete: true
 ---
 
 ## DEMO22 &middot; EN-001 C

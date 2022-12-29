@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Cry for Help (trading card)"
-date:   "2022-12-29T16:01:28.364Z"
+title:  "Cry for Help (card)"
+date:   "2022-12-29T21:27:36.850Z"
 permalink: cry-for-help_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-207 U

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Juggle Knives (trading card)"
-date:   "2022-12-29T16:01:29.085Z"
+title:  "Juggle Knives (card)"
+date:   "2022-12-29T21:27:37.547Z"
 permalink: juggle-knives_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-095 C

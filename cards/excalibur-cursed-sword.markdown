@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Excalibur, Cursed Sword (trading card)"
-date:   "2022-12-29T16:01:29.040Z"
+title:  "Excalibur, Cursed Sword (card)"
+date:   "2022-12-29T21:27:37.517Z"
 permalink: excalibur-cursed-sword_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-034 SR

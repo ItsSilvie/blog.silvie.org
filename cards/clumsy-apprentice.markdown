@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Clumsy Apprentice (trading card)"
-date:   "2022-12-29T16:01:28.295Z"
+title:  "Clumsy Apprentice (card)"
+date:   "2022-12-29T21:27:36.758Z"
 permalink: clumsy-apprentice_(card)
-incomplete: true
 ---
 
 ## P22 &middot; EN-006 PR

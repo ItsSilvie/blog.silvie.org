@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Lakeside Serpent (trading card)"
-date:   "2022-12-29T16:01:29.133Z"
+title:  "Lakeside Serpent (card)"
+date:   "2022-12-29T21:27:37.597Z"
 permalink: lakeside-serpent_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-177 R

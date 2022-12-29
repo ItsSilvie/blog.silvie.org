@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Embersong (trading card)"
-date:   "2022-12-29T16:01:28.362Z"
+title:  "Embersong (card)"
+date:   "2022-12-29T21:27:36.848Z"
 permalink: embersong_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-129 U

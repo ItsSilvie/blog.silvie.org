@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Fire Resonance Bauble (trading card)"
-date:   "2022-12-29T16:01:28.044Z"
+title:  "Fire Resonance Bauble (card)"
+date:   "2022-12-29T21:27:36.607Z"
 permalink: fire-resonance-bauble_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-015 U

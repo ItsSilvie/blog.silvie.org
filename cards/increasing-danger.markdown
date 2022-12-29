@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Increasing Danger (trading card)"
-date:   "2022-12-29T16:01:28.098Z"
+title:  "Increasing Danger (card)"
+date:   "2022-12-29T21:27:36.658Z"
 permalink: increasing-danger_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-077 U

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Varuck, Smoldering Spire (trading card)"
-date:   "2022-12-29T16:01:29.126Z"
+title:  "Varuck, Smoldering Spire (card)"
+date:   "2022-12-29T21:27:37.587Z"
 permalink: varuck-smoldering-spire_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-158 SR

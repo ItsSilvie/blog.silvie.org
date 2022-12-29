@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Second Wind (trading card)"
-date:   "2022-12-29T16:01:28.118Z"
+title:  "Second Wind (card)"
+date:   "2022-12-29T21:27:36.675Z"
 permalink: second-wind_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-095 U

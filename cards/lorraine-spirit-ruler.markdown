@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Lorraine, Spirit Ruler (trading card)"
-date:   "2022-12-29T16:01:28.927Z"
+title:  "Lorraine, Spirit Ruler (card)"
+date:   "2022-12-29T21:27:37.451Z"
 permalink: lorraine-spirit-ruler_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-006 C

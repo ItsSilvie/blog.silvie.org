@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Arcane Elemental (trading card)"
-date:   "2022-12-29T16:01:29.164Z"
+title:  "Arcane Elemental (card)"
+date:   "2022-12-29T21:27:37.642Z"
 permalink: arcane-elemental_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-241 R

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Chalice of Blood (trading card)"
-date:   "2022-12-29T16:01:28.349Z"
+title:  "Chalice of Blood (card)"
+date:   "2022-12-29T21:27:36.838Z"
 permalink: chalice-of-blood_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-027 R

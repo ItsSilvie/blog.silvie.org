@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Fiery Momentum (trading card)"
-date:   "2022-12-29T16:01:28.094Z"
+title:  "Fiery Momentum (card)"
+date:   "2022-12-29T21:27:36.656Z"
 permalink: fiery-momentum_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-070 U

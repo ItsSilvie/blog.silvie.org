@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Coup de Grace (trading card)"
-date:   "2022-12-29T16:01:29.071Z"
+title:  "Coup de Grace (card)"
+date:   "2022-12-29T21:27:37.539Z"
 permalink: coup-de-grace_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-077 SR

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Advent of the Stormcaller (trading card)"
-date:   "2022-12-29T16:01:29.162Z"
+title:  "Advent of the Stormcaller (card)"
+date:   "2022-12-29T21:27:37.638Z"
 permalink: advent-of-the-stormcaller_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-237 SR

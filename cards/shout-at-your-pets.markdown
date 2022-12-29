@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Shout at Your Pets (trading card)"
-date:   "2022-12-29T16:01:28.363Z"
+title:  "Shout at Your Pets (card)"
+date:   "2022-12-29T21:27:36.849Z"
 permalink: shout-at-your-pets_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-152 U

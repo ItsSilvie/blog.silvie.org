@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Lorraine, Wandering Warrior (trading card)"
-date:   "2022-12-29T16:01:28.039Z"
+title:  "Lorraine, Wandering Warrior (card)"
+date:   "2022-12-29T21:27:36.602Z"
 permalink: lorraine-wandering-warrior_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-003 C

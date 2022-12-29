@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Spirit of Wind (trading card)"
-date:   "2022-12-29T16:01:28.039Z"
+title:  "Spirit of Wind (card)"
+date:   "2022-12-29T21:27:36.600Z"
 permalink: spirit-of-wind_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-002 C

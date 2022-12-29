@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Training Session (trading card)"
-date:   "2022-12-29T16:01:28.088Z"
+title:  "Training Session (card)"
+date:   "2022-12-29T21:27:36.651Z"
 permalink: training-session_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-059 C

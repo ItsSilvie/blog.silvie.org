@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Spirit's Blessing (trading card)"
-date:   "2022-12-29T16:01:28.157Z"
+title:  "Spirit's Blessing (card)"
+date:   "2022-12-29T21:27:36.702Z"
 permalink: spirits-blessing_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-114 R

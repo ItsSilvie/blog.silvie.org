@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Arcanist's Prism (trading card)"
-date:   "2022-12-29T16:01:28.052Z"
+title:  "Arcanist's Prism (card)"
+date:   "2022-12-29T21:27:36.614Z"
 permalink: arcanists-prism_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-028 SR

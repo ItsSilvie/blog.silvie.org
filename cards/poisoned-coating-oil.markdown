@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Poisoned Coating Oil (trading card)"
-date:   "2022-12-29T16:01:29.047Z"
+title:  "Poisoned Coating Oil (card)"
+date:   "2022-12-29T21:27:37.522Z"
 permalink: poisoned-coating-oil_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-047 R

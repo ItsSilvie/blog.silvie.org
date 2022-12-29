@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Careful Study (trading card)"
-date:   "2022-12-29T16:01:28.055Z"
+title:  "Careful Study (card)"
+date:   "2022-12-29T21:27:36.616Z"
 permalink: careful-study_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-034 C

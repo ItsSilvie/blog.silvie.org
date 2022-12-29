@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Restorative Slash (trading card)"
-date:   "2022-12-29T16:01:29.136Z"
+title:  "Restorative Slash (card)"
+date:   "2022-12-29T21:27:37.601Z"
 permalink: restorative-slash_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-185 C

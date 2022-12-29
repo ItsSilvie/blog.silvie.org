@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Ignite the Soul (trading card)"
-date:   "2022-12-29T16:01:28.097Z"
+title:  "Ignite the Soul (card)"
+date:   "2022-12-29T21:27:36.658Z"
 permalink: ignite-the-soul_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-075 C

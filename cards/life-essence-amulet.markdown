@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Life Essence Amulet (trading card)"
-date:   "2022-12-29T16:01:28.045Z"
+title:  "Life Essence Amulet (card)"
+date:   "2022-12-29T21:27:36.608Z"
 permalink: life-essence-amulet_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-017 C

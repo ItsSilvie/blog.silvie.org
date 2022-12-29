@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Reckless Researcher (trading card)"
-date:   "2022-12-29T16:01:28.108Z"
+title:  "Reckless Researcher (card)"
+date:   "2022-12-29T21:27:36.667Z"
 permalink: reckless-researcher_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-079 U

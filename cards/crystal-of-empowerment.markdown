@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Crystal of Empowerment (trading card)"
-date:   "2022-12-29T16:01:28.043Z"
+title:  "Crystal of Empowerment (card)"
+date:   "2022-12-29T21:27:36.606Z"
 permalink: crystal-of-empowerment_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-013 C

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Ensnaring Fumes (trading card)"
-date:   "2022-12-29T16:01:29.147Z"
+title:  "Ensnaring Fumes (card)"
+date:   "2022-12-29T21:27:37.623Z"
 permalink: ensnaring-fumes_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-210 R

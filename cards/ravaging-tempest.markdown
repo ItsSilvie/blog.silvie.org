@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Ravaging Tempest (trading card)"
-date:   "2022-12-29T16:01:28.116Z"
+title:  "Ravaging Tempest (card)"
+date:   "2022-12-29T21:27:36.674Z"
 permalink: ravaging-tempest_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-092KS R

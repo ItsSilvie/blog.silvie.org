@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Strapping Conscript (trading card)"
-date:   "2022-12-29T16:01:29.125Z"
+title:  "Strapping Conscript (card)"
+date:   "2022-12-29T21:27:37.583Z"
 permalink: strapping-conscript_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-156 U

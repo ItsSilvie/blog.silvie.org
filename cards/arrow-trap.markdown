@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Arrow Trap (trading card)"
-date:   "2022-12-29T16:01:29.143Z"
+title:  "Arrow Trap (card)"
+date:   "2022-12-29T21:27:37.618Z"
 permalink: arrow-trap_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-199 U

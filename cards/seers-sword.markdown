@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Seer's Sword (trading card)"
-date:   "2022-12-29T16:01:28.048Z"
+title:  "Seer's Sword (card)"
+date:   "2022-12-29T21:27:36.610Z"
 permalink: seers-sword_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-022 U

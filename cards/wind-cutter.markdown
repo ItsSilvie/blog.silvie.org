@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Wind Cutter (trading card)"
-date:   "2022-12-29T16:01:28.120Z"
+title:  "Wind Cutter (card)"
+date:   "2022-12-29T21:27:36.676Z"
 permalink: wind-cutter_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-100 C

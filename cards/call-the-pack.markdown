@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Call the Pack (trading card)"
-date:   "2022-12-29T16:01:29.176Z"
+title:  "Call the Pack (card)"
+date:   "2022-12-29T21:27:37.654Z"
 permalink: call-the-pack_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-268 R

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Horn of Beastcalling (trading card)"
-date:   "2022-12-29T16:01:29.058Z"
+title:  "Horn of Beastcalling (card)"
+date:   "2022-12-29T21:27:37.535Z"
 permalink: horn-of-beastcalling_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-068 R

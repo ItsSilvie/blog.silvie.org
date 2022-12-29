@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Accepted Contract (trading card)"
-date:   "2022-12-29T16:01:29.060Z"
+title:  "Accepted Contract (card)"
+date:   "2022-12-29T21:27:37.535Z"
 permalink: accepted-contract_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-069 C

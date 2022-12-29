@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Deflecting Edge (trading card)"
-date:   "2022-12-29T16:01:28.056Z"
+title:  "Deflecting Edge (card)"
+date:   "2022-12-29T21:27:36.618Z"
 permalink: deflecting-edge_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-037 C

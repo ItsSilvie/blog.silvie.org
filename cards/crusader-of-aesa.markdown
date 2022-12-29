@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Crusader of Aesa (trading card)"
-date:   "2022-12-29T16:01:28.055Z"
+title:  "Crusader of Aesa (card)"
+date:   "2022-12-29T21:27:36.618Z"
 permalink: crusader-of-aesa_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-036 C

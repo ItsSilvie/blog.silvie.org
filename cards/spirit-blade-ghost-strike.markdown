@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Spirit Blade: Ghost Strike (trading card)"
-date:   "2022-12-29T16:01:28.156Z"
+title:  "Spirit Blade: Ghost Strike (card)"
+date:   "2022-12-29T21:27:36.700Z"
 permalink: spirit-blade-ghost-strike_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-112 U

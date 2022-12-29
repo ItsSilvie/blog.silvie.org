@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Flame Sweep (trading card)"
-date:   "2022-12-29T16:01:28.096Z"
+title:  "Flame Sweep (card)"
+date:   "2022-12-29T21:27:36.657Z"
 permalink: flame-sweep_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-072KS R

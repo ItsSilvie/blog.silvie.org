@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Spirit Blade: Ascension (trading card)"
-date:   "2022-12-29T16:01:28.135Z"
+title:  "Spirit Blade: Ascension (card)"
+date:   "2022-12-29T21:27:36.688Z"
 permalink: spirit-blade-ascension_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-110 R

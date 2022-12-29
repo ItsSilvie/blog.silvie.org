@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Veteran Soldier (trading card)"
-date:   "2022-12-29T16:01:28.089Z"
+title:  "Veteran Soldier (card)"
+date:   "2022-12-29T21:27:36.652Z"
 permalink: veteran-soldier_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-061 C

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Honorable Vanguard (trading card)"
-date:   "2022-12-29T16:01:28.077Z"
+title:  "Honorable Vanguard (card)"
+date:   "2022-12-29T21:27:36.644Z"
 permalink: honorable-vanguard_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-044 C

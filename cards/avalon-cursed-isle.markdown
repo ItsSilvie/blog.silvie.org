@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Avalon, Cursed Isle (trading card)"
-date:   "2022-12-29T16:01:29.127Z"
+title:  "Avalon, Cursed Isle (card)"
+date:   "2022-12-29T21:27:37.589Z"
 permalink: avalon-cursed-isle_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-160 SR

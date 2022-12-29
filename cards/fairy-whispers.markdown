@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Fairy Whispers (trading card)"
-date:   "2022-12-29T16:01:28.112Z"
+title:  "Fairy Whispers (card)"
+date:   "2022-12-29T21:27:36.672Z"
 permalink: fairy-whispers_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-088 U

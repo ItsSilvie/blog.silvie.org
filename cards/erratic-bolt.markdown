@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Erratic Bolt (trading card)"
-date:   "2022-12-29T16:01:29.165Z"
+title:  "Erratic Bolt (card)"
+date:   "2022-12-29T21:27:37.643Z"
 permalink: erratic-bolt_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-244 R

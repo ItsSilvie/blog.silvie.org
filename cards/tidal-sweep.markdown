@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Tidal Sweep (trading card)"
-date:   "2022-12-29T16:01:29.140Z"
+title:  "Tidal Sweep (card)"
+date:   "2022-12-29T21:27:37.612Z"
 permalink: tidal-sweep_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-195 R

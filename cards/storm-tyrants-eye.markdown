@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Storm Tyrant's Eye (trading card)"
-date:   "2022-12-29T16:01:29.053Z"
+title:  "Storm Tyrant's Eye (card)"
+date:   "2022-12-29T21:27:37.532Z"
 permalink: storm-tyrants-eye_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-061 R

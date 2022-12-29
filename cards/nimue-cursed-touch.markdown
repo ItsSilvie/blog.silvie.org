@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Nimue, Cursed Touch (trading card)"
-date:   "2022-12-29T16:01:28.081Z"
+title:  "Nimue, Cursed Touch (card)"
+date:   "2022-12-29T21:27:36.647Z"
 permalink: nimue-cursed-touch_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-050KS SR

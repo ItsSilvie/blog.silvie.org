@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Invigorated Slash (trading card)"
-date:   "2022-12-29T16:01:28.079Z"
+title:  "Invigorated Slash (card)"
+date:   "2022-12-29T21:27:36.646Z"
 permalink: invigorated-slash_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-047 U

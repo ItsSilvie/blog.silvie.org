@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Library Witch (trading card)"
-date:   "2022-12-29T16:01:28.080Z"
+title:  "Library Witch (card)"
+date:   "2022-12-29T21:27:36.647Z"
 permalink: library-witch_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-048 C

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Reclaim (trading card)"
-date:   "2022-12-29T16:01:28.116Z"
+title:  "Reclaim (card)"
+date:   "2022-12-29T21:27:36.674Z"
 permalink: reclaim_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-093 C

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Blinding Orb (trading card)"
-date:   "2022-12-29T16:01:29.037Z"
+title:  "Blinding Orb (card)"
+date:   "2022-12-29T21:27:37.514Z"
 permalink: blinding-orb_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-026 R

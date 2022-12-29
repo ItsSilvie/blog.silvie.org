@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Gaia's Songbird (trading card)"
-date:   "2022-12-29T16:01:28.366Z"
+title:  "Gaia's Songbird (card)"
+date:   "2022-12-29T21:27:36.854Z"
 permalink: gaias-songbird_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-270 U

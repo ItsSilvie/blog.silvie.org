@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Zander, Prepared Scout (trading card)"
-date:   "2022-12-29T16:01:29.006Z"
+title:  "Zander, Prepared Scout (card)"
+date:   "2022-12-29T21:27:37.495Z"
 permalink: zander-prepared-scout_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-013 C

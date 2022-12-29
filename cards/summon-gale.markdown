@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Summon Gale (trading card)"
-date:   "2022-12-29T16:01:29.157Z"
+title:  "Summon Gale (card)"
+date:   "2022-12-29T21:27:37.630Z"
 permalink: summon-gale_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-224 C

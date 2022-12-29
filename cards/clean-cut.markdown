@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Clean Cut (trading card)"
-date:   "2022-12-29T16:01:29.068Z"
+title:  "Clean Cut (card)"
+date:   "2022-12-29T21:27:37.538Z"
 permalink: clean-cut_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-075 U

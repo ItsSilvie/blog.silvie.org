@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Sealed Blade (trading card)"
-date:   "2022-12-29T16:01:29.048Z"
+title:  "Sealed Blade (card)"
+date:   "2022-12-29T21:27:37.523Z"
 permalink: sealed-blade-doa_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-050 C

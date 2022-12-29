@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Purge in Flames (trading card)"
-date:   "2022-12-29T16:01:28.098Z"
+title:  "Purge in Flames (card)"
+date:   "2022-12-29T21:27:36.658Z"
 permalink: purge-in-flames_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-078 R

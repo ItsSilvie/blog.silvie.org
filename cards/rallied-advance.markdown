@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Rallied Advance (trading card)"
-date:   "2022-12-29T16:01:28.115Z"
+title:  "Rallied Advance (card)"
+date:   "2022-12-29T21:27:36.673Z"
 permalink: rallied-advance_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-091 C

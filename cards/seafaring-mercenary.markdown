@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Seafaring Mercenary (trading card)"
-date:   "2022-12-29T16:01:29.137Z"
+title:  "Seafaring Mercenary (card)"
+date:   "2022-12-29T21:27:37.605Z"
 permalink: seafaring-mercenary_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-187 C

@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Rebellious Bull (trading card)"
-date:   "2022-12-29T16:01:28.359Z"
+title:  "Rebellious Bull (card)"
+date:   "2022-12-29T21:27:36.843Z"
 permalink: rebellious-bull_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-104 C

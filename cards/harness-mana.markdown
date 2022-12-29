@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Harness Mana (trading card)"
-date:   "2022-12-29T16:01:29.083Z"
+title:  "Harness Mana (card)"
+date:   "2022-12-29T21:27:37.545Z"
 permalink: harness-mana_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-090 C

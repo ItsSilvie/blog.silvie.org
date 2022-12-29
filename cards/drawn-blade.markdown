@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Drawn Blade (trading card)"
-date:   "2022-12-29T16:01:29.040Z"
+title:  "Drawn Blade (card)"
+date:   "2022-12-29T21:27:37.516Z"
 permalink: drawn-blade_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-033 R

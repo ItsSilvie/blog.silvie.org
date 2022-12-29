@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Trusty Steed (trading card)"
-date:   "2022-12-29T16:01:28.088Z"
+title:  "Trusty Steed (card)"
+date:   "2022-12-29T21:27:36.652Z"
 permalink: trusty-steed_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-060 C

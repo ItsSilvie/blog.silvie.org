@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Ornamental Greatsword (trading card)"
-date:   "2022-12-29T16:01:28.048Z"
+title:  "Ornamental Greatsword (card)"
+date:   "2022-12-29T21:27:36.610Z"
 permalink: ornamental-greatsword_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-021 C

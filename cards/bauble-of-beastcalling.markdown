@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Horn of Beastcalling (trading card)"
-date:   "2022-12-29T16:01:28.359Z"
+title:  "Horn of Beastcalling (card)"
+date:   "2022-12-29T21:27:36.841Z"
 permalink: bauble-of-beastcalling_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-068 R

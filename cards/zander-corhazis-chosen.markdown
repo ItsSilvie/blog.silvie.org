@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Zander, Corhazi's Chosen (trading card)"
-date:   "2022-12-29T16:01:29.027Z"
+title:  "Zander, Corhazi's Chosen (card)"
+date:   "2022-12-29T21:27:37.505Z"
 permalink: zander-corhazis-chosen_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-015 C

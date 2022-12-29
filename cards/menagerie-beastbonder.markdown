@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Menagerie Beastbonder (trading card)"
-date:   "2022-12-29T16:01:28.365Z"
+title:  "Menagerie Beastbonder (card)"
+date:   "2022-12-29T21:27:36.850Z"
 permalink: menagerie-beastbonder_(card)
-incomplete: true
 ---
 
 ## DOApSP &middot; EN-215 C

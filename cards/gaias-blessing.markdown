@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Gaia's Blessing (trading card)"
-date:   "2022-12-29T16:01:29.057Z"
+title:  "Gaia's Blessing (card)"
+date:   "2022-12-29T21:27:37.535Z"
 permalink: gaias-blessing_(card)
-incomplete: true
 ---
 
 ## DOA 1st &middot; EN-067 UR

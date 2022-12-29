@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Focused Flames (trading card)"
-date:   "2022-12-29T16:01:28.096Z"
+title:  "Focused Flames (card)"
+date:   "2022-12-29T21:27:36.657Z"
 permalink: focused-flames_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-074 U

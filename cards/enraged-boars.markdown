@@ -1,9 +1,8 @@
 ---
 layout: card
-title:  "Enraged Boars (trading card)"
-date:   "2022-12-29T16:01:28.064Z"
+title:  "Enraged Boars (card)"
+date:   "2022-12-29T21:27:36.642Z"
 permalink: enraged-boars_(card)
-incomplete: true
 ---
 
 ## DOAp &middot; EN-039 C
