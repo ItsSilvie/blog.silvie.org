@@ -2,10 +2,13 @@
 layout: set
 title: "Dawn of Ashes First Edition (DOA 1st)"
 date: 2022-12-27 17:34:00 +0100
+last_modified_at: 2022-12-29 13:57:00 +0100
 categories: sets
 permalink: DOA-1st_(set)
-image: /assets/images/sets/DOAp/thumbnail.png
+image: /assets/images/sets/DOA-1st/thumbnail.png
 ---
+
+{% include image.html url="/assets/images/sets/DOA-1st/boxes.png" description="Sealed Dawn of Ashes First Edition booster boxes (from Kickstarter Update #28)." max-width="100%" %}
 
 You may be looking for the <span class="dead-link">[Dawn of Ashes Alter Edition](/DOA-Alter_(set))</span> set.
 
@@ -18,6 +21,25 @@ Cards in this set are prefixed `DOA 1st`*.
 {% include templates/DOA-1st.html %}
 
 \* Two of the cards are erroneously printed as `DOA` instead of `DOA 1st`. See [Missing "1st" prefix"](#missing-1st-prefix).
+
+## Print run
+
+The First Edition set was printed exclusively as an early release for those who backed Grand Archive's [Kickstarter campaign](/kickstarter). There was a 20,000 booster box limit, and at the end of the campaign 1,539 backers had placed orders for ~11,500 of them.
+
+{% include image.html url="/assets/images/sets/DOA-1st/ks-dynamic-print-run.png" description="Dynamic print run information from the Kickstarter campaign." max-width="100%" %}
+
+The Grand Archive team announced that they'd be manufacturing an additional 1,000 boxes to ensure there was enough product in the event of shipping issues, with some of that amount used for pre-release events and giveaways.
+
+In total, 12,500 booster boxes were created, giving a total of 300,000 booster packs. Each booster box includes a box topper pack containing 2 of each of the spirit champions (6 cards total), bringing the overall total to 3,675,000 Dawn of Ashes First Edition cards printed.
+
+Rarity | Non-foil | Foil
+:-- | --: | --:
+Common | 2,736,660 (74.47%) | 16,799 (0.46%)
+Uncommon | 600,000 (16.33%) | 10,152 (0.28%)
+Rare | 212,500 (5.78%) | 6,731 (0.18%)
+Super Rare | 75,000 (2.04%) | 3,379 (0.09%)
+Ultra Rare | 12,500 (0.34%) | 450 (0.01%)
+Collector Ultra Rare | - | 840 (0.02%)
 
 ## Pack contents
 
@@ -39,7 +61,7 @@ Non-foil main champion cards will only appear in the first slot of each pack. Th
 
 Foil rates are also weighted by rarity, with common cards having the highest chance of being found. There is no duplication logic on the foil card included, meaning it is possible for a pack to contain both the non-foil and foil version of the same card.
 
-\* The actual collector ultra rare chance is 7/2,500 (0.28%) which I've noted as 1/357 here for simplicity (0.2801%).
+\* The actual collector ultra rare chance is 840 in 300,000 packs (0.28%) which I've noted as 1/357 here for simplicity (0.2801%).
 
 ### Non-foil pull rates
 
@@ -80,16 +102,43 @@ Collector Ultra Rare | 12 | 0.023% | 357 | 12 to 4,285
 
 \* Excludes spirit and lineage champion cards as noted above.
 
+## What are the differences between First Edition and Alter Edition?
+
+The short answer...
+
+- First Edition features collector ultra rare versions of each main champion card, whereas Alter Edition does not;
+- Alter Edition includes foil versions of the lineage break champion cards, whereas First Edition does;
+- Alter Edition features collector super rare versions of the lineage break champion cards, whereas First Edition does not;
+- First Edition is prefixed `DOA 1st`, whereas Alter Edition is prefixed `DOA Alter`.
+
+The long answer...
+
+For the majority of cards, the only visual difference between the Dawn of Ashes First Edition and <span class="dead-link">[Alter Edition](/DOA-Alter_(set))</span> sets is the set prefix. First Edition is prefixed with `DOA 1st` whilst Alter Edition is prefixed `DOA Alter`.
+
+The First Edition set was printed exclusively as an early release for backers of Grand Archive's [Kickstarter campaign](/kickstarter), whereas Alter Edition is regarded as Grand Archive's public release. As such, the First Edition set has a significantly smaller [print run](#print-run).
+
+The First Edition set features collector ultra rare versions of each of the 12 main champion cards. Only 70 of each of these collector ultra rare cards were printed, each individually signed with a serial number from 1 to 70.
+
+{% include image.html url="/assets/images/sets/DOA-1st/curs.png" description="The level 3 collector ultra rare champion cards." max-width="600px" %}
+
+Alter Edition doesn't include these collector ultra rare cards, but instead includes collector super rare versions of the 4 lineage break champions, Allen, Merlin, Mordred and Tristan.
+
+Only 1 in 15 First Edition booster boxes contain a collector ultra rare, making them very scarce. Initial reports suggest that the population of collector super rare cards from Alter Edition "would only be 625 with 100,000 boxes printed", which with only 4 cards to choose from this results in a much less frequent 1 in 40 booster box rate.
+
+{% include image.html url="/assets/images/sets/DOA-1st/merlin-csr.jpg" description="The Alter Edition Merlin collector super rare from Grand Archive's Twitter feed." max-width="600px" %}
+
+Alongside the collector super rare versions of the lineage break champions, Alter Edition also includes foil versions of those cards which are not included in the First Edition set.
+
 ## Errors
 
 ### Missing "1st" prefix
 
-During a couple of prerelease events which occurred in December 2022, fans noticed that two of the cards used the set prefix "DOA" instead of "DOA 1st".
+After the Dawn of Ashes First Edition print run had finished, the developers noticed that two of the cards had erroneously been printed with the set prefixed "DOA" instead of "DOA 1st".
 
-When this was discovered, "DOA" (Dawn of Ashes) without the "1st", was intended to be the set prefix for the <span class="dead-link">[Alter Edition](/DOA-Alter_(set))</span> version of the set.
+"DOA" (Dawn of Ashes) without the "1st", was originally intended to be the set prefix for the <span class="dead-link">[Alter Edition](/DOA-Alter_(set))</span> version of the set. However following this discovery the Grand Archive developers decided to modify all Alter Edition cards to use "DOA Alter" as their set prefix instead to avoid confusion.
 
-The cards affected by this error are [Juggle Knives (EN-095)](/juggle-knives_(card)#doa%201st--en-095-c) and [Restorative Slash (EN-185)](/restorative-slash_(card)#doa%201st--en-185-c). These cards do not exist with the "DOA 1st" prefix.
+The cards affected by this error are [Juggle Knives (EN-095)](/juggle-knives_(card)#doa%201st--en-095-c) and [Restorative Slash (EN-185)](/restorative-slash_(card)#doa%201st--en-185-c).
 
 {% include image.html url="/assets/images/sets/DOA-1st/missing-1st.png" description="Juggle Knives and Restorative Slash." max-width="100%" %}
 
-Following this discovery the Grand Archive developers decided to modify all Alter Edition cards to use "DOA Alter" set prefix instead to avoid confusion.
+All copies of these cards have the "DOA" prefix; these do not exist with the "DOA 1st" prefix.
