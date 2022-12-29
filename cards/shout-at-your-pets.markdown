@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Shout at Your Pets (trading card)"
-date:   "2022-12-29T10:21:13.873Z"
+date:   "2022-12-29T16:01:28.363Z"
 permalink: shout-at-your-pets_(card)
 incomplete: true
 ---

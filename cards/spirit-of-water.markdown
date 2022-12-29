@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Spirit of Water (trading card)"
-date:   "2022-12-29T10:21:14.423Z"
+date:   "2022-12-29T16:01:28.857Z"
 permalink: spirit-of-water_(card)
 incomplete: true
 ---

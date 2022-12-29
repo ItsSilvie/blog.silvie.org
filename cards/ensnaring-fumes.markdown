@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Ensnaring Fumes (trading card)"
-date:   "2022-12-29T10:21:14.548Z"
+date:   "2022-12-29T16:01:29.147Z"
 permalink: ensnaring-fumes_(card)
 incomplete: true
 ---

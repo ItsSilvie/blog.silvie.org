@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Drowned Cut (trading card)"
-date:   "2022-12-29T10:21:14.522Z"
+date:   "2022-12-29T16:01:29.129Z"
 permalink: drowned-cut_(card)
 incomplete: true
 ---

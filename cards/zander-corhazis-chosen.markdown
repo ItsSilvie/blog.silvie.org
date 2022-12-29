@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Zander, Corhazi's Chosen (trading card)"
-date:   "2022-12-29T10:21:14.455Z"
+date:   "2022-12-29T16:01:29.027Z"
 permalink: zander-corhazis-chosen_(card)
 incomplete: true
 ---

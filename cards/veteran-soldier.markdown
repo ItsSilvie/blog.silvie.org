@@ -1,15 +1,10 @@
 ---
 layout: card
 title:  "Veteran Soldier (trading card)"
-date:   "2022-12-29T10:21:13.462Z"
+date:   "2022-12-29T16:01:28.089Z"
 permalink: veteran-soldier_(card)
 incomplete: true
 ---
-
-## DOA 1st &middot; EN-115 C
-
-{% include templates/veteran-soldier-doa1e.html %}
-
 
 ## DOAp &middot; EN-061 C
 
@@ -19,3 +14,8 @@ incomplete: true
 ## DEMO22 &middot; EN-019 C
 
 {% include templates/veteran-soldier-demo22.html %}
+
+
+## DOA 1st &middot; EN-115 C
+
+{% include templates/veteran-soldier-doa1e.html %}

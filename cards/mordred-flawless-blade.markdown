@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Mordred, Flawless Blade (trading card)"
-date:   "2022-12-29T10:21:14.460Z"
+date:   "2022-12-29T16:01:29.033Z"
 permalink: mordred-flawless-blade_(card)
 incomplete: true
 ---

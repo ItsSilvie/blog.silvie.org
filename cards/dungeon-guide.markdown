@@ -1,15 +1,10 @@
 ---
 layout: card
 title:  "Dungeon Guide (trading card)"
-date:   "2022-12-29T10:21:13.336Z"
+date:   "2022-12-29T16:01:28.056Z"
 permalink: dungeon-guide_(card)
 incomplete: true
 ---
-
-## DOA 1st &middot; EN-081 R
-
-{% include templates/dungeon-guide-doa1e.html %}
-
 
 ## DOAp &middot; EN-038 R
 
@@ -24,3 +19,8 @@ incomplete: true
 ## P22 &middot; EN-001 PR
 
 {% include templates/dungeon-guide-p22.html %}
+
+
+## DOA 1st &middot; EN-081 R
+
+{% include templates/dungeon-guide-doa1e.html %}

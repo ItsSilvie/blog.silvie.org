@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Silvie, Earth's Tune (trading card)"
-date:   "2022-12-29T10:21:14.443Z"
+date:   "2022-12-29T16:01:28.993Z"
 permalink: silvie-earths-tune_(card)
 incomplete: true
 ---

@@ -1,15 +1,10 @@
 ---
 layout: card
 title:  "Banner Knight (trading card)"
-date:   "2022-12-29T10:21:13.288Z"
+date:   "2022-12-29T16:01:28.054Z"
 permalink: banner-knight_(card)
 incomplete: true
 ---
-
-## DOA 1st &middot; EN-071 C
-
-{% include templates/banner-knight-doa1e.html %}
-
 
 ## DOAp &middot; EN-032 C
 
@@ -24,3 +19,8 @@ incomplete: true
 ## P22 &middot; EN-007 CPR
 
 {% include templates/banner-knight-p22.html %}
+
+
+## DOA 1st &middot; EN-071 C
+
+{% include templates/banner-knight-doa1e.html %}

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Luxem Sight (trading card)"
-date:   "2022-12-29T10:21:14.570Z"
+date:   "2022-12-29T16:01:29.174Z"
 permalink: luxem-sight_(card)
 incomplete: true
 ---

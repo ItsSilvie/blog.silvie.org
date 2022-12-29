@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Cry for Help (trading card)"
-date:   "2022-12-29T10:21:13.873Z"
+date:   "2022-12-29T16:01:28.364Z"
 permalink: cry-for-help_(card)
 incomplete: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Lunete, Frostbinder Priest (trading card)"
-date:   "2022-12-29T10:21:14.527Z"
+date:   "2022-12-29T16:01:29.134Z"
 permalink: lunete-frostbinder-priest_(card)
 incomplete: true
 ---

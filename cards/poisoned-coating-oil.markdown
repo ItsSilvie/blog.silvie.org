@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Poisoned Coating Oil (trading card)"
-date:   "2022-12-29T10:21:14.473Z"
+date:   "2022-12-29T16:01:29.047Z"
 permalink: poisoned-coating-oil_(card)
 incomplete: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Spontaneous Combustion (trading card)"
-date:   "2022-12-29T10:21:14.517Z"
+date:   "2022-12-29T16:01:29.124Z"
 permalink: spontaneous-combustion_(card)
 incomplete: true
 ---

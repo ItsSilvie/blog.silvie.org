@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Prodigious Burstmage (trading card)"
-date:   "2022-12-29T10:21:14.515Z"
+date:   "2022-12-29T16:01:29.120Z"
 permalink: prodigious-burstmage_(card)
 incomplete: true
 ---

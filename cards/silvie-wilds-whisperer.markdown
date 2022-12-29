@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Silvie, Wilds Whisperer (trading card)"
-date:   "2022-12-29T10:21:13.860Z"
+date:   "2022-12-29T16:01:28.347Z"
 permalink: silvie-wilds-whisperer_(card)
 incomplete: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Vertus, Gaia's Roar (trading card)"
-date:   "2022-12-29T10:21:14.576Z"
+date:   "2022-12-29T16:01:29.179Z"
 permalink: vertus-gaias-roar_(card)
 incomplete: true
 ---

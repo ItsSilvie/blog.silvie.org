@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Benevolent Battle Priest (trading card)"
-date:   "2022-12-29T10:21:14.520Z"
+date:   "2022-12-29T16:01:29.127Z"
 permalink: benevolent-battle-priest_(card)
 incomplete: true
 ---

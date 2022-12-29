@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Eager Page (trading card)"
-date:   "2022-12-29T10:21:14.487Z"
+date:   "2022-12-29T16:01:29.078Z"
 permalink: eager-page_(card)
 incomplete: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Gaia's Songbird (trading card)"
-date:   "2022-12-29T10:21:13.876Z"
+date:   "2022-12-29T16:01:28.366Z"
 permalink: gaias-songbird_(card)
 incomplete: true
 ---

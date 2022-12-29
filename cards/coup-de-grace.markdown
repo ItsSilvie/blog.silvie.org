@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Coup de Grace (trading card)"
-date:   "2022-12-29T10:21:14.485Z"
+date:   "2022-12-29T16:01:29.071Z"
 permalink: coup-de-grace_(card)
 incomplete: true
 ---

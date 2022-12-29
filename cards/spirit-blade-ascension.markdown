@@ -1,15 +1,10 @@
 ---
 layout: card
 title:  "Spirit Blade: Ascension (trading card)"
-date:   "2022-12-29T10:21:13.675Z"
+date:   "2022-12-29T16:01:28.135Z"
 permalink: spirit-blade-ascension_(card)
 incomplete: true
 ---
-
-## DOA 1st &middot; EN-251 R
-
-{% include templates/spirit-blade-ascension-doa1e.html %}
-
 
 ## DOAp &middot; EN-110 R
 
@@ -19,3 +14,8 @@ incomplete: true
 ## DOAp &middot; EN-110KS R
 
 {% include templates/spirit-blade-ascension-doap-ks.html %}
+
+
+## DOA 1st &middot; EN-251 R
+
+{% include templates/spirit-blade-ascension-doa1e.html %}

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Empowering Harmony (trading card)"
-date:   "2022-12-29T10:21:14.488Z"
+date:   "2022-12-29T16:01:29.080Z"
 permalink: empowering-harmony_(card)
 incomplete: true
 ---

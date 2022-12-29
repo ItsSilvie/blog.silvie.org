@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Flute of Taming (trading card)"
-date:   "2022-12-29T10:21:13.217Z"
+date:   "2022-12-29T16:01:28.045Z"
 permalink: flute-of-taming_(card)
 incomplete: true
 ---

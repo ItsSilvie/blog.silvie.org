@@ -1,15 +1,10 @@
 ---
 layout: card
 title:  "Lorraine, Wandering Warrior (trading card)"
-date:   "2022-12-29T10:21:13.120Z"
+date:   "2022-12-29T16:01:28.039Z"
 permalink: lorraine-wandering-warrior_(card)
 incomplete: true
 ---
-
-## DOA 1st &middot; EN-004 C
-
-{% include templates/lorraine-wandering-warrior-doa1e.html %}
-
 
 ## DOAp &middot; EN-003 C
 
@@ -19,6 +14,11 @@ incomplete: true
 ## DEMO22 &middot; EN-002 C
 
 {% include templates/lorraine-wandering-warrior-demo22.html %}
+
+
+## DOA 1st &middot; EN-004 C
+
+{% include templates/lorraine-wandering-warrior-doa1e.html %}
 
 
 ## DOA 1st &middot; EN-004 CUR

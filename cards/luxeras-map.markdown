@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Luxera's Map (trading card)"
-date:   "2022-12-29T10:21:14.481Z"
+date:   "2022-12-29T16:01:29.057Z"
 permalink: luxeras-map_(card)
 incomplete: true
 ---

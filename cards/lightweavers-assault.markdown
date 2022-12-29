@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Lightweaver's Assault (trading card)"
-date:   "2022-12-29T10:21:14.569Z"
+date:   "2022-12-29T16:01:29.173Z"
 permalink: lightweavers-assault_(card)
 incomplete: true
 ---

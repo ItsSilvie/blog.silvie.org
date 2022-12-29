@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Frozen Nova (trading card)"
-date:   "2022-12-29T10:21:14.524Z"
+date:   "2022-12-29T16:01:29.130Z"
 permalink: frozen-nova_(card)
 incomplete: true
 ---

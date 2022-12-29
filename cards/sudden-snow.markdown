@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Sudden Snow (trading card)"
-date:   "2022-12-29T10:21:14.541Z"
+date:   "2022-12-29T16:01:29.140Z"
 permalink: sudden-snow_(card)
 incomplete: true
 ---

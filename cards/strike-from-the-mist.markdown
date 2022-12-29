@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Strike from the Mist (trading card)"
-date:   "2022-12-29T10:21:14.541Z"
+date:   "2022-12-29T16:01:29.139Z"
 permalink: strike-from-the-mist_(card)
 incomplete: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Ignited Stab (trading card)"
-date:   "2022-12-29T10:21:14.512Z"
+date:   "2022-12-29T16:01:29.118Z"
 permalink: ignited-stab_(card)
 incomplete: true
 ---

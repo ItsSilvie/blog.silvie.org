@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Jewel of Enlightenment (trading card)"
-date:   "2022-12-29T10:21:14.469Z"
+date:   "2022-12-29T16:01:29.043Z"
 permalink: jewel-of-enlightenment_(card)
 incomplete: true
 ---

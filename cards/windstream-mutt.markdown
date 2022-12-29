@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Windstream Mutt (trading card)"
-date:   "2022-12-29T10:21:13.874Z"
+date:   "2022-12-29T16:01:28.365Z"
 permalink: windstream-mutt_(card)
 incomplete: true
 ---

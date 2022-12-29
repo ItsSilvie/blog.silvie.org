@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Beastbond Paws (trading card)"
-date:   "2022-12-29T10:21:13.862Z"
+date:   "2022-12-29T16:01:28.349Z"
 permalink: beastbond-paws_(card)
 incomplete: true
 ---

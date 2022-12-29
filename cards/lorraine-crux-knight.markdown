@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Lorraine, Crux Knight (trading card)"
-date:   "2022-12-29T10:21:13.158Z"
+date:   "2022-12-29T16:01:28.040Z"
 permalink: lorraine-crux-knight_(card)
 incomplete: true
 ---

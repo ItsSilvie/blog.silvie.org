@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Clarent, Sword of Peace (trading card)"
-date:   "2022-12-29T10:21:13.199Z"
+date:   "2022-12-29T16:01:28.043Z"
 permalink: clarent-sword-of-peace_(card)
 incomplete: true
 ---

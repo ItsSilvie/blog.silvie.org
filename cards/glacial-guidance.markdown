@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Glacial Guidance (trading card)"
-date:   "2022-12-29T10:21:14.525Z"
+date:   "2022-12-29T16:01:29.132Z"
 permalink: glacial-guidance_(card)
 incomplete: true
 ---

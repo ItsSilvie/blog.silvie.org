@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Patient Rogue (trading card)"
-date:   "2022-12-29T10:21:14.514Z"
+date:   "2022-12-29T16:01:29.120Z"
 permalink: patient-rogue_(card)
 incomplete: true
 ---

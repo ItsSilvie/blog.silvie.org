@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Lakeside Serpent (trading card)"
-date:   "2022-12-29T10:21:14.526Z"
+date:   "2022-12-29T16:01:29.133Z"
 permalink: lakeside-serpent_(card)
 incomplete: true
 ---

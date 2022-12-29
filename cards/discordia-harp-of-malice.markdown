@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Discordia, Harp of Malice (trading card)"
-date:   "2022-12-29T10:21:14.466Z"
+date:   "2022-12-29T16:01:29.039Z"
 permalink: discordia-harp-of-malice_(card)
 incomplete: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Arima, Gaia's Wings (trading card)"
-date:   "2022-12-29T10:21:13.875Z"
+date:   "2022-12-29T16:01:28.366Z"
 permalink: arima-gaias-wings_(card)
 incomplete: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Tactful Sergeant (trading card)"
-date:   "2022-12-29T10:21:13.611Z"
+date:   "2022-12-29T16:01:28.118Z"
 permalink: tactful-sergeant_(card)
 incomplete: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Chalice of Blood (trading card)"
-date:   "2022-12-29T10:21:13.863Z"
+date:   "2022-12-29T16:01:28.349Z"
 permalink: chalice-of-blood_(card)
 incomplete: true
 ---

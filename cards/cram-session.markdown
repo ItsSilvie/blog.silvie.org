@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Cram Session (trading card)"
-date:   "2022-12-29T10:21:14.485Z"
+date:   "2022-12-29T16:01:29.072Z"
 permalink: cram-session_(card)
 incomplete: true
 ---

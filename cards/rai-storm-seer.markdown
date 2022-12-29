@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Rai, Storm Seer (trading card)"
-date:   "2022-12-29T10:21:13.184Z"
+date:   "2022-12-29T16:01:28.041Z"
 permalink: rai-storm-seer_(card)
 incomplete: true
 ---

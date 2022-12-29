@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Silvie, Loved by All (trading card)"
-date:   "2022-12-29T10:21:13.188Z"
+date:   "2022-12-29T16:01:28.042Z"
 permalink: silvie-loved-by-all_(card)
 incomplete: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Extortion Scheme (trading card)"
-date:   "2022-12-29T10:21:14.549Z"
+date:   "2022-12-29T16:01:29.147Z"
 permalink: extortion-scheme_(card)
 incomplete: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Silvie, With the Pack (trading card)"
-date:   "2022-12-29T10:21:13.861Z"
+date:   "2022-12-29T16:01:28.347Z"
 permalink: silvie-with-the-pack_(card)
 incomplete: true
 ---

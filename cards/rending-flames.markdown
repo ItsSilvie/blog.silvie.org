@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Rending Flames (trading card)"
-date:   "2022-12-29T10:21:13.542Z"
+date:   "2022-12-29T16:01:28.109Z"
 permalink: rending-flames_(card)
 incomplete: true
 ---

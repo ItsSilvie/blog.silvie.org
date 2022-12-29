@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Call the Pack (trading card)"
-date:   "2022-12-29T10:21:14.572Z"
+date:   "2022-12-29T16:01:29.176Z"
 permalink: call-the-pack_(card)
 incomplete: true
 ---

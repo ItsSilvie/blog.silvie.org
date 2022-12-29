@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Gaia's Blessing (trading card)"
-date:   "2022-12-29T10:21:14.481Z"
+date:   "2022-12-29T16:01:29.057Z"
 permalink: gaias-blessing_(card)
 incomplete: true
 ---

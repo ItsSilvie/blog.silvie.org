@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Deep Sea Beastbonder (trading card)"
-date:   "2022-12-29T10:21:14.522Z"
+date:   "2022-12-29T16:01:29.128Z"
 permalink: deep-sea-beastbonder_(card)
 incomplete: true
 ---

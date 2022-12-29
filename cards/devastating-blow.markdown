@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Devastating Blow (trading card)"
-date:   "2022-12-29T10:21:13.495Z"
+date:   "2022-12-29T16:01:28.094Z"
 permalink: devastating-blow_(card)
 incomplete: true
 ---

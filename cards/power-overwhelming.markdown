@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Power Overwhelming (trading card)"
-date:   "2022-12-29T10:21:13.647Z"
+date:   "2022-12-29T16:01:28.122Z"
 permalink: power-overwhelming_(card)
 incomplete: true
 ---

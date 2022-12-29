@@ -1,15 +1,10 @@
 ---
 layout: card
 title:  "Reckless Slash (trading card)"
-date:   "2022-12-29T10:21:13.426Z"
+date:   "2022-12-29T16:01:28.086Z"
 permalink: reckless-slash_(card)
 incomplete: true
 ---
-
-## DOA 1st &middot; EN-105 C
-
-{% include templates/reckless-slash-doa1e.html %}
-
 
 ## DOAp &middot; EN-054 C
 
@@ -19,3 +14,8 @@ incomplete: true
 ## DEMO22 &middot; EN-016 C
 
 {% include templates/reckless-slash-demo22.html %}
+
+
+## DOA 1st &middot; EN-105 C
+
+{% include templates/reckless-slash-doa1e.html %}

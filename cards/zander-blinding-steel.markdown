@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Zander, Blinding Steel (trading card)"
-date:   "2022-12-29T10:21:13.189Z"
+date:   "2022-12-29T16:01:28.042Z"
 permalink: zander-blinding-steel_(card)
 incomplete: true
 ---

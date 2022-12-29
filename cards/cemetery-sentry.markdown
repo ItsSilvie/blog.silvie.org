@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Cemetery Sentry (trading card)"
-date:   "2022-12-29T10:21:14.503Z"
+date:   "2022-12-29T16:01:29.099Z"
 permalink: cemetery-sentry_(card)
 incomplete: true
 ---

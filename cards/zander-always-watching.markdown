@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Zander, Always Watching (trading card)"
-date:   "2022-12-29T10:21:14.451Z"
+date:   "2022-12-29T16:01:29.016Z"
 permalink: zander-always-watching_(card)
 incomplete: true
 ---

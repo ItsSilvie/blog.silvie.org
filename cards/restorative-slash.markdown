@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Restorative Slash (trading card)"
-date:   "2022-12-29T10:21:14.534Z"
+date:   "2022-12-29T16:01:29.136Z"
 permalink: restorative-slash_(card)
 incomplete: true
 ---

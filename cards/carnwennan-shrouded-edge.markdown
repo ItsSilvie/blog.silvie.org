@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Carnwennan, Shrouded Edge (trading card)"
-date:   "2022-12-29T10:21:14.480Z"
+date:   "2022-12-29T16:01:29.056Z"
 permalink: carnwennan-shrouded-edge_(card)
 incomplete: true
 ---

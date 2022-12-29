@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Mark the Target (trading card)"
-date:   "2022-12-29T10:21:14.514Z"
+date:   "2022-12-29T16:01:29.119Z"
 permalink: mark-the-target_(card)
 incomplete: true
 ---

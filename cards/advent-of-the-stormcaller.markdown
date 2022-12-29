@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Advent of the Stormcaller (trading card)"
-date:   "2022-12-29T10:21:14.559Z"
+date:   "2022-12-29T16:01:29.162Z"
 permalink: advent-of-the-stormcaller_(card)
 incomplete: true
 ---

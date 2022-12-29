@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Seed of Nature (trading card)"
-date:   "2022-12-29T10:21:13.288Z"
+date:   "2022-12-29T16:01:28.054Z"
 permalink: seed-of-nature_(card)
 incomplete: true
 ---

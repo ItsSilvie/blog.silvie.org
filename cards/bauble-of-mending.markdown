@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Bauble of Mending (trading card)"
-date:   "2022-12-29T10:21:14.461Z"
+date:   "2022-12-29T16:01:29.035Z"
 permalink: bauble-of-mending_(card)
 incomplete: true
 ---

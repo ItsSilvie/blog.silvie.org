@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Flamelash Subduer (trading card)"
-date:   "2022-12-29T10:21:14.510Z"
+date:   "2022-12-29T16:01:29.116Z"
 permalink: flamelash-subduer_(card)
 incomplete: true
 ---

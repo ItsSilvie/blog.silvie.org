@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Conceal (trading card)"
-date:   "2022-12-29T10:21:13.313Z"
+date:   "2022-12-29T16:01:28.055Z"
 permalink: conceal_(card)
 incomplete: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Varuck, Smoldering Spire (trading card)"
-date:   "2022-12-29T10:21:14.519Z"
+date:   "2022-12-29T16:01:29.126Z"
 permalink: varuck-smoldering-spire_(card)
 incomplete: true
 ---

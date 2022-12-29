@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Backstab (trading card)"
-date:   "2022-12-29T10:21:14.482Z"
+date:   "2022-12-29T16:01:29.061Z"
 permalink: backstab_(card)
 incomplete: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Avalon, Cursed Isle (trading card)"
-date:   "2022-12-29T10:21:14.520Z"
+date:   "2022-12-29T16:01:29.127Z"
 permalink: avalon-cursed-isle_(card)
 incomplete: true
 ---

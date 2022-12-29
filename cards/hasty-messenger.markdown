@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Hasty Messenger (trading card)"
-date:   "2022-12-29T10:21:14.511Z"
+date:   "2022-12-29T16:01:29.117Z"
 permalink: hasty-messenger_(card)
 incomplete: true
 ---

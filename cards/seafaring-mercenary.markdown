@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Seafaring Mercenary (trading card)"
-date:   "2022-12-29T10:21:14.534Z"
+date:   "2022-12-29T16:01:29.137Z"
 permalink: seafaring-mercenary_(card)
 incomplete: true
 ---

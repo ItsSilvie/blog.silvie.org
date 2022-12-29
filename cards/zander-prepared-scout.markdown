@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Zander, Prepared Scout (trading card)"
-date:   "2022-12-29T10:21:14.447Z"
+date:   "2022-12-29T16:01:29.006Z"
 permalink: zander-prepared-scout_(card)
 incomplete: true
 ---

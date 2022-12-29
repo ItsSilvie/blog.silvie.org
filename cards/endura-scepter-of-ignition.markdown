@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Endura, Scepter of Ignition (trading card)"
-date:   "2022-12-29T10:21:13.208Z"
+date:   "2022-12-29T16:01:28.043Z"
 permalink: endura-scepter-of-ignition_(card)
 incomplete: true
 ---

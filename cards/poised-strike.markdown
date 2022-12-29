@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Poised Strike (trading card)"
-date:   "2022-12-29T10:21:14.552Z"
+date:   "2022-12-29T16:01:29.154Z"
 permalink: poised-strike_(card)
 incomplete: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Embersong (trading card)"
-date:   "2022-12-29T10:21:13.869Z"
+date:   "2022-12-29T16:01:28.362Z"
 permalink: embersong_(card)
 incomplete: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Sword of Adversity (trading card)"
-date:   "2022-12-29T10:21:14.476Z"
+date:   "2022-12-29T16:01:29.051Z"
 permalink: sword-of-adversity_(card)
 incomplete: true
 ---

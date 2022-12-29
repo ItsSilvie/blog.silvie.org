@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Gleaming Cut (trading card)"
-date:   "2022-12-29T10:21:14.569Z"
+date:   "2022-12-29T16:01:29.173Z"
 permalink: gleaming-cut_(card)
 incomplete: true
 ---

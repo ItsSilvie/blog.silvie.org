@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Thousand Refractions (trading card)"
-date:   "2022-12-29T10:21:14.570Z"
+date:   "2022-12-29T16:01:29.174Z"
 permalink: thousand-refractions_(card)
 incomplete: true
 ---

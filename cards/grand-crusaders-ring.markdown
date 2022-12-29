@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Grand Crusader's Ring (trading card)"
-date:   "2022-12-29T10:21:14.468Z"
+date:   "2022-12-29T16:01:29.042Z"
 permalink: grand-crusaders-ring_(card)
 incomplete: true
 ---

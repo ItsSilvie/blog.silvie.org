@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Mistbound Watcher (trading card)"
-date:   "2022-12-29T10:21:14.532Z"
+date:   "2022-12-29T16:01:29.135Z"
 permalink: mistbound-watcher_(card)
 incomplete: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Nia, Mistveiled Scout (trading card)"
-date:   "2022-12-29T10:21:14.533Z"
+date:   "2022-12-29T16:01:29.135Z"
 permalink: nia-mistveiled-scout_(card)
 incomplete: true
 ---

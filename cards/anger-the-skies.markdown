@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Anger the Skies (trading card)"
-date:   "2022-12-29T10:21:13.629Z"
+date:   "2022-12-29T16:01:28.120Z"
 permalink: anger-the-skies_(card)
 incomplete: true
 ---

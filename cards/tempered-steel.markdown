@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Tempered Steel (trading card)"
-date:   "2022-12-29T10:21:13.554Z"
+date:   "2022-12-29T16:01:28.110Z"
 permalink: tempered-steel_(card)
 incomplete: true
 ---

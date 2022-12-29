@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Beseech the Winds (trading card)"
-date:   "2022-12-29T10:21:14.545Z"
+date:   "2022-12-29T16:01:29.143Z"
 permalink: beseech-the-winds_(card)
 incomplete: true
 ---

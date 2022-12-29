@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Clean Cut (trading card)"
-date:   "2022-12-29T10:21:14.484Z"
+date:   "2022-12-29T16:01:29.068Z"
 permalink: clean-cut_(card)
 incomplete: true
 ---

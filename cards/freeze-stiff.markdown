@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Freeze Stiff (trading card)"
-date:   "2022-12-29T10:21:14.523Z"
+date:   "2022-12-29T16:01:29.130Z"
 permalink: freeze-stiff_(card)
 incomplete: true
 ---

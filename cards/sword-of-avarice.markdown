@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Sword of Avarice (trading card)"
-date:   "2022-12-29T10:21:14.480Z"
+date:   "2022-12-29T16:01:29.055Z"
 permalink: sword-of-avarice_(card)
 incomplete: true
 ---

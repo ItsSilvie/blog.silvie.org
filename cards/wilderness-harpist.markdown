@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Wilderness Harpist (trading card)"
-date:   "2022-12-29T10:21:14.556Z"
+date:   "2022-12-29T16:01:29.159Z"
 permalink: wilderness-harpist_(card)
 incomplete: true
 ---

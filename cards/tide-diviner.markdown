@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Tide Diviner (trading card)"
-date:   "2022-12-29T10:21:14.543Z"
+date:   "2022-12-29T16:01:29.141Z"
 permalink: tide-diviner_(card)
 incomplete: true
 ---
