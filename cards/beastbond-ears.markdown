@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Beastbond Ears (card)"
-date:   "2022-12-29T22:57:30.120Z"
+date:   "2022-12-31T07:35:19.451Z"
 permalink: beastbond-ears_(card)
 ---
 

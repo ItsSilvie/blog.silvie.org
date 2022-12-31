@@ -1,7 +1,7 @@
 ---
 layout: card
 title:  "Safeguard Amulet (card)"
-date:   "2022-12-29T22:57:30.125Z"
+date:   "2022-12-31T07:35:19.456Z"
 permalink: safeguard-amulet_(card)
 ---
 
