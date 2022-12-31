@@ -109,7 +109,8 @@ The short answer...
 - First Edition features collector ultra rare versions of each main champion card, whereas Alter Edition does not;
 - Alter Edition includes foil versions of the lineage break champion cards, whereas First Edition does;
 - Alter Edition features collector super rare versions of the lineage break champion cards, whereas First Edition does not;
-- First Edition is prefixed `DOA 1st`, whereas Alter Edition is prefixed `DOA Alter`.
+- First Edition is prefixed `DOA 1st`, whereas Alter Edition is prefixed `DOA Alter`;
+- Alter Edition will include at least 2 additional cards, but details on what those cards are has not yet been made public.
 
 The long answer...
 
@@ -128,6 +129,8 @@ Only 1 in 15 First Edition booster boxes contain a collector ultra rare, making 
 {% include image.html url="/assets/images/sets/DOA-1st/merlin-csr.jpg" description="The Alter Edition Merlin collector super rare from Grand Archive's Twitter feed." max-width="600px" %}
 
 Alongside the collector super rare versions of the lineage break champions, Alter Edition also includes foil versions of those cards which are not included in the First Edition set.
+
+The First Edition set ends at card 275, but the developers have teased on Discord that a Rare non-regalia card in Alter Edition will be numbered 277. This means that at least 2 additional cards appear in the Alter Edition set which are not part of the First Edition set. Details on what those cards are is so far unknown.
 
 ## Errors
 
