@@ -1,14 +1,9 @@
 ---
 layout: card
 title:  "Tera Sight (card)"
-date:   "2022-12-31T07:35:19.481Z"
+date:   "2022-12-26T06:00:00.000Z"
 permalink: tera-sight_(card)
 ---
-
-## DOApSP &middot; EN-274 U
-
-{% include templates/tera-sight-doapsp.html %}
-
 
 ## DOA 1st &middot; EN-274 U
 

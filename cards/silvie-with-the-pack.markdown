@@ -1,14 +1,9 @@
 ---
 layout: card
 title:  "Silvie, With the Pack (card)"
-date:   "2022-12-31T07:35:19.449Z"
+date:   "2022-12-26T06:00:00.000Z"
 permalink: silvie-with-the-pack_(card)
 ---
-
-## DOApSP &middot; EN-011 C
-
-{% include templates/silvie-with-the-pack-doapsp.html %}
-
 
 ## DOA 1st &middot; EN-011 C
 

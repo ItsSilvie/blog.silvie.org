@@ -1,14 +1,9 @@
 ---
 layout: card
 title:  "Song of Nurturing (card)"
-date:   "2022-12-31T07:35:19.461Z"
+date:   "2022-12-26T06:00:00.000Z"
 permalink: song-of-nurturing_(card)
 ---
-
-## DOApSP &middot; EN-110 C
-
-{% include templates/song-of-nurturing-doapsp.html %}
-
 
 ## DOA 1st &middot; EN-110 C
 

@@ -8,8 +8,3 @@ permalink: flute-of-taming_(card)
 ## DOAp &middot; EN-016 R
 
 {% include templates/flute-of-taming-doap.html %}
-
-
-## DOApSP &middot; EN-000 R
-
-{% include templates/flute-of-taming-doapsp.html %}

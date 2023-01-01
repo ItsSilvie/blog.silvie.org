@@ -8,8 +8,3 @@ permalink: seed-of-nature_(card)
 ## DOAp &middot; EN-031 SR
 
 {% include templates/seed-of-nature-doap.html %}
-
-
-## DOApSP &middot; EN-000 SR
-
-{% include templates/seed-of-nature-doapsp.html %}
