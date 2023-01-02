@@ -5,6 +5,11 @@ date:   "2022-12-26T06:00:00.000Z"
 permalink: sudden-steel_(card)
 ---
 
+## DOA 1st &middot; EN-112 C
+
+{% include templates/sudden-steel-doa1e.html %}
+
+
 ## DOAp &middot; EN-058 C
 
 {% include templates/sudden-steel-doap.html %}
@@ -13,8 +18,3 @@ permalink: sudden-steel_(card)
 ## DEMO22 &middot; EN-017 U
 
 {% include templates/sudden-steel-demo22.html %}
-
-
-## DOA 1st &middot; EN-112 C
-
-{% include templates/sudden-steel-doa1e.html %}

@@ -5,11 +5,11 @@ date:   "2022-12-26T06:00:00.000Z"
 permalink: blazing-throw_(card)
 ---
 
-## DOAp &middot; EN-064 C
-
-{% include templates/blazing-throw-doap.html %}
-
-
 ## DOA 1st &middot; EN-120 C
 
 {% include templates/blazing-throw-doa1e.html %}
+
+
+## DOAp &middot; EN-064 C
+
+{% include templates/blazing-throw-doap.html %}

@@ -5,6 +5,11 @@ date:   "2022-12-26T06:00:00.000Z"
 permalink: banner-knight_(card)
 ---
 
+## DOA 1st &middot; EN-071 C
+
+{% include templates/banner-knight-doa1e.html %}
+
+
 ## DOAp &middot; EN-032 C
 
 {% include templates/banner-knight-doap.html %}
@@ -18,8 +23,3 @@ permalink: banner-knight_(card)
 ## P22 &middot; EN-007 CPR
 
 {% include templates/banner-knight-p22.html %}
-
-
-## DOA 1st &middot; EN-071 C
-
-{% include templates/banner-knight-doa1e.html %}

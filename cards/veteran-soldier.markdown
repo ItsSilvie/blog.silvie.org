@@ -5,6 +5,11 @@ date:   "2022-12-26T06:00:00.000Z"
 permalink: veteran-soldier_(card)
 ---
 
+## DOA 1st &middot; EN-115 C
+
+{% include templates/veteran-soldier-doa1e.html %}
+
+
 ## DOAp &middot; EN-061 C
 
 {% include templates/veteran-soldier-doap.html %}
@@ -13,8 +18,3 @@ permalink: veteran-soldier_(card)
 ## DEMO22 &middot; EN-019 C
 
 {% include templates/veteran-soldier-demo22.html %}
-
-
-## DOA 1st &middot; EN-115 C
-
-{% include templates/veteran-soldier-doa1e.html %}

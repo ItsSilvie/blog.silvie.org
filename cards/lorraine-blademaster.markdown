@@ -5,16 +5,6 @@ date:   "2022-12-26T06:00:00.000Z"
 permalink: lorraine-blademaster_(card)
 ---
 
-## DOAp &middot; EN-004 C
-
-{% include templates/lorraine-blademaster-doap.html %}
-
-
-## DEMO22 &middot; EN-003 C
-
-{% include templates/lorraine-blademaster-demo22.html %}
-
-
 ## DOA 1st &middot; EN-005 C
 
 {% include templates/lorraine-blademaster-doa1e.html %}
@@ -28,3 +18,13 @@ permalink: lorraine-blademaster_(card)
 ## KSP &middot; EN-001 PR
 
 {% include templates/lorraine-blademaster-ksp.html %}
+
+
+## DOAp &middot; EN-004 C
+
+{% include templates/lorraine-blademaster-doap.html %}
+
+
+## DEMO22 &middot; EN-003 C
+
+{% include templates/lorraine-blademaster-demo22.html %}

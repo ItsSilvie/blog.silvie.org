@@ -5,6 +5,11 @@ date:   "2022-12-26T06:00:00.000Z"
 permalink: seers-sword_(card)
 ---
 
+## DOA 1st &middot; EN-051 U
+
+{% include templates/seers-sword-doa1e.html %}
+
+
 ## DOAp &middot; EN-022 U
 
 {% include templates/seers-sword-doap.html %}
@@ -13,8 +18,3 @@ permalink: seers-sword_(card)
 ## DEMO22 &middot; EN-007 U
 
 {% include templates/seers-sword-demo22.html %}
-
-
-## DOA 1st &middot; EN-051 U
-
-{% include templates/seers-sword-doa1e.html %}
