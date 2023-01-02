@@ -53,7 +53,7 @@ Cards are determined by their position in the pack, denoted as "slots":
 * Slots 2 through 8 will contain a non-duplicate common;
 * Slot 9 will either contain a non-duplicate common, a foil (1/8 chance) or a collector ultra rare (1/357 chance*);
 * Slot 10 and 11 will contain a non-duplicate uncommon;
-* Slot 12 will either contin a rare, a super rare (1/4 chance) or an ultra rare (1/24 chance).
+* Slot 12 will either contain a rare, a super rare (1/4 chance) or an ultra rare (1/24 chance).
 
 The Spirit champions (Spirit of Fire, Water and Wind) are not found in booster packs - these are instead included in box topper packs which contain 2 of each non-foil. The Lineage Break champions (Allen, Merlin, Mordred and Tristan) are only available as non-foil, with their foil variants being exclusively found in <span class="dead-link">[Alter Edition](/DOA-Alter_(set))</span>.
 
