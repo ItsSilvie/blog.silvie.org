@@ -2,7 +2,7 @@
 layout: post
 title:  "Grand Archive Promotional Packs"
 date:   2022-07-05 06:51:57 +0100
-last_modified_at: 2022-10-13 21:02:00 +0100
+last_modified_at: 2023-02-17 15:02:00 +0100
 categories: sample
 permalink: promotional-packs
 excerpt: Promotional Packs were first seen in March 2022, replacing individual card giveaways with a random selection of cards instead. Here is everything we know about them.
@@ -25,6 +25,8 @@ Promotional packs were to replace the individual cards the development team had 
 
 The `17 MAR 2022` identifier turned out to be just an internal test and was not publicly released. The first promotional packs to make their way out into the public had the code [`SAMPLE`](#identifier-code-sample), followed shortly after by [`SAMPLE2`](#identifier-code-sample2) and [`SAMPLE3`](#identifier-code-sample3).
 
+This article aims to cover everything known about various Promotional Pack releases.
+
 ## Distribution
 
 This section provides a brief overview of how many of each of the Grand Archive promotional packs have been produced.
@@ -35,13 +37,12 @@ Pack code | <small>Population</small> | Release date
 [`SAMPLE2`](#identifier-code-sample2) | ≥ 147 | 15th April 2022
 [`SAMPLE3`](#identifier-code-sample3) | ≈ 200 | 28th May 2022
 [`P22 - 1`](#identifier-code-p22---1) | 1,350 | 1st July 2022
+[Clumsy Apprentice](#clumsy-apprentice) | 1,600 | 2nd December 2022
 
 
-## Pack list
+## Black packs (March - Present)
 
-All promotional packs are identical in appearance. The identifier code specifically denotes the pack's contents. Unlike before where winners of giveaways would be awarded a specific card, these packs would contain one card at random from a pool of cards.
-
-This list aims to cover everything known about various Promotional Pack releases.
+All black promotional packs are identical in appearance but with designating identifiers printed on the back. The identifier code denotes the pack's contents. All black packs contain sample cards with the exception of [`P22 - 1`](#identifier-code-p22---1).
 
 ### Identifier code: `SAMPLE`
 
@@ -112,18 +113,47 @@ Approximately 200 `SAMPLE3` packs were given out at Collect-a-Con in May 2022.
 
 ### Identifier code: `P22 - 1`
 
-`P22 - 1` was the first time Promotional Packs had been used to distribute non-sample cards. The cards in `SAMPLE`, `SAMPLE2` and `SAMPLE3` are not legal for play, but the cards awarded from `P22 - 1` packs are printed on finalized card stock and - despite being released a couple of months before the <span class="dead-link">[Dawn of Ashes First Edition](/DOA_(set))</span> set was distributed - are legal for play and not regarded as samples.
+`P22 - 1` was the first time Promotional Packs had been used to distribute non-sample cards. The cards in `SAMPLE`, `SAMPLE2` and `SAMPLE3` are not legal for play, but the cards awarded from `P22 - 1` packs are printed on finalized card stock and - despite being released a couple of months before the [Dawn of Ashes First Edition](/DOA-1st_(set)) set was distributed - are legal for play and not regarded as samples.
+
+{% include image.html url="/assets/images/2022-06-21-promotional-packs/p22-1.png" description="Grand Archive Clumsy Apprentice Promotional Pack scan." %}
 
 #### Contents
 
-- <small>[87.5%]</small> <span class="dead-link">[Dungeon Guide _<small>P22 &middot; EN-000 C</small>_ alternative artwork non-foil](/dungeon-guide_(card)#p22--en-000-c)</span>
-- <small>[12.5%]</small> <span class="dead-link">[Dungeon Guide _<small>P22 &middot; EN-000 C</small>_ alternative artwork foil](/dungeon-guide_(card)#p22--en-000-c)</span>
+- <small>[87.5%]</small> [Dungeon Guide _<small>P22 &middot; EN-001 PR</small>_ alternative artwork non-foil](/dungeon-guide_(card)#p22--en-001-pr)
+- <small>[12.5%]</small> [Dungeon Guide _<small>P22 &middot; EN-001 PR</small>_ alternative artwork foil](/dungeon-guide_(card)#p22--en-001-pr)
 
 #### Distribution
 
 The developers stated publicly that the Dungeon Guide promo would have 2,100 non-foil and 300 foil copies, however only 1,200 non-foil and 150 foil were eventually distributed. This results in a total of 1,350 `P22 - 1` code packs in circulation.
 
 Approximately 480 packs were distributed at Anime Expo in July 2022, with the remainder distributed at Anime Matsuri, Anime Houston and Collect-A-Con Long Beach throughout summer 2022, and as part of separate Discord chat bot and merchandise events.
+
+## Silver packs
+
+In December 2022 the Grand Archive developers moved away from the black pack with identifier code design and introduced a new silver pack design which clearly denotes the packs contents on the front.
+
+### Clumsy Apprentice
+
+An article [published on the Grand Archive website](https://www.gatcg.com/article/upcoming-promotional-cards) on 14th October 2022 listed 4 upcoming promotional cards in the P22 set. For the Clumsy Apprentice card, they alluded to the changed pack design without revealing any more:
+
+> You will be able to find Clumsy Apprentice promotional packs at our upcoming event, Anime Frontier! These promotional packs will be replacing the previous Dungeon Guide packs we have been including with merch sales.
+
+It was during Anime Frontier on 2nd December when these packs started to be handed out that we saw what these new packs looked like.
+
+{% include image.html url="/assets/images/2022-06-21-promotional-packs/clumsy-apprentice.png" description="Grand Archive Clumsy Apprentice Promotional Pack scan." max-width="360px" %}
+
+#### Contents
+
+- <small>[87.5%]</small> [Clumsy Apprentice _<small>P22 &middot; EN-006 PR</small>_ alternative artwork non-foil](/clumsy-apprentice_(card)#p22--en-006-pr)
+- <small>[12.5%]</small> [Clumsy Apprentice _<small>P22 &middot; EN-006 PR</small>_ alternative artwork foil](/clumsy-apprentice_(card)#p22--en-006-pr)
+
+#### Distribution
+
+Packs were originally distributed at Anime Frontier between 2nd and 4th December 2022 to anyone who spent $40 or more on merchandise. Every $40 spent would result in a Clumsy Apprentice pack being thrown in for free.
+
+This merchandise event extended to Discord in January 2023, similarly to the previous [`P22 - 1`](#identifier-code-p22---1) packs, for anyone to participate in during a 36 hour window.
+
+Two packs were also bundled in with <span class="dead-link">[Grand Archive Ambassador Bundles](/ambassador-bundle)</span> for anyone lucky enough to receive one of those.
 
 ### Personalized packs
 
