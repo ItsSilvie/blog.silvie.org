@@ -19,7 +19,7 @@ Cards in this set are prefixed `DOAp`.
 
 ### Kickstarter exclusive pack contents
 
-There are 54 cards available from the Kickstarter exclusive Dawn of Ashes Prelude booster packs. These include cards which are either not found in the Lorraine and Rai Starter Decks, or versions of those cards which instead include "KS" number prefix and the Kickstarter logo.
+There are 55 cards available from the Kickstarter exclusive Dawn of Ashes Prelude booster packs. These include cards which are either not found in the Lorraine and Rai Starter Decks, or versions of those cards which instead include "KS" number prefix and the Kickstarter logo. The only exception to this is Blitz Mage, which was added late in the development process to make up numbers.
 
 {% include templates/DOAp-kickstarter-exclusive.html %}
 
@@ -36,6 +36,18 @@ The Lorraine Starter Deck is a <span class="dead-link">[Wind](/elements#wind)</s
 The Rai Starter Deck is a <span class="dead-link">[Fire](/elements#fire)</span>/<span class="dead-link">[Arcane](/elements#arcane)</span> deck tailored towards combo attacks and control, featuring champion <span class="dead-link">[Rai Kyouki](/champions#rai-kyouki)</span>.
 
 {% include templates/DOAp-rai-starter-deck.html %}
+
+## Print Quality
+
+The Dawn of Ashes Prelude Lorraine and Rai starter decks were printed earlier than the cards found in the Prelude booster packs. Between the two prints, some colour adjustments were made to the set to improve the appearance of each card. Because of this, the cards in the starter decks appear to be slightly more faded or washed out than those in the booster packs.
+
+### Blitz Mage
+
+Blitz Mage is the only card in the set to appear in both the Prelude booster packs and one of the starter decks without having its number changed. As such, the difference in print runs is very noticable on copies of this card found in the decks compared to those pulled from booster packs:
+
+{% include image.html url="/assets/images/sets/DOAp/blitz-mage.png" description="DOAp Blitz Mage starter deck print (left) vs booster pack print (right)." %}
+
+This is something which affects all copies of Blitz Mage. The 15,000 Blitz Mage cards that are found in the Rai Starter Deck have a more orange and slightly faded appearance compared to the 4,000 booster pack versions of the card, which are more red and vibrant.
 
 ## History
 
