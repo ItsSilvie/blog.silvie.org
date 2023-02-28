@@ -8,7 +8,7 @@ permalink: DOA-1st_(set)
 image: /assets/images/sets/DOA-1st/thumbnail.png
 ---
 
-{% include image.html url="/assets/images/sets/DOA-1st/boxes.png" description="Sealed Dawn of Ashes First Edition booster boxes (from Kickstarter Update #28)." max-width="100%" %}
+{% include image.html url="/assets/images/sets/DOA-1st/boxes.png" description="Dawn of Ashes First Edition booster box product image." max-width="600px" %}
 
 You may be looking for the <span class="dead-link">[Dawn of Ashes Alter Edition](/DOA-Alter_(set))</span> set.
 

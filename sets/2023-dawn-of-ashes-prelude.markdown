@@ -10,7 +10,7 @@ image: /assets/images/sets/DOAp/thumbnail.png
 
 Dawn of Ashes Prelude was released in February 2023 alongside [Dawn of Ashes First Edition](/DOA-1st_(set)). In total about 7,500 Dawn of Ashes Prelude Starter Kit boxes were distributed, each containing the DOAp Lorraine and Rai Starter Decks, 4 Dawn of Ashes Prelude booster packs, and a 6-card box topper pack.
 
-{% include image.html url="/assets/images/sets/DOAp/starter-kit.png" description="Dawn of Ashes Prelude Starter Kit product image." %}
+{% include image.html url="/assets/images/sets/DOAp/starter-kit.png" description="Dawn of Ashes Prelude Starter Kit product image." max-width="600px" %}
 
 ## Set list
 
