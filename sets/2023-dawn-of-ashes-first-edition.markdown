@@ -2,7 +2,7 @@
 layout: set
 title: "Dawn of Ashes First Edition (DOA 1st)"
 date: 2022-12-27 17:34:00 +0100
-last_modified_at: 2022-12-29 13:57:00 +0100
+last_modified_at: 2023-02-28 21:34:00 +0100
 categories: sets
 permalink: DOA-1st_(set)
 image: /assets/images/sets/DOA-1st/thumbnail.png
@@ -21,6 +21,12 @@ Cards in this set are prefixed `DOA 1st`*.
 {% include templates/DOA-1st.html %}
 
 \* Two of the cards are erroneously printed as `DOA` instead of `DOA 1st`. See [Missing "1st" prefix"](#missing-1st-prefix).
+
+### Box topper pack contents
+
+Every Dawn of Ashes First Edition booster box includes a box topper pack which includes two of each of the Spirit champions the set introduced:
+
+{% include templates/DOA-1st-box-topper.html %}
 
 ## Print run
 
