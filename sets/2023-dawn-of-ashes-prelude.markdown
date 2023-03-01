@@ -30,6 +30,10 @@ Every Dawn of Ashes Prelude Starter Kit box includes a box topper pack which inc
 
 {% include templates/DOAp-box-topper.html %}
 
+### Box opening video
+
+{% include youtube.html id="1P67FIlpqKM" %}
+
 ## Decks
 
 ### Lorraine Starter Deck (Prelude)

@@ -119,8 +119,8 @@ Approximately 200 `SAMPLE3` packs were given out at Collect-a-Con in May 2022.
 
 #### Contents
 
-- <small>[87.5%]</small> [Dungeon Guide _<small>P22 &middot; EN-001 PR</small>_ alternative artwork non-foil](/dungeon-guide_(card)#p22--en-001-pr)
-- <small>[12.5%]</small> [Dungeon Guide _<small>P22 &middot; EN-001 PR</small>_ alternative artwork foil](/dungeon-guide_(card)#p22--en-001-pr)
+- <small>[87.5%]</small> [Dungeon Guide _<small>P22 &middot; EN-001 PR</small>_ alternative artwork non-foil](https://index.gatcg.com/edition/dungeon-guide-p22)
+- <small>[12.5%]</small> [Dungeon Guide _<small>P22 &middot; EN-001 PR</small>_ alternative artwork foil](https://index.gatcg.com/edition/dungeon-guide-p22)
 
 #### Distribution
 
@@ -144,8 +144,8 @@ It was during Anime Frontier on 2nd December when these packs started to be hand
 
 #### Contents
 
-- <small>[87.5%]</small> [Clumsy Apprentice _<small>P22 &middot; EN-006 PR</small>_ alternative artwork non-foil](/clumsy-apprentice_(card)#p22--en-006-pr)
-- <small>[12.5%]</small> [Clumsy Apprentice _<small>P22 &middot; EN-006 PR</small>_ alternative artwork foil](/clumsy-apprentice_(card)#p22--en-006-pr)
+- <small>[87.5%]</small> [Clumsy Apprentice _<small>P22 &middot; EN-006 PR</small>_ alternative artwork non-foil](https://index.gatcg.com/edition/clumsy-apprentice-p22)
+- <small>[12.5%]</small> [Clumsy Apprentice _<small>P22 &middot; EN-006 PR</small>_ alternative artwork foil](https://index.gatcg.com/edition/clumsy-apprentice-p22)
 
 #### Distribution
 

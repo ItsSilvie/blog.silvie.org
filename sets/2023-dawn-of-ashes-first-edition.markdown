@@ -28,6 +28,10 @@ Every Dawn of Ashes First Edition booster box includes a box topper pack which i
 
 {% include templates/DOA-1st-box-topper.html %}
 
+### Box opening video
+
+{% include youtube.html id="kRWg_wo9SLk" %}
+
 ## Print run
 
 The First Edition set was printed exclusively as an early release for those who backed Grand Archive's [Kickstarter campaign](/kickstarter). There was a 20,000 booster box limit, and at the end of the campaign 1,539 backers had placed orders for ~11,500 of them.
@@ -146,7 +150,7 @@ After the Dawn of Ashes First Edition print run had finished, the developers not
 
 "DOA" (Dawn of Ashes) without the "1st", was originally intended to be the set prefix for the <span class="dead-link">[Alter Edition](/DOA-Alter_(set))</span> version of the set. However following this discovery the Grand Archive developers decided to modify all Alter Edition cards to use "DOA Alter" as their set prefix instead to avoid confusion.
 
-The cards affected by this error are [Juggle Knives (EN-095)](/juggle-knives_(card)#doa%201st--en-095-c) and [Restorative Slash (EN-185)](/restorative-slash_(card)#doa%201st--en-185-c).
+The cards affected by this error are [Juggle Knives (EN-095)](https://index.gatcg.com/edition/juggle-knives-doa1e) and [Restorative Slash (EN-185)](https://index.gatcg.com/edition/restorative-slash-doa1e).
 
 {% include image.html url="/assets/images/sets/DOA-1st/missing-1st.png" description="Juggle Knives and Restorative Slash." max-width="100%" %}
 

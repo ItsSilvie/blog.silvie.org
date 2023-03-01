@@ -319,7 +319,7 @@ The quantity of each card reveals its overall population. With 12,000 decks dist
 
 ## Differences
 
-Compared with the final 19-card [LGS Demo 2022](/DEMO22_(set)) deck release, the sample deck has a total of 20 cards. [Lorraine, Blademaster](/lorraine-blademaster) and [Banner Knight](/banner-knight) make an appearance in the sample deck, with [Scry the Skies](/scry-the-skies_(card)#demo22--en-015-c) from the final release not included.
+Compared with the final 19-card [LGS Demo 2022](/DEMO22_(set)) deck release, the sample deck has a total of 20 cards. [Lorraine, Blademaster](https://index.gatcg.com/edition/lorraine-blademaster-demo22) and [Banner Knight](https://index.gatcg.com/edition/banner-knight-demo22) make an appearance in the sample deck, with [Scry the Skies](https://index.gatcg.com/card/scry-the-skies) from the final release not included.
 
 Lorraine, Blademaster adds a 3rd champion card to the sample decks. This version of the card is identical to that of the [Dawn of Ashes Prelude](/DOAp_(set)) release.
 

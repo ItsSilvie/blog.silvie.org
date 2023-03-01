@@ -120,7 +120,7 @@ The Diamond Tier pledge was $600 and was limited to 150 backers.
 * 4 [Dawn of Ashes Prelude](/DOAp_(set)) Starter Kit Kickstarter Edition
 * 6 <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> Booster Box First Edition (Kickstarter Exclusive)
 * 1 Grand Archive Origins Kickstarter Playmat
-* 1 [Lorraine, Blademaster](/lorraine-blademaster_(card)#ksp--en-001-pr) Alternative Artwork Kickstarter Promo
+* 1 [Lorraine, Blademaster](https://index.gatcg.com/edition/lorraine-blademaster-ksp) Alternative Artwork Kickstarter Promo
 
 The Diamond Tier offered discounted add-on prices, with Starter Kits at $35 ($5 off) and booster boxes at $75 ($15 off).
 
@@ -135,7 +135,7 @@ The Champion Tier pledge was $1,000 and was limited to 100 backers.
 * 4 [Dawn of Ashes Prelude](/DOAp_(set)) Starter Kit Kickstarter Edition
 * 12 <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> Booster Box First Edition (Kickstarter Exclusive)
 * 1 Grand Archive Origins Kickstarter Playmat
-* 2 [Lorraine, Blademaster](/lorraine-blademaster_(card)#ksp--en-001-pr) Alternative Artwork Kickstarter Promo
+* 2 [Lorraine, Blademaster](https://index.gatcg.com/edition/lorraine-blademaster-ksp) Alternative Artwork Kickstarter Promo
 
 The Champion Tier offered discounted add-on prices, with Starter Kits at $35 ($5 off) and booster boxes at $71 ($19 off).
 
@@ -150,7 +150,7 @@ The Grand Champion Tier pledge was $2,500 and was limited to 50 backers.
 * 4 [Dawn of Ashes Prelude](/DOAp_(set)) Starter Kit Kickstarter Edition
 * 36 <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> Booster Box First Edition (Kickstarter Exclusive)
 * 1 Grand Archive Origins Kickstarter Playmat
-* 5 [Lorraine, Blademaster](/lorraine-blademaster_(card)#ksp--en-001-pr) Alternative Artwork Kickstarter Promo
+* 5 [Lorraine, Blademaster](https://index.gatcg.com/edition/lorraine-blademaster-ksp) Alternative Artwork Kickstarter Promo
 
 The Grand Champion Tier offered discounted add-on prices, with Starter Kits at $35 ($5 off) and booster boxes at $66 ($24 off).
 
@@ -165,7 +165,7 @@ The Designer Tier pledge was $10,000 and was limited to only 1 backer.
 * 6 [Dawn of Ashes Prelude](/DOAp_(set)) Starter Kit Kickstarter Edition
 * 72 <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> Booster Box First Edition (Kickstarter Exclusive)
 * 1 Grand Archive Origins Kickstarter Playmat
-* 10 [Lorraine, Blademaster](/lorraine-blademaster_(card)#ksp--en-001-pr) Alternative Artwork Kickstarter Promo
+* 10 [Lorraine, Blademaster](https://index.gatcg.com/edition/lorraine-blademaster-ksp) Alternative Artwork Kickstarter Promo
 * Design an ally card with our team and talented artists!
 * Receive the designed card in foil signed by all the devs!
 * Receive a canvas print of the designed art signed by the devs!
@@ -197,7 +197,7 @@ The Game Store Tier 1 pledge was $500.
 * 6 [Dawn of Ashes Prelude](/DOAp_(set)) Starter Kit Kickstarter Edition
 * 6 <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> Booster Box First Edition (Kickstarter Exclusive)
 * 4 Grand Archive Origins Kickstarter Playmat
-* 1 [Lorraine, Blademaster](/lorraine-blademaster_(card)#ksp--en-001-pr) Alternative Artwork Kickstarter Promo
+* 1 [Lorraine, Blademaster](https://index.gatcg.com/edition/lorraine-blademaster-ksp) Alternative Artwork Kickstarter Promo
 
 Game Store Tier 1 ended with 36 backers.
 
@@ -210,6 +210,6 @@ The Game Store Tier 2 pledge was $1,000.
 * 18 [Dawn of Ashes Prelude](/DOAp_(set)) Starter Kit Kickstarter Edition
 * 12 <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> Booster Box First Edition (Kickstarter Exclusive)
 * 4 Grand Archive Origins Kickstarter Playmat
-* 2 [Lorraine, Blademaster](/lorraine-blademaster_(card)#ksp--en-001-pr) Alternative Artwork Kickstarter Promo
+* 2 [Lorraine, Blademaster](https://index.gatcg.com/edition/lorraine-blademaster-ksp) Alternative Artwork Kickstarter Promo
 
 Game Store Tier 2 ended with 119 backers.
