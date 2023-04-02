@@ -2,6 +2,7 @@
 layout: post
 title:  "Image dump: Grand Archive Doodle Artwork"
 date:   2022-06-22 21:49:00 +0100
+last_modified_at: 2023-04-02 14:02:00 +0100
 categories: artwork
 permalink: doodle-art
 excerpt: Grand Archive's developers were keen to involve the community in play testing very early on, often before card artwork had been imagined. Doodle art brought these cards to life.
@@ -66,6 +67,20 @@ Doodle artwork was becoming a distant memory when April 2022 rolled around. As a
 
 {% include blockquote.html quote="We have decided to change the art direction for our cards.. We hope you guys enjoy it! 😄" author="@grandarchivetcg" %}
 
-{% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/apr.png" description="Lorraine, Wandering Warrior (APR 1st &middot; EN-000 C)." max-width="320px" dump-id="apr-en-000" %}
+{% include image.html url="/assets/images/2022-06-21-lorraine-wandering-warrior-sample/apr.png" description="Lorraine, Wandering Warrior (APR 1st &middot; EN-000 C)" max-width="320px" dump-id="apr-en-000" %}
 
 Numbered as [APR 1st &middot; EN-000 C](/lorraine-wandering-warrior-samples#apr-1st--en-000-c), this one was illustrated by Silvie &mdash; here's to hoping she graces us with more of her talent in future.
+
+## April Fool's Day 2023
+
+April Fool's Day 2023 saw 3 different doodle artworks posted on Grand Archive's Facebook, Instagram and Twitter pages. Keeping to the same theme as last year, these were all illustrated by Silvie:
+
+{% include blockquote.html quote="Due to popular demand, Silvie's doodle cards will be included as box toppers in an upcoming product!" author="@grandarchivetcg" %}
+
+{% include image.html url="/assets/images/2022-06-22-doodle-art/apr-2-2.png" description="Embertail Squirrel (SP1 &middot; EN-022 PR)" max-width="320px" dump-id="SP1-EN-022" %}
+
+{% include image.html url="/assets/images/2022-06-22-doodle-art/apr-2-3.png" description="Giant Tortoise (SP1 &middot; EN-023 PR)" max-width="320px" dump-id="SP1-EN-023" %}
+
+{% include image.html url="/assets/images/2022-06-22-doodle-art/apr-2-1.png" description="Windstream Mutt (SP1 &middot; EN-027 PR)" max-width="320px" dump-id="SP1-EN-027" %}
+
+Hopefully one day we will see a doodle artwork set that isn't just an April Fool's joke!
