@@ -10,7 +10,7 @@ image: /assets/images/sets/DOAp/thumbnail.png
 
 The Dawn of Ashes Starter Decks  released on 28th April 2023 alongside [Dawn of Ashes Alter Edition](/DOA-Alter_(set)). There are three decks, Lorraine, Rai and Silvie.
 
-{% include image.html url="/assets/images/sets/DOAp/starter-kit.png" description="Dawn of Ashes Prelude Starter Kit product image." max-width="600px" %}
+{% include image.html url="/assets/images/sets/DOASD/box.png" description="Dawn of Ashes Prelude Starter Display product image." max-width="600px" %}
 
 ## Set list
 
