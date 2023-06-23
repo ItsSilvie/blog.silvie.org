@@ -10,9 +10,9 @@ image: /assets/images/sets/DOA-1st/thumbnail.png
 
 {% include image.html url="/assets/images/sets/DOA-1st/boxes.png" description="Dawn of Ashes First Edition booster box product image." max-width="600px" %}
 
-You may be looking for the <span class="dead-link">[Dawn of Ashes Alter Edition](/DOA-Alter_(set))</span> set.
+You may be looking for the [Dawn of Ashes Alter Edition](/DOA-Alter_(set)) set.
 
-The Dawn of Ashes First Edition set is scheduled to be released in January 2023.
+The Dawn of Ashes First Edition set released in January 2023.
 
 ## Set list
 
@@ -61,11 +61,11 @@ Cards are determined by their position in the pack, denoted as "slots":
 
 * Slot 1 will always contain a main champion (Lorraine, Rai, Silvie or Zander) weighted by level (see below);
 * Slots 2 through 8 will contain a non-duplicate common;
-* Slot 9 will either contain a non-duplicate common, a foil (1/8 chance) or a collector ultra rare (1/357 chance*);
+* Slot 9 will either contain a non-duplicate common, a foil (1/8 chance) or a collector ultra rare (1/357 chance\*);
 * Slot 10 and 11 will contain a non-duplicate uncommon;
 * Slot 12 will either contain a rare, a super rare (1/4 chance) or an ultra rare (1/24 chance).
 
-The Spirit champions (Spirit of Fire, Water and Wind) are not found in booster packs - these are instead included in box topper packs which contain 2 of each non-foil. The Lineage Break champions (Allen, Merlin, Mordred and Tristan) are only available as non-foil, with their foil variants being exclusively found in <span class="dead-link">[Alter Edition](/DOA-Alter_(set))</span>.
+The Spirit champions (Spirit of Fire, Water and Wind) are not found in booster packs - these are instead included in box topper packs which contain 2 of each non-foil. The Lineage Break champions (Allen, Merlin, Mordred and Tristan) are only available as non-foil, with their foil variants being exclusively found in [Alter Edition](/DOA-Alter_(set)).
 
 Non-foil main champion cards will only appear in the first slot of each pack. There is a 1/2 chance this will be a level 1, a 1/3 chance for level 2 and a 1/6 chance for a level 3. Main champion foil cards can appear in slot 9 at the same rate as regular common cards.
 
@@ -124,7 +124,7 @@ The short answer...
 
 The long answer...
 
-For the majority of cards, the only visual difference between the Dawn of Ashes First Edition and <span class="dead-link">[Alter Edition](/DOA-Alter_(set))</span> sets is the set prefix. First Edition is prefixed with `DOA 1st` whilst Alter Edition is prefixed `DOA Alter`.
+For the majority of cards, the only visual difference between the Dawn of Ashes First Edition and [Alter Edition](/DOA-Alter_(set)) sets is the set prefix. First Edition is prefixed with `DOA 1st` whilst Alter Edition is prefixed `DOA Alter`.
 
 The First Edition set was printed exclusively as an early release for backers of Grand Archive's [Kickstarter campaign](/kickstarter), whereas Alter Edition is regarded as Grand Archive's public release. As such, the First Edition set has a significantly smaller [print run](#print-run).
 
@@ -148,7 +148,7 @@ The First Edition set ends at card 275, but the developers have teased on Discor
 
 After the Dawn of Ashes First Edition print run had finished, the developers noticed that two of the cards had erroneously been printed with the set prefixed "DOA" instead of "DOA 1st".
 
-"DOA" (Dawn of Ashes) without the "1st", was originally intended to be the set prefix for the <span class="dead-link">[Alter Edition](/DOA-Alter_(set))</span> version of the set. However following this discovery the Grand Archive developers decided to modify all Alter Edition cards to use "DOA Alter" as their set prefix instead to avoid confusion.
+"DOA" (Dawn of Ashes) without the "1st", was originally intended to be the set prefix for the [Alter Edition](/DOA-Alter_(set)) version of the set. However following this discovery the Grand Archive developers decided to modify all Alter Edition cards to use "DOA Alter" as their set prefix instead to avoid confusion.
 
 The cards affected by this error are [Juggle Knives (EN-095)](https://index.gatcg.com/edition/juggle-knives-doa1e) and [Restorative Slash (EN-185)](https://index.gatcg.com/edition/restorative-slash-doa1e).
 

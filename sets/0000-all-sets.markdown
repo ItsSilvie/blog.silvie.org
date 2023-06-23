@@ -14,7 +14,8 @@ Prefix | Name | Release
 :-- | :-- | :--
 DOAp | [Dawn of Ashes Prelude](/DOAp_(set)) | January 2023
 DOA 1st | [Dawn of Ashes First Edition](/DOA-1st_(set)) | January 2023
-DOA Alter | <span class="dead-link">[Dawn of Ashes Alter Edition](/DOA-Alter_(set))</span> | April 2023
+DOA Alter | [Dawn of Ashes Alter Edition](/DOA-Alter_(set)) | April 28th 2023
+DOASD | [Dawn of Ashes Starter Decks](/DOASD_(set)) | April 28th 2023
 
 ## Decks
 

@@ -70,6 +70,58 @@
 }
 
 .set-list {
+  &-card-number,
+  &-card-population {
+    font-size: 14px;
+
+    @media screen and (min-width: 768px) {
+      font-size: inherit;
+    }
+  }
+
+  &-thema-score {
+    cursor: help;
+    font-size: 12px;
+
+    .thema-score-breakdown {
+      display: block;
+      font-weight: bold;
+    }
+
+    .thema-score {
+      font-weight: normal;
+  
+      &::before {
+        content: "● ";
+        font-size: 8px;
+
+        @media screen and (min-width: 768px) {
+          font-size: inherit;
+        }
+      }
+
+      &-charm {
+        color: #CD6BFF;
+      }
+
+      &-ferocity {
+        color: #AD1000;
+      }
+
+      &-grace {
+        color: #014EC8;
+      }
+
+      &-mystique {
+        color: #6400BA;
+      }
+
+      &-valor {
+        color: #C67A00;
+      }
+    }
+  }
+
   &-card-name {
     align-items: center;
     column-gap: 8px;
