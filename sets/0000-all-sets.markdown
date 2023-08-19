@@ -16,6 +16,8 @@ DOAp | [Dawn of Ashes Prelude](/DOAp_(set)) | January 2023
 DOA 1st | [Dawn of Ashes First Edition](/DOA-1st_(set)) | January 2023
 DOA Alter | [Dawn of Ashes Alter Edition](/DOA-Alter_(set)) | April 28th 2023
 DOASD | [Dawn of Ashes Starter Decks](/DOASD_(set)) | April 28th 2023
+FTC | [Fractured Crown](/FTC_(set)) | August 25th 2023
+FTCA | [Fractured Crown: Armaments](/FTC_(set)) | August 25th 2023
 
 ## Decks
 
@@ -33,3 +35,4 @@ Prefix | Name | Release
 :-- | :-- | :--
 P22 | [Promotional 2022](/P22_(set))| July 2022 &ndash; TBD 2023
 KSP | [Kickstarter Promo](/KSP_(set)) | January 2023
+P23 | Promotional 2023 | July 2023 &ndash; TBD 2024
