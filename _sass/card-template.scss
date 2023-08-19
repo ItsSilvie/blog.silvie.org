@@ -150,6 +150,25 @@
       }
     }
   }
+
+  &-custom {
+    .set-list-card-number {
+      font-size: small;
+    }
+
+    .name-wrapper-set-name {
+      display: block;
+      font-size: small;
+    }
+
+    .in-print {
+      background: #ffe1e1;
+    }
+  }
+}
+
+.in-print {
+  background: #ffe1e1;
 }
 
 .card-cost {
