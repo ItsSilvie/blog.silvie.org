@@ -17,7 +17,7 @@ DOA 1st | [Dawn of Ashes First Edition](/DOA-1st_(set)) | January 2023
 DOA Alter | [Dawn of Ashes Alter Edition](/DOA-Alter_(set)) | April 28th 2023
 DOASD | [Dawn of Ashes Starter Decks](/DOASD_(set)) | April 28th 2023
 FTC | [Fractured Crown](/FTC_(set)) | August 25th 2023
-FTCA | [Fractured Crown: Armaments](/FTC_(set)) | August 25th 2023
+FTCA | [Fractured Crown: Armaments](/FTCA_(set)) | August 25th 2023
 
 ## Decks
 
