@@ -6,10 +6,9 @@ categories: sets
 permalink: FTC_(set)
 image: /assets/images/sets/FTC/box.png
 ---
+{% include image.html url="/assets/images/sets/FTC/box.png" description="Fractured Crown booster box product image." max-width="600px" %}
 
 Fractured Crown released on 25th August 2023 alongside [Fractured Crown: Armaments](/FTCA_(set)).
-
-{% include image.html url="/assets/images/sets/FTC/box.png" description="Fractured Crown booster box product image." max-width="600px" %}
 
 ## Set list
 
