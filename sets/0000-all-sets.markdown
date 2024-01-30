@@ -18,14 +18,24 @@ DOA Alter | [Dawn of Ashes Alter Edition](/DOA-Alter_(set)) | April 28th 2023
 DOASD | [Dawn of Ashes Starter Decks](/DOASD_(set)) | April 28th 2023
 FTC | [Fractured Crown](/FTC_(set)) | August 25th 2023
 FTCA | [Fractured Crown: Armaments](/FTCA_(set)) | August 25th 2023
+ALC 1st | [Alchemical Revolution First Edition](/ALC-1st_(set)) | Januay 26th 2024
+ALC | [Alchemical Revolution](/ALC_(set)) | Januay 26th 2024
+ALCSD | [Alchemical Revolution Starter Decks](/ALCSD_(set)) | Januay 26th 2024
 
 ## Decks
 
 Prefix | Name | Release
 :-- | :-- | :--
-DEMO22 | [<img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" /><br>LGS Demo Deck](/DEMO22_(set)) | January 2023*
+DEMO22 | [<img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" /><br>LGS Demo Deck 2022](/DEMO22_(set)) | January 2023*
 DOAp | [<img class="image-element" src="https://img.silvie.org/misc/elements/wind.png" /> <img class="image-element" src="https://img.silvie.org/misc/elements/crux.png" /><br>Lorraine Starter Deck (DOAp)](/DOAp_(set)#lorraine-starter-deck-prelude) | January 2023
 DOAp | [<img class="image-element" src="https://img.silvie.org/misc/elements/fire.png" /> <img class="image-element" src="https://img.silvie.org/misc/elements/arcane.png" /><br>Rai Starter Deck (DOAp)](/DOAp_(set)#rai-starter-deck-prelude) | January 2023
+DOASD | Lorraine Starter Deck | April 2023
+DOASD | Rai Starter Deck | April 2023
+DOASD | Silvie Starter Deck | April 2023
+DEMO23 | LGS Demo Deck 2023 | August 2023
+ALCSD | Arisanna Starter Deck | January 2024
+ALCSD | Diana Starter Deck | January 2024
+ALCSD | Tonoris Starter Deck | January 2024
 
 \* Thicker card stock samples were distributed [between May and August 2022](/DEMO22_(set)#thicker-card-stock-samples), but these were not tournament legal and were not printed on the same card stock local game stores and distributors received in December 2022.
 
@@ -35,4 +45,7 @@ Prefix | Name | Release
 :-- | :-- | :--
 P22 | [Promotional 2022](/P22_(set))| July 2022 &ndash; TBD 2023
 KSP | [Kickstarter Promo](/KSP_(set)) | January 2023
+GSC | GenSeCha | March 2023 &ndash; TBD
+EVP | Event Packs | April 2023 &ndash; TBD
 P23 | Promotional 2023 | July 2023 &ndash; TBD 2024
+P24 | Promotional 2024 | January 2024 &ndash; TBD 2024
