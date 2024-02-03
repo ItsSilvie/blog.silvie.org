@@ -17,17 +17,19 @@ Cards in this set are prefixed `SLC`.
 
 These cards were distributed in promotional booster packs in collaboration with Taiwanese virtual YouTube (VTube) agency SquareLive.
 
-The card artwork features SquareLive VTube avatars in various situations.
-
-{% include image.html url="/assets/images/sets/SLC/露恰.webp" description="Lutralutra 露恰露恰's avatar on the Cremation Ritual card." %}
-
-{% include image.html url="/assets/images/sets/SLC/ChillaBehemos.webp" description="Chilla・Behemos 祈菈‧貝希毛絲's avatar on the Study the Fables card." %}
+{% include image.html url="/assets/images/sets/SLC/booster-packs.png" description="Grand Archive x SquareLive booster packs (from 余書廷(黑影子) on X)." %}
 
 These were first distributed via a merchandise campaign from 1st through 5th February 2024 at the Taipei International Comic and Animation Festival. A pack would be given out for every NT$1200 (~$40 USD) spent on SquareLive merchandise.
 
 This was the first Grand Archive set to be partially printed in a language other than English: Chinese.
 
 ### Featured avatars
+
+The card artwork features SquareLive VTube avatars in various situations.
+
+{% include image.html url="/assets/images/sets/SLC/露恰.webp" description="Lutralutra 露恰露恰's avatar on the Cremation Ritual card." %}
+
+{% include image.html url="/assets/images/sets/SLC/ChillaBehemos.webp" description="Chilla・Behemos 祈菈‧貝希毛絲's avatar on the Study the Fables card." %}
 
 Card | Avatar
 :-- | :--
