@@ -45,7 +45,8 @@ Prefix | Name | Release
 :-- | :-- | :--
 P22 | [Promotional 2022](/P22_(set))| July 2022 &ndash; TBD 2023
 KSP | [Kickstarter Promo](/KSP_(set)) | January 2023
-GSC | GenSeCha | March 2023 &ndash; TBD
-EVP | Event Packs | April 2023 &ndash; TBD
-P23 | Promotional 2023 | July 2023 &ndash; TBD 2024
-P24 | Promotional 2024 | January 2024 &ndash; TBD 2024
+GSC | [GenSeCha](/GSC_(set)) | March 2023 &ndash; TBD
+EVP | [Event Packs](/EVP_(set)) | April 2023 &ndash; TBD
+P23 | [Promotional 2023](/P23_(set)) | July 2023 &ndash; TBD 2024
+P24 | [Promotional 2024](/P24_(set)) | January 2024 &ndash; TBD 2024
+SLC | [SquareLive Collaboration](/SLC_(set)) | February 2024
