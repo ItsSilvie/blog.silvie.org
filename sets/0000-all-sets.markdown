@@ -22,6 +22,13 @@ ALC 1st | [Alchemical Revolution First Edition](/ALC-1st_(set)) | Januay 26th 20
 ALC | [Alchemical Revolution](/ALC_(set)) | Januay 26th 2024
 ALCSD | [Alchemical Revolution Starter Decks](/ALCSD_(set)) | Januay 26th 2024
 
+## Special sets
+
+Prefix | Name | Release
+:-- | :-- | :--
+EVP | [Event Packs](/EVP_(set)) | April 2023 &ndash; TBD
+SP1 | [Supporter Pack 1](/SP1_(set)) | May 2023
+
 ## Decks
 
 Prefix | Name | Release
@@ -46,7 +53,6 @@ Prefix | Name | Release
 P22 | [Promotional 2022](/P22_(set))| July 2022 &ndash; TBD 2023
 KSP | [Kickstarter Promo](/KSP_(set)) | January 2023
 GSC | [GenSeCha](/GSC_(set)) | March 2023 &ndash; TBD
-EVP | [Event Packs](/EVP_(set)) | April 2023 &ndash; TBD
 P23 | [Promotional 2023](/P23_(set)) | July 2023 &ndash; TBD 2024
 P24 | [Promotional 2024](/P24_(set)) | January 2024 &ndash; TBD 2024
 SLC | [SquareLive Collaboration](/SLC_(set)) | February 2024

@@ -78,6 +78,48 @@
       font-size: inherit;
     }
   }
+  
+  &-card-obtain-method-row {
+    td {
+      background: #fffff2;
+    }
+
+    &-content {
+      display: flex;
+      flex-direction: column;
+      padding: 2px;
+      row-gap: 8px;
+
+      @media screen and (min-width: 600px) {
+        column-gap: 16px;
+        flex-direction: row;
+      }
+
+      &-image {
+        background-repeat: no-repeat;
+        background-size: contain;
+        height: 358px;
+
+        @media screen and (min-width: 600px) {
+          flex: 0 0 256px;
+        }
+      }
+
+      &-text {
+        font-style: italic;
+        font-size: 14px;
+        line-height: 17px;
+        flex: 1 1 auto;
+        text-align: left;
+        white-space: pre-wrap;
+
+        @media screen and (min-width: 600px) {
+          font-size: 16px;
+          line-height: 19px;
+        }
+      }
+    }
+  }
 
   &-thema-score {
     cursor: help;
