@@ -44,11 +44,15 @@ The Lorraine Starter Deck is a <span class="dead-link">[Wind](/elements#wind)</s
 
 {% include templates/DOAp-lorraine-starter-deck.html %}
 
+{% include deck-link.html creator="@GrandArchive" id="GPHjg6vPntxcJdHNvtil" %}
+
 ### Rai Starter Deck (Prelude)
 
 The Rai Starter Deck is a <span class="dead-link">[Fire](/elements#fire)</span>/<span class="dead-link">[Arcane](/elements#arcane)</span> deck tailored towards combo attacks and control, featuring champion <span class="dead-link">[Rai Kyouki](/champions#rai-kyouki)</span>.
 
 {% include templates/DOAp-rai-starter-deck.html %}
+
+{% include deck-link.html creator="@GrandArchive" id="56KHHOrH55T73zhgspun" %}
 
 ## Print quality
 
