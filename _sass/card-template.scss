@@ -207,6 +207,22 @@
       background: #ffe1e1;
     }
   }
+
+  &-named-cards-article {
+    tr {
+      background-position: left 14%;
+      background-repeat: no-repeat;
+      background-size: 256px;
+
+      td {
+        height: 100px;
+
+        &:first-of-type {
+          padding-left: 272px;
+        }
+      }
+    }
+  }
 }
 
 .in-print {
