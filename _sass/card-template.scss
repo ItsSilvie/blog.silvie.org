@@ -206,6 +206,13 @@
     .in-print {
       background: #ffe1e1;
     }
+
+    &-by-illustrator {
+      &-subrow {
+        color: #6d6d6d;
+        font-size: 90%;
+      }
+    }
   }
 
   &-named-cards-article {
