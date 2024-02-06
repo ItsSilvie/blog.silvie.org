@@ -74,7 +74,7 @@ This is something which affects all copies of these cards. The 15,000 Disorienti
 
 ## History
 
-The Dawn of Ashes Prelude set is an offshoot of the main <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> set.
+The Dawn of Ashes Prelude set is an offshoot of the main [Dawn of Ashes First Edition](/DOA-1st_(set)) set.
 
 It is made up of the prelude versions of the Lorraine and Rai Starter Decks (as finalised in <span class="dead-link">[Print and Play version 1.3](/print-and-play)</span>) as well as cards from the 9-card Kickstarter exclusive booster packs.
 

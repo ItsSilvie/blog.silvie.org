@@ -42,7 +42,7 @@ Following feedback from vendors and distributors, in [Kickstarter update #17](ht
 
 > We originally wanted to release the Starter Kits months in advance of the full release of Dawn of Ashes. This would have given our backers and game stores the opportunity to try out and enjoy the product before the big release in Q3 of this year. We've discussed this timeline with multiple vendors as well as with distributors and are now acting upon the feedback we have received. They had voiced their concerns regarding the significant delay between the Starter Kit release and the Booster Box release, weakening the overall launch of Grand Archive. In addition, they also expressed that the efficiency of 1 wave versus 2 waves of shipments of products was not optimal. As a result, **we are delaying the release and shipment of the Starter Kits to match the Booster Box release for Dawn of Ashes**. With this, **products that were meant for Wave 1 shipment will also be delayed**. These products include **metal cards, promo cards, playmats, and deck boxes**.
 
-The original April 2022 plan for the [Dawn of Ashes Prelude](/DOAp_(set)) Starter Kits was now pushed back to be in line with the September 2022 <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> First Edition release. To make up for it, however, the developers also announced that any Starter Kit pre-order affected by this would have the number of included Prelude Packs upped from 2 to 4.
+The original April 2022 plan for the [Dawn of Ashes Prelude](/DOAp_(set)) Starter Kits was now pushed back to be in line with the September 2022 [Dawn of Ashes](/DOA-1st_(set)) First Edition release. To make up for it, however, the developers also announced that any Starter Kit pre-order affected by this would have the number of included Prelude Packs upped from 2 to 4.
 
 Despite the gravity of this announcement, the community almost unanimously agreed that this was the best move.
 
@@ -60,7 +60,7 @@ In July 2022 the team had an even larger booth at Anime Expo in Los Angeles, whi
 
 {% include image.html url="/assets/images/2022-06-29-kickstarter-campaign/ax-crowd.png" description="Grand Archive's booth at Anime Expo, Los Angeles (July 2022)." %}
 
-This convention introduced three cards from the <span class="dead-link">[2022 Promo](P22_(set))</span> set, Bubble Mage, Dungeon Guide, and Honorable Vanguard. No longer regarded as samples, these were printed on finalised card stock and were the first tournament legal cards to be released.
+This convention introduced three cards from the [Promotional 2022](P22_(set)) set, Bubble Mage, Dungeon Guide, and Honorable Vanguard. No longer regarded as samples, these were printed on finalised card stock and were the first tournament legal cards to be released.
 
 This section will be updated over the next few months as new news comes in. In the mean time, check out [What we know so far about the Dawn of Ashes set](/DOA-everything-we-know-so-far).
 
@@ -93,7 +93,7 @@ The Gold Tier pledge was $115 and was limited to 1,250 backers.
 {% include image.html url="/assets/images/2022-06-29-kickstarter-campaign/gold-tier.png" description="Gold Tier Kickstarter graphic." %}
 
 * 1 [Dawn of Ashes Prelude](/DOAp_(set)) Starter Kit Kickstarter Edition
-* 1 <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> Booster Box First Edition (Kickstarter Exclusive)
+* 1 [Dawn of Ashes](/DOA-1st_(set)) Booster Box First Edition (Kickstarter Exclusive)
 
 The Gold Tier ended with 719 backers.
 
@@ -104,7 +104,7 @@ The Platinum Tier pledge was $300 and was limited to 500 backers.
 {% include image.html url="/assets/images/2022-06-29-kickstarter-campaign/platinum-tier.png" description="Platinum Tier Kickstarter graphic." %}
 
 * 4 [Dawn of Ashes Prelude](/DOAp_(set)) Starter Kit Kickstarter Edition
-* 2 <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> Booster Box First Edition (Kickstarter Exclusive)
+* 2 [Dawn of Ashes](/DOA-1st_(set)) Booster Box First Edition (Kickstarter Exclusive)
 * 1 Grand Archive Origins Kickstarter Playmat
 
 The Platinum Tier offered discounted add-on prices, with Starter Kits at $35 ($5 off) and booster boxes at $80 ($10 off).
@@ -118,7 +118,7 @@ The Diamond Tier pledge was $600 and was limited to 150 backers.
 {% include image.html url="/assets/images/2022-06-29-kickstarter-campaign/diamond-tier.png" description="Diamond Tier Kickstarter graphic." %}
 
 * 4 [Dawn of Ashes Prelude](/DOAp_(set)) Starter Kit Kickstarter Edition
-* 6 <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> Booster Box First Edition (Kickstarter Exclusive)
+* 6 [Dawn of Ashes](/DOA-1st_(set)) Booster Box First Edition (Kickstarter Exclusive)
 * 1 Grand Archive Origins Kickstarter Playmat
 * 1 [Lorraine, Blademaster](https://index.gatcg.com/edition/lorraine-blademaster-ksp) Alternative Artwork Kickstarter Promo
 
@@ -133,7 +133,7 @@ The Champion Tier pledge was $1,000 and was limited to 100 backers.
 {% include image.html url="/assets/images/2022-06-29-kickstarter-campaign/champion-tier.png" description="Champion Tier Kickstarter graphic." %}
 
 * 4 [Dawn of Ashes Prelude](/DOAp_(set)) Starter Kit Kickstarter Edition
-* 12 <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> Booster Box First Edition (Kickstarter Exclusive)
+* 12 [Dawn of Ashes](/DOA-1st_(set)) Booster Box First Edition (Kickstarter Exclusive)
 * 1 Grand Archive Origins Kickstarter Playmat
 * 2 [Lorraine, Blademaster](https://index.gatcg.com/edition/lorraine-blademaster-ksp) Alternative Artwork Kickstarter Promo
 
@@ -148,7 +148,7 @@ The Grand Champion Tier pledge was $2,500 and was limited to 50 backers.
 {% include image.html url="/assets/images/2022-06-29-kickstarter-campaign/grand-champion-tier.png" description="Grand Champion Tier Kickstarter graphic." %}
 
 * 4 [Dawn of Ashes Prelude](/DOAp_(set)) Starter Kit Kickstarter Edition
-* 36 <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> Booster Box First Edition (Kickstarter Exclusive)
+* 36 [Dawn of Ashes](/DOA-1st_(set)) Booster Box First Edition (Kickstarter Exclusive)
 * 1 Grand Archive Origins Kickstarter Playmat
 * 5 [Lorraine, Blademaster](https://index.gatcg.com/edition/lorraine-blademaster-ksp) Alternative Artwork Kickstarter Promo
 
@@ -163,7 +163,7 @@ The Designer Tier pledge was $10,000 and was limited to only 1 backer.
 {% include image.html url="/assets/images/2022-06-29-kickstarter-campaign/designer-tier.png" description="Designer Tier Kickstarter graphic." %}
 
 * 6 [Dawn of Ashes Prelude](/DOAp_(set)) Starter Kit Kickstarter Edition
-* 72 <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> Booster Box First Edition (Kickstarter Exclusive)
+* 72 [Dawn of Ashes](/DOA-1st_(set)) Booster Box First Edition (Kickstarter Exclusive)
 * 1 Grand Archive Origins Kickstarter Playmat
 * 10 [Lorraine, Blademaster](https://index.gatcg.com/edition/lorraine-blademaster-ksp) Alternative Artwork Kickstarter Promo
 * Design an ally card with our team and talented artists!
@@ -172,7 +172,7 @@ The Designer Tier pledge was $10,000 and was limited to only 1 backer.
 
 The Designer Tier offered discounted add-on prices, with Starter Kits at $35 ($5 off) and booster boxes at $66 ($24 off).
 
-By far the most lucrative tier, the Designer Tier also included the design of a custom <span class="dead-link">[Ally](/types#ally)</span> card to be included in the main <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> set.
+By far the most lucrative tier, the Designer Tier also included the design of a custom <span class="dead-link">[Ally](/types#ally)</span> card to be included in the main [Dawn of Ashes](/DOA-1st_(set)) set.
 
 The Designer Tier was taken almost immediately after the campaign launched, however in early December the original backer dropped out and someone else was quick to take it.
 
@@ -195,7 +195,7 @@ The Game Store Tier 1 pledge was $500.
 {% include image.html url="/assets/images/2022-06-29-kickstarter-campaign/game-store-tier-1.png" description="Game Store Tier 1 Kickstarter graphic." %}
 
 * 6 [Dawn of Ashes Prelude](/DOAp_(set)) Starter Kit Kickstarter Edition
-* 6 <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> Booster Box First Edition (Kickstarter Exclusive)
+* 6 [Dawn of Ashes](/DOA-1st_(set)) Booster Box First Edition (Kickstarter Exclusive)
 * 4 Grand Archive Origins Kickstarter Playmat
 * 1 [Lorraine, Blademaster](https://index.gatcg.com/edition/lorraine-blademaster-ksp) Alternative Artwork Kickstarter Promo
 
@@ -208,7 +208,7 @@ The Game Store Tier 2 pledge was $1,000.
 {% include image.html url="/assets/images/2022-06-29-kickstarter-campaign/game-store-tier-2.png" description="Game Store Tier 1 Kickstarter graphic." %}
 
 * 18 [Dawn of Ashes Prelude](/DOAp_(set)) Starter Kit Kickstarter Edition
-* 12 <span class="dead-link">[Dawn of Ashes](/DOA_(set))</span> Booster Box First Edition (Kickstarter Exclusive)
+* 12 [Dawn of Ashes](/DOA-1st_(set)) Booster Box First Edition (Kickstarter Exclusive)
 * 4 Grand Archive Origins Kickstarter Playmat
 * 2 [Lorraine, Blademaster](https://index.gatcg.com/edition/lorraine-blademaster-ksp) Alternative Artwork Kickstarter Promo
 

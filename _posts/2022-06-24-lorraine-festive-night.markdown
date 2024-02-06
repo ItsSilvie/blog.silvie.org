@@ -15,7 +15,7 @@ author: james
 
 Three days before Christmas on 22nd December 2021 the Grand Archive developers announced Lorraine, Festive Night as holiday promotional card in [Kickstarter update #7](https://www.kickstarter.com/projects/weebs/grand-archive-tcg/posts/3392207).
 
-Illustrated by <span class="dead-link">[十尾](/illustrators#十尾)</span> and announced at the same time as the Clarent, Sword of Peace <span class="dead-link">[Kickstarter promo](/kickstarter-promo)</span>, the SAMPLE PROMO-000 Lorraine, Festive Night was the first Grand Archive promo card to be revealed in full.
+Illustrated by <span class="dead-link">[十尾](/illustrators#十尾)</span> and announced at the same time as the Clarent, Sword of Peace [Kickstarter promo](/KSP_(set)), the SAMPLE PROMO-000 Lorraine, Festive Night was the first Grand Archive promo card to be revealed in full.
 
 Being a sample card itself, this card - with its ability to allow all players to win simultaneously - is sadly not tournament legal.
 
@@ -39,11 +39,11 @@ The developers later went on to publicly say that they weren't fond of the foil 
 
 Lorraine, Festive Night normal foil and star foil both have an official population of between 300 and 500 copies.
 
-The normal foil card was given as a freebie to all <span class="dead-link">[Champion Tier](/kickstarter#champion-tier)</span>, <span class="dead-link">[Grand Champion Tier](/kickstarter#grand-champion-tier)</span> and <span class="dead-link">[Designer Tier](/kickstarter#designer-tier)</span> Kickstarter backers (148 total), with an additional 100 backers chosen at random to receive the card.
+The normal foil card was given as a freebie to all [Champion Tier](/kickstarter#champion-tier), [Grand Champion](/kickstarter#grand-champion) and [Designer](/kickstarter#designer) Kickstarter backers (148 total), with an additional 100 backers chosen at random to receive the card.
 
 Both the normal foil and star foil were given out individually in Discord events and content creator giveaways (see [Individual card giveaways](#individual-card-giveaways) below).
 
-The star foil card also appears in <span class="dead-link">[SAMPLE](/promotional-packs#sample)</span> (1 in 3 chance) and <span class="dead-link">[SAMPLE2](/promotional-packs#sample2)</span> (1 in 6 chance) promotional packs.
+The star foil card also appears in [SAMPLE](/promotional-packs#identifier-code-sample) (1 in 3 chance) and [SAMPLE2](/promotional-packs#identifier-code-sample2) (1 in 6 chance) promotional packs.
 
 ### Individual card giveaways
 

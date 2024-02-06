@@ -31,7 +31,7 @@ On 22nd April 2022 in [Kickstarter update #21](https://www.kickstarter.com/proje
 
 ### Foil availability
 
-On 22nd December 2021 in [Kickstarter update #7](https://www.kickstarter.com/projects/weebs/grand-archive-tcg/posts/3392207) the developers announced that certain cards which were included in the Lorraine and Rai Starter Decks but had subsequently been removed from the main <span class="dead-link">[Dawn of Ashes](/dawn-of-ashes)</span> set would be released in foil as Kickstarter-exclusive promo cards.
+On 22nd December 2021 in [Kickstarter update #7](https://www.kickstarter.com/projects/weebs/grand-archive-tcg/posts/3392207) the developers announced that certain cards which were included in the Lorraine and Rai Starter Decks but had subsequently been removed from the main [Dawn of Ashes](/DOA-1st_(set)) set would be released in foil as Kickstarter-exclusive promo cards.
 
 This was to ensure that foil versions of those cards would be available, as the Lorraine and Rai Starter Decks only contain non-foil cards.
 
@@ -41,7 +41,7 @@ As with all early previews of cards, for early anonymity these all had their ill
 
 ### Game store exclusive
 
-Encouraged as tournament prizes or free gifts included with purchases, on 27th December 2021 in [Kickstarter update #9](https://www.kickstarter.com/projects/weebs/grand-archive-tcg/posts/3394515), [Lorraine, Crux Knight (KSP &middot; EN-002 PR)](https://index.gatcg.com/edition/lorraine-crux-knight-ksp) and [Rai, Storm Seer (KSP &middot; EN-003 PR)](https://index.gatcg.com/edition/rai-storm-seer-ksp) were announced as promo cards that all Game Store Tier 1 and Game Store Tier 2 <span class="dead-link">[Kickstarter backers](/kickstarter#tiers)</span> would receive for each Starter Kit add-on ordered.
+Encouraged as tournament prizes or free gifts included with purchases, on 27th December 2021 in [Kickstarter update #9](https://www.kickstarter.com/projects/weebs/grand-archive-tcg/posts/3394515), [Lorraine, Crux Knight (KSP &middot; EN-002 PR)](https://index.gatcg.com/edition/lorraine-crux-knight-ksp) and [Rai, Storm Seer (KSP &middot; EN-003 PR)](https://index.gatcg.com/edition/rai-storm-seer-ksp) were announced as promo cards that all Game Store Tier 1 and Game Store Tier 2 [Kickstarter backers](/kickstarter#tiers) would receive for each Starter Kit add-on ordered.
 
 {% include image.html url="/assets/images/2022-06-25-kickstarter-promo/game-store-promos.png" description="Game store promos announcement image." %}
 
