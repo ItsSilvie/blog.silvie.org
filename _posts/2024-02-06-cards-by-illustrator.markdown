@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Statistics: Grand Archive Illustrators"
+title:  "Statistics: Grand Archive illustrators"
 date: 2024-02-06 11:29:57 +0100
 categories: data
 permalink: stats-illustrators
-excerpt: This dynamic article reveals the number of cards, editions, variants, populations and rarities each Illustrator has been credited for.
+excerpt: This dynamic article reveals the number of cards, editions, variants, populations and rarities each illustrator has been credited for.
 image: /assets/images/2024-02-06-cards-by-illustrator/thumbnail.png
 author: james
 ---
