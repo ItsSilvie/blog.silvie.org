@@ -20,7 +20,7 @@ Cards in this set are prefixed `ALCSD`.
 
 ### Arisanna Starter Deck
 
-{% include blockquote.html quote="\"A talented yet obsessive alchemist. No permutation goes untested.\"" author="Arisanna Sequestra" %}
+{% include blockquote.html quote="\"A talented yet obsessive alchemist. No permutation goes untested.\"" author="Astarte, Celestial Dawn" %}
 
 {% include image.html url="/assets/images/sets/ALCSD/arisanna-starter-deck.png" description="Alchemical Revolution Arisanna Starter Deck product image." max-width="400px" %}
 
@@ -32,7 +32,7 @@ This deck has a difficulty rating of: ★★★★★
 
 ### Diana Starter Deck
 
-{% include blockquote.html quote="\"A spirited sharpshooter with a fiery streak of justice.\"" author="Diana Ardent" %}
+{% include blockquote.html quote="\"A spirited sharpshooter with a fiery streak of justice.\"" author="Astarte, Celestial Dawn" %}
 
 {% include image.html url="/assets/images/sets/ALCSD/diana-starter-deck.png" description="Alchemical Revolution Diana Starter Deck product image." max-width="400px" %}
 
@@ -44,7 +44,7 @@ This deck has a difficulty rating of: ★★★☆☆
 
 ### Tonoris Starter Deck
 
-{% include blockquote.html quote="\"An indomitable soul on a journey to discover his truth.\"" author="Tonoris" %}
+{% include blockquote.html quote="\"An indomitable soul on a journey to discover his truth.\"" author="Astarte, Celestial Dawn" %}
 
 {% include image.html url="/assets/images/sets/ALCSD/tonoris-starter-deck.png" description="Alchemical Revolution Tonoris Starter Deck product image." max-width="400px" %}
 
