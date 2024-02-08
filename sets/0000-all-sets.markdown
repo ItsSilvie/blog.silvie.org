@@ -45,14 +45,14 @@ SLC | [SquareLive Collaboration](/SLC_(set)) | February 2024
 Prefix | Name | Release
 :-- | :-- | :--
 DEMO22 | [<img class="image-element" src="https://img.silvie.org/misc/elements/norm.png" /><br>LGS Demo Deck 2022](/DEMO22_(set)) | January 2023*
-DOAp | [<img class="image-element" src="https://img.silvie.org/misc/elements/wind.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/crux.png" /><br>Lorraine Starter Deck (DOAp)](/DOAp_(set)#lorraine-starter-deck-prelude) | January 2023
-DOAp | [<img class="image-element" src="https://img.silvie.org/misc/elements/fire.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/arcane.png" /><br>Rai Starter Deck (DOAp)](/DOAp_(set)#rai-starter-deck-prelude) | January 2023
-DOASD | [<img class="image-element" src="https://img.silvie.org/misc/elements/wind.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/crux.png" /><br>Lorraine Starter Deck (DOASD)](/DOASD_(set)#lorraine-starter-deck) | April 2023
-DOASD | [<img class="image-element" src="https://img.silvie.org/misc/elements/fire.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/arcane.png" /><br>Rai Starter Deck (DOASD)](/DOASD_(set)#rai-starter-deck) | April 2023
-DOASD | [<img class="image-element" src="https://img.silvie.org/misc/elements/water.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/tera.png" /><br>Silvie Starter Deck (DOASD)](/DOASD_(set)#silvie-starter-deck) | April 2023
+DOAp | [<img class="image-element" src="https://img.silvie.org/misc/elements/wind.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/crux.png" /><br>Lorraine Starter Deck](/DOAp_(set)#lorraine-starter-deck-prelude) | January 2023
+DOAp | [<img class="image-element" src="https://img.silvie.org/misc/elements/fire.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/arcane.png" /><br>Rai Starter Deck](/DOAp_(set)#rai-starter-deck-prelude) | January 2023
+DOASD | [<img class="image-element" src="https://img.silvie.org/misc/elements/wind.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/crux.png" /><br>Lorraine Starter Deck](/DOASD_(set)#lorraine-starter-deck) | April 2023
+DOASD | [<img class="image-element" src="https://img.silvie.org/misc/elements/fire.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/arcane.png" /><br>Rai Starter Deck](/DOASD_(set)#rai-starter-deck) | April 2023
+DOASD | [<img class="image-element" src="https://img.silvie.org/misc/elements/water.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/tera.png" /><br>Silvie Starter Deck](/DOASD_(set)#silvie-starter-deck) | April 2023
 DEMO23 | LGS Demo Deck 2023 | August 2023
-ALCSD | Arisanna Starter Deck | January 2024
-ALCSD | Diana Starter Deck | January 2024
-ALCSD | Tonoris Starter Deck | January 2024
+ALCSD | [<img class="image-element" src="https://img.silvie.org/misc/elements/water.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/astra.png" /><br>Arisanna Starter Deck](/ALCSD_(set)#arisanna-starter-deck) | January 2024
+ALCSD | [<img class="image-element" src="https://img.silvie.org/misc/elements/fire.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/umbra.png" /><br>Diana Starter Deck](/ALCSD_(set)#diana-starter-deck) | January 2024
+ALCSD | [<img class="image-element" src="https://img.silvie.org/misc/elements/wind.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/neos.png" /><br>Tonoris Starter Deck](/ALCSD_(set)#tonoris-starter-deck) | January 2024
 
 \* Thicker card stock samples were distributed [between May and August 2022](/DEMO22_(set)#thicker-card-stock-samples), but these were not tournament legal and were not printed on the same card stock local game stores and distributors received in December 2022.
