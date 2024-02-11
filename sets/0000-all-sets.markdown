@@ -6,6 +6,7 @@ categories: sets
 permalink: sets
 image: /assets/images/sets/000-all-sets/thumbnail.png
 excerpt: View all Grand Archive TCG sets here.
+excerpt_separator: <!--more-->
 ---
 
 ## Main sets
