@@ -2,10 +2,10 @@
 layout: post
 title:  "Grand Archive Promotional Packs"
 date:   2022-07-05 06:51:57 +0100
-last_modified_at: 2023-02-17 15:02:00 +0100
+last_modified_at: 2024-02-09 00:01:00 +0100
 categories: sample
 permalink: promotional-packs
-excerpt: Promotional Packs were first seen in March 2022, replacing individual card giveaways with a random selection of cards instead. Here is everything we know about them.
+excerpt: Promotional Packs were first seen in March 2022, replacing individual card giveaways with a random selection of cards instead. Here is everything there is to know about them.
 image: /assets/images/2022-06-21-promotional-packs/thumbnail.png
 author: james
 ---
@@ -38,9 +38,22 @@ Pack code | <small>Population</small> | Release date
 [`SAMPLE3`](#identifier-code-sample3) | ≈ 200 | 28th May 2022
 [`P22 - 1`](#identifier-code-p22---1) | 1,350 | 1st July 2022
 [Clumsy Apprentice](#clumsy-apprentice) | 1,600 | 2nd December 2022
+[Kickstarter Lorraine, Blademaster Promotional Card](#kickstarter-lorraine-blademaster-promotional-card) | 900 | January 2023
+[Kickstarter Game Store Promotional Cards](#kickstarter-game-store-promotional-cards) | 2,600 | January 2023
+[Kickstarter Promotional Cards](#kickstarter-promotional-cards) | 1,500 | January 2023
+[Merchandise Pack 1](#merchandise-pack-1) | 6,120 | 26th August 2023
+[Dawn of Ashes Event Pack (Silver)](#dawn-of-ashes-event-pack-silver) | ≥ 88,749* | January 2023
+[Dawn of Ashes Event Pack (Gold)](#dawn-of-ashes-event-pack-gold) | ≥ 29,583* | January 2023
+[Fractured Crown Event Pack (Silver)](#fractured-crown-event-pack-silver) | ≥ 103,794* | 25th August 2023
+[Fractured Crown Event Pack (Gold)](#fractured-crown-event-pack-gold) | ≥ 35,258* | 25th August 2023
+[Alchemical Revolution Event Pack (Silver)](#alchemical-revolution-event-pack-silver) | ≥ 75,824* | 26th January 2024
+[Alchemical Revolution Event Pack (Gold)](#alchemical-revolution-event-pack-gold) | ≥ 25,274* | 26th January 2024
+[Alchemical Revolution Event Pack (Sapphire)](#alchemical-revolution-event-pack-sapphire) |  | 26th January 2024
+[SquareLive Collaboration](#squarelive-collaboration) | 20,050 | 1st February 2024
 
+Event Pack populations are derived from the population of the main set booster packs, cross-referenced with the Index card population data.
 
-## Black packs (March - Present)
+## Black packs (March - November 2022)
 
 All black promotional packs are identical in appearance but with designating identifiers printed on the back. The identifier code denotes the pack's contents. All black packs contain sample cards with the exception of [`P22 - 1`](#identifier-code-p22---1).
 
@@ -52,9 +65,9 @@ Also referred to as "SAMPLE1", this pack was only distributed during a single ev
 
 #### Contents
 
-- <small>[33.33%]</small> [Lorraine, Wandering Warrior _<small>CMT-013</small>_ non-foil sample](/lorraine-wandering-warrior-samples#cmt-013)
-- <small>[33.33%*]</small> [Lorraine, Wandering Warrior _<small>CMT-013</small>_ foil sample](/lorraine-wandering-warrior-samples#cmt-013)
-- <small>[33.33%]</small> [Lorraine, Festive Night _<small>SAMPLE PROMO 000</small>_ star foil sample](/lorraine-festive-night-samples)
+- <small>[33.33%]</small> [Lorraine, Wandering Warrior (<small>CMT-013</small>) sample](/lorraine-wandering-warrior-samples#cmt-013)
+- <small>[33.33%*]</small> [Lorraine, Wandering Warrior (<small>CMT-013</small>) foil sample](/lorraine-wandering-warrior-samples#cmt-013)
+- <small>[33.33%]</small> [Lorraine, Festive Night (<small>SAMPLE PROMO 000</small>) star foil sample](/lorraine-festive-night-samples)
 
 <small>Note: The foil Lorraine, Wandering Warrior <small>CMT-013</small> sample has a 50% chance of being either the [matte foil or oil foil variants](/lorraine-wandering-warrior-samples#matte-foil-and-oil-foil).</small>
 
@@ -72,12 +85,12 @@ In total, only 21 `SAMPLE` packs are known to have been distributed.
 
 #### Contents
 
-- <small>[16.66%]</small> [Lorraine, Wandering Warrior _<small>CMT-013</small>_ non-foil sample](/lorraine-wandering-warrior-samples#cmt-013)
-- <small>[16.66%*]</small> [Lorraine, Wandering Warrior _<small>CMT-013</small>_ foil sample](/lorraine-wandering-warrior-samples#cmt-013)
-- <small>[16.66%]</small> [Lorraine, Festive Night _<small>SAMPLE PROMO 000</small>_ star foil sample](/lorraine-festive-night-samples)
-- <small>[16.66%]</small> [Lorraine, Wandering Warrior _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample](/lorraine-wandering-warrior-samples#doap-1st--en-000-c)
-- <small>[16.66%]</small> <span class="dead-link">[Lorraine, Blademaster _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample](/lorraine-blademaster-samples#doap-1st--en-000-c)</span>
-- <small>[16.66%]</small> <span class="dead-link">[Lorraine, Crux Knight _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample](/lorraine-crux-knight-samples#doap-1st--en-000-c)</span>
+- <small>[16.66%]</small> [Lorraine, Wandering Warrior (<small>CMT-013</small>) sample](/lorraine-wandering-warrior-samples#cmt-013)
+- <small>[16.66%*]</small> [Lorraine, Wandering Warrior (<small>CMT-013</small>) foil sample](/lorraine-wandering-warrior-samples#cmt-013)
+- <small>[16.66%]</small> [Lorraine, Festive Night (<small>SAMPLE PROMO 000</small>) star foil sample](/lorraine-festive-night-samples)
+- <small>[16.66%]</small> [Lorraine, Wandering Warrior (<small>DOAp 1st &middot; EN-000 C</small>) foil sample](/lorraine-wandering-warrior-samples#doap-1st--en-000-c)
+- <small>[16.66%]</small> <span class="dead-link">[Lorraine, Blademaster (<small>DOAp 1st &middot; EN-000 C</small>) foil sample](/lorraine-blademaster-samples#doap-1st--en-000-c)</span>
+- <small>[16.66%]</small> <span class="dead-link">[Lorraine, Crux Knight (<small>DOAp 1st &middot; EN-000 C</small>) foil sample](/lorraine-crux-knight-samples#doap-1st--en-000-c)</span>
 
 <small>Note: The foil Lorraine, Wandering Warrior <small>CMT-013</small> sample has a 50% chance of being either the [matte foil or oil foil variants](/lorraine-wandering-warrior-samples#matte-foil-and-oil-foil).</small>
 
@@ -103,9 +116,9 @@ On 1st April 2022 the first Friday Night Grand Archive tournament was announced 
 
 #### Contents
 
-- <small>[33.33%]</small> [Lorraine, Wandering Warrior _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample](/lorraine-wandering-warrior-samples#doap-1st--en-000-c)
-- <small>[33.33%]</small> <span class="dead-link">[Lorraine, Blademaster _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample](/lorraine-blademaster-samples#doap-1st--en-000-c)</span>
-- <small>[33.33%]</small> <span class="dead-link">[Lorraine, Crux Knight _<small>DOAp 1st &middot; EN-000 C</small>_ foil sample](/lorraine-crux-knight-samples#doap-1st--en-000-c)</span>
+- <small>[33.33%]</small> [Lorraine, Wandering Warrior (<small>DOAp 1st &middot; EN-000 C</small>) foil sample](/lorraine-wandering-warrior-samples#doap-1st--en-000-c)
+- <small>[33.33%]</small> <span class="dead-link">[Lorraine, Blademaster (<small>DOAp 1st &middot; EN-000 C</small>) foil sample](/lorraine-blademaster-samples#doap-1st--en-000-c)</span>
+- <small>[33.33%]</small> <span class="dead-link">[Lorraine, Crux Knight (<small>DOAp 1st &middot; EN-000 C</small>) foil sample](/lorraine-crux-knight-samples#doap-1st--en-000-c)</span>
 
 #### Distribution
 
@@ -119,8 +132,8 @@ Approximately 200 `SAMPLE3` packs were given out at Collect-a-Con in May 2022.
 
 #### Contents
 
-- <small>[87.5%]</small> [Dungeon Guide _<small>P22 &middot; EN-001 PR</small>_ alternative artwork non-foil](https://index.gatcg.com/edition/dungeon-guide-p22)
-- <small>[12.5%]</small> [Dungeon Guide _<small>P22 &middot; EN-001 PR</small>_ alternative artwork foil](https://index.gatcg.com/edition/dungeon-guide-p22)
+- <small>[87.5%]</small> [Dungeon Guide (<small>P22 &middot; EN-001 PR</small>)](https://index.gatcg.com/edition/dungeon-guide-p22)
+- <small>[12.5%]</small> [Dungeon Guide (<small>P22 &middot; EN-001 PR</small>) foil](https://index.gatcg.com/edition/dungeon-guide-p22)
 
 #### Distribution
 
@@ -128,7 +141,7 @@ The developers stated publicly that the Dungeon Guide promo would have 2,100 non
 
 Approximately 480 packs were distributed at Anime Expo in July 2022, with the remainder distributed at Anime Matsuri, Anime Houston and Collect-A-Con Long Beach throughout summer 2022, and as part of separate Discord chat bot and merchandise events.
 
-## Silver packs
+## Promotional packs
 
 In December 2022 the Grand Archive developers moved away from the black pack with identifier code design and introduced a new silver pack design which clearly denotes the packs contents on the front.
 
@@ -144,8 +157,8 @@ It was during Anime Frontier on 2nd December when these packs started to be hand
 
 #### Contents
 
-- <small>[87.5%]</small> [Clumsy Apprentice _<small>P22 &middot; EN-006 PR</small>_ alternative artwork non-foil](https://index.gatcg.com/edition/clumsy-apprentice-p22)
-- <small>[12.5%]</small> [Clumsy Apprentice _<small>P22 &middot; EN-006 PR</small>_ alternative artwork foil](https://index.gatcg.com/edition/clumsy-apprentice-p22)
+- <small>[87.5%]</small> [Clumsy Apprentice (<small>P22 &middot; EN-006 PR</small>)](https://index.gatcg.com/edition/clumsy-apprentice-p22)
+- <small>[12.5%]</small> [Clumsy Apprentice (<small>P22 &middot; EN-006 PR</small>) foil](https://index.gatcg.com/edition/clumsy-apprentice-p22)
 
 #### Distribution
 
@@ -154,6 +167,136 @@ Packs were originally distributed at Anime Frontier between 2nd and 4th December
 This merchandise event extended to Discord in January 2023, similarly to the previous [`P22 - 1`](#identifier-code-p22---1) packs, for anyone to participate in during a 36 hour window.
 
 Two packs were also bundled in with <span class="dead-link">[Grand Archive Ambassador Bundles](/ambassador-bundle)</span> for anyone lucky enough to receive one of those.
+
+### Kickstarter Lorraine, Blademaster Promotional Card
+
+#### Contents
+
+- <small>[100%]</small> [Lorraine, Blademaster (<small>KSP &middot; EN-001 PR</small>)](https://index.gatcg.com/edition/lorraine-blademaster-ksp)
+
+### Kickstarter Game Store Promotional Cards
+
+#### Contents
+
+- <small>[100%]</small> [Lorraine, Crux Knight (<small>KSP &middot; EN-002 PR</small>)](https://index.gatcg.com/edition/lorraine-crux-knight-ksp)
+- <small>[100%]</small> [Rai, Storm Seer (<small>KSP &middot; EN-003 PR</small>)](https://index.gatcg.com/edition/rai-storm-seer-ksp)
+
+These packs contain all of the above cards.
+
+### Kickstarter Promotional Cards
+
+#### Contents
+
+- <small>[100%]</small> [Arcanist's Prism (<small>KSP &middot; EN-004 PR</small>)](https://index.gatcg.com/edition/arcanists-prism-ksp)
+- <small>[100%]</small> [Clarent, Sword of Peace (<small>KSP &middot; EN-005 PR</small>)](https://index.gatcg.com/edition/clarent-sword-of-peace-ksp)
+- <small>[100%]</small> [Endura, Scepter of Ignition (<small>KSP &middot; EN-006 PR</small>)](https://index.gatcg.com/edition/endura-scepter-of-ignition-ksp)
+- <small>[100%]</small> [Prismatic Edge (<small>KSP &middot; EN-007 PR</small>)](https://index.gatcg.com/edition/prismatic-edge-ksp)
+- <small>[100%]</small> [Library Witch (<small>KSP &middot; EN-008 PR</small>)](https://index.gatcg.com/edition/library-witch-ksp)
+
+These packs contain all of the above cards.
+
+### Merchandise Pack 1
+
+#### Contents
+
+- <small>[24.51%]</small> [Deflecting Edge](https://index.gatcg.com/edition/deflecting-edge-p23) (P23 &middot; EN-001 PR)
+- <small>[24.51%]</small> [Frostsworn Paladin](https://index.gatcg.com/edition/frostsworn-paladin-p23) (P23 &middot; EN-002 PR)
+- <small>[14.71%]</small> [Nullifying Lantern](https://index.gatcg.com/edition/nullifying-lantern-p23) (P23 &middot; EN-003 PR)
+- <small>[24.51%]</small> [Scavenging Raccoon](https://index.gatcg.com/edition/scavenging-racoon-p23) (P23 &middot; EN-004 PR)
+- <small>[2.94%]</small> [Deflecting Edge](https://index.gatcg.com/edition/deflecting-edge-p23) (P23 &middot; EN-001 PR) foil
+- <small>[2.94%]</small> [Frostsworn Paladin](https://index.gatcg.com/edition/frostsworn-paladin-p23) (P23 &middot; EN-002 PR) foil
+- <small>[2.94%]</small> [Nullifying Lantern](https://index.gatcg.com/edition/nullifying-lantern-p23) (P23 &middot; EN-003 PR) foil
+- <small>[2.94%]</small> [Scavenging Raccoon](https://index.gatcg.com/edition/scavenging-racoon-p23) (P23 &middot; EN-004 PR) foil
+
+## Event packs
+
+Event packs - as their name implies - are distributed at in-person and online events at the discretion of the event host.
+
+Most of them contain a single Rare (R) or Super Rare (SR) non-foil or any rarity foil from the main set that was the current meta during the pack's release. They have a rare chance of instead containing a Collector Promo Rare (CPR) from the [Event Packs (EVP)](/EVP_(set)) set.
+
+### Dawn of Ashes Event Pack (Silver)
+
+#### Contents
+
+- <small>[~74.772%]</small> Non-foil Rare (R) from [Dawn of Ashes Alter Edition](/DOA-Alter_(set))
+- <small>[~24.924%]</small> Any rarity foil from [Dawn of Ashes Alter Edition](/DOA-Alter_(set))
+- <small>[~0.304%]</small> [Nia, Mistveiled Scout](https://index.gatcg.com/edition/nia-mistveiled-scout-evp) (EVP &middot; EN-001 CPR foil), [Arthur, Young Heir](https://index.gatcg.com/edition/arthur-young-heir-evp) (EVP &middot; EN-002 CPR foil), or [Lunete, Frostbinder Priest](https://index.gatcg.com/edition/lunete-frostbinder-priest-evp) (EVP &middot; EN-003 CPR foil)
+
+### Dawn of Ashes Event Pack (Gold)
+
+#### Contents
+
+- <small>[~49.544%]</small> Non-foil Super Rare (SR) from [Dawn of Ashes Alter Edition](/DOA-Alter_(set))
+- <small>[~49.544%]</small> Any rarity foil from [Dawn of Ashes Alter Edition](/DOA-Alter_(set))
+- <small>[~0.912%]</small> [Nia, Mistveiled Scout](https://index.gatcg.com/edition/nia-mistveiled-scout-evp) (EVP &middot; EN-001 CPR foil), [Arthur, Young Heir](https://index.gatcg.com/edition/arthur-young-heir-evp) (EVP &middot; EN-002 CPR foil), or [Lunete, Frostbinder Priest](https://index.gatcg.com/edition/lunete-frostbinder-priest-evp) (EVP &middot; EN-003 CPR foil)
+
+### Fractured Crown Event Pack (Silver)
+
+#### Contents
+
+- <small>[~74.762%]</small> Non-foil Rare (R) from [Fractured Crown](/FTC_(set))
+- <small>[~24.920%]</small> Any rarity foil from [Fractured Crown](/FTC_(set))
+- <small>[~0.318%]</small> [Gawain, Chivalrous Thief](https://index.gatcg.com/edition/gawain-chivalrous-thief-evp) (EVP &middot; EN-004 CPR foil), [Parcenet, Royal Maid](https://index.gatcg.com/edition/parcenet-royal-maid-evp) (EVP &middot; EN-005 CPR foil), or [Uther, Illustrious King](https://index.gatcg.com/edition/uther-illustrious-king-evp) (EVP &middot; EN-006 CPR foil)
+
+### Fractured Crown Event Pack (Gold)
+
+#### Contents
+
+- <small>[~49.523%]</small> Non-foil Super Rare (SR) from [Fractured Crown](/FTC_(set))
+- <small>[~49.523%]</small> Any rarity foil from [Fractured Crown](/FTC_(set))
+- <small>[~0.954%]</small> [Gawain, Chivalrous Thief](https://index.gatcg.com/edition/gawain-chivalrous-thief-evp) (EVP &middot; EN-004 CPR foil), [Parcenet, Royal Maid](https://index.gatcg.com/edition/parcenet-royal-maid-evp) (EVP &middot; EN-005 CPR foil), or [Uther, Illustrious King](https://index.gatcg.com/edition/uther-illustrious-king-evp) (EVP &middot; EN-006 CPR foil)
+
+### Alchemical Revolution Event Pack (Silver)
+
+#### Contents
+
+- <small>[~74.715%]</small> Non-foil Rare (R) from [Alchemical Revolution](/ALC_(set))
+- <small>[~24.905%]</small> Any rarity foil from [Alchemical Revolution](/ALC_(set))
+- <small>[~0.38%]</small> [Astarte, Celestial Dawn](https://index.gatcg.com/edition/astarte-celestial-dawn-evp) (EVP &middot; EN-007 CPR foil), [Geni, Gifted Mechanist](https://index.gatcg.com/edition/geni-gifted-mechanist-evp) (EVP &middot; EN-005 CPR foil), or [Perse, Relentless Raptor](https://index.gatcg.com/edition/perse-relentless-raptor-evp) (EVP &middot; EN-006 CPR foil)
+
+### Alchemical Revolution Event Pack (Gold)
+
+#### Contents
+
+- <small>[~49.43%]</small> Non-foil Super Rare (SR) from [Alchemical Revolution](/ALC_(set))
+- <small>[~49.43%]</small> Any rarity foil from [Alchemical Revolution](/ALC_(set))
+- <small>[~1.14%]</small> [Astarte, Celestial Dawn](https://index.gatcg.com/edition/astarte-celestial-dawn-evp) (EVP &middot; EN-007 CPR foil), [Geni, Gifted Mechanist](https://index.gatcg.com/edition/geni-gifted-mechanist-evp) (EVP &middot; EN-005 CPR foil), or [Perse, Relentless Raptor](https://index.gatcg.com/edition/perse-relentless-raptor-evp) (EVP &middot; EN-006 CPR foil)
+
+### Alchemical Revolution Event Pack (Sapphire)
+
+#### Contents
+
+- <small>[100%]</small> Foil Promo Rare (PR) from [Promotional 2024](/P24_(set))*
+
+\* Contains 1 card at random from P24 001 through 041, excluding the <span class="dead-link">ALC Launch Kit</span> promos 007, 012 and 018. Works out at ~2.63% chance of pulling each foil.
+
+## Collaboration packs
+
+### SquareLive Collaboration
+
+#### Contents
+
+- <small>[87.53%]</small> Non-foil Promo Rare (PR) from [SquareLive Collaboration](/SLC_(set))
+- <small>[10.47%]</small> Foil Promo Rare (PR) from [SquareLive Collaboration](/SLC_(set))
+- <small>[2%]</small> Collector Promo Rare (PR) from [SquareLive Collaboration](/SLC_(set))
+
+Each pack has roughly 1 in 50 chance of containing one of the four Collector Promo Rare cards the set has to offer, whilst foils are roughly 1 in 10 chance.
+
+## Other packs
+
+### Unreleased packs
+
+#### Mar 17 2022
+
+This pack is mentioned in the [Introduction](#introduction), but is included here for quick reference.
+
+#### 'Not Intended for Resale' Dawn of Ashes Event Packs
+
+The [Dawn of Ashes Event Packs article](https://www.gatcg.com/article/dawn-of-ashes-event-packs) on the Grand Archive website includes a scan of silver and gold Dawn of Ashes Event Packs, however unlike the ones [mentioned earlier](#dawn-of-ashes-event-pack) these feature the "Not Intended for Resale" label instead of "For Events Only".
+
+{% include image.html url="/assets/images/2022-06-21-promotional-packs/doa-evp-unreleased.png" description="'Not Intended for Resale' Dawn of Ashes Event Packs." max-width="500px" %}
+
+One of the game developers clarified that the pack designs were modified to their updated state before production began.
 
 ### Personalized packs
 
@@ -179,21 +322,3 @@ All of these packs contained all 3 of the cards awarded by [`SAMPLE3`](#identifi
 On 23rd May 2022 content creator Tyler Lee ([@onceinluv](https://www.instagram.com/onceinluv)) also revealed that they had been sent a personalized pack with code `ONCEINLUV` along with some [7th iteration samples](/lorraine-wandering-warrior-samples#doap-1st--en-000-c---7th-iteration) to be destroyed on video.
 
 {% include image.html url="/assets/images/2022-06-21-promotional-packs/onceinluv.png" description="Grand Archive personalized <code>ONCEINLUV</code> Promotional Pack photo." %}
-
-<!-- ## Giveaways
-
-### Grand Archive Community Tournament #2
-
-On 11th March 2022 the second Grand Archive Community Tournament was announced. This tournament used the new version 1.3 of the Print and Play Lorraine and Rai Starter Decks, and was held 2 weeks later on 26th March.
-
-It was between the announcement of this tournament that [promotional packs](promotional-packs) were introduced, with the developers initially sharing a picture of a pack with an identifier code of `17 MAR 2022`. However this was an internal sample, and the tournament itself would award packs with the `SAMPLE` identifier code instead.
-
-This tournament awarded - amongst other things - 3 promotional packs to the 1st place player, 2 packs to the 2nd place player, and 1 pack to each of the 3rd through 8th place players. 4 additional packs were awarded randomly to the participants who didn't finish within the top 8, and an additional 4 packs were given away randomly to viewers of the tournament stream.
-
-This was the only event which saw `SAMPLE` packs being awarded before being replaced by `SAMPLE2`, introducing the updated [17 life Lorraine, Wandering Warrior](/lorraine-wandering-warrior-samples#doap-1st--en-000-c).
-
-### Friday Night Grand Archive Online Event
-
-On 1st April 2022 a side tournament was organised on the Grand Archive Discord by one of the community moderators. This tournament also used version 1.3 of the Print and Play Lorraine and Rai Starter Decks, and was held two weeks later on 15th April.
-
-The reward for this tournament was publicly documented as `SAMPLE` packs awarded to the top 4 players, however when it came to distributing the awards `SAMPLE2` packs were awarded instead in a similar fashion to the community tournament: 3 packs were awarded to the 1st place player, 2 for 2nd place and 1 pack for the 3rd and 4th place players. An additional pack was also randomly awarded to one of the participants who didn't finish within the top 4. -->
