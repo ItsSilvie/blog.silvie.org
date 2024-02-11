@@ -5,8 +5,6 @@ date: 2022-06-25 08:44:00 +0100
 categories: sets
 permalink: sets
 image: /assets/images/sets/000-all-sets/thumbnail.png
-excerpt: View all Grand Archive TCG sets here.
-excerpt_separator: <!--more-->
 ---
 
 ## Main sets
