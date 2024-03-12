@@ -54,3 +54,25 @@ Windrider Vanguard | [Moondogs 幻月](https://www.youtube.com/@Moondogs_Celesti
 On Discord the Increasing Danger card artwork from the set divided opinion due to its NSFW nature.
 
 {% include image.html url="/assets/images/sets/SLC/increasing-danger-slc-csr.jpg" description="Increasing Danger SLC • CN-008 CPR" %}
+
+## Errors
+
+### Mid-print corrections
+
+At some point during the print run the Grand Archive team discovered a couple of issues with some of the cards in the set. Instead of letting the print continue with the errors in place, or scrapping the existing print run to start over, they decided to correct these issues mid-print, resulting in a couple of obscure variants.
+
+These mid-print corrections were applied to both the non-foil and foil variants.
+
+#### Imperial Recruit
+
+When fostered, Imperial Recruit gains 1 power. This is indicated by +1<span class="card-effect-icon card-effect-icon-sword"></span> in the card's effect text, however the initial print of the SLC Imperial Recruit incorrectly displayed +1<span class="card-effect-icon card-effect-icon-heart"></span> (+1 life) instead.
+
+{% include image.html url="/assets/images/sets/SLC/imperial-recruit-error.png" description="Error (right) and corrected (left) Imperial Recruit non-foils." %}
+
+#### Increasing Danger
+
+All collector rare cards in Grand Archive have a white glow around their action text to make it more readable on top of the background artwork.
+
+This isn't necessary on regular cards as they have a solid box for the text to sit in, however the initial print of Increasing Danger cards in this set included this white glow on the regular version of the card as well as the collector rare.
+
+{% include image.html url="/assets/images/sets/SLC/increasing-danger-error.png" description="Error (left) and corrected (right) Increasing Danger foils." %}
