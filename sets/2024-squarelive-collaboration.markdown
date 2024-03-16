@@ -75,4 +75,4 @@ All collector rare cards in Grand Archive have a white glow around their action 
 
 This isn't necessary on regular cards as they have a solid box for the text to sit in, however the initial print of Increasing Danger cards in this set included this white glow on the regular version of the card as well as the collector rare.
 
-{% include image.html url="/assets/images/sets/SLC/increasing-danger-error.png" description="Error (right) and corrected (left) Increasing Danger foils." %}
+{% include image.html url="/assets/images/sets/SLC/increasing-danger-error.png" description="Error (left) and corrected (right) Increasing Danger foils." %}
