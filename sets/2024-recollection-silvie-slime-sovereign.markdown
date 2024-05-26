@@ -22,4 +22,4 @@ Cards in this set are prefixed `ReC-SLM`.
 
 {% include templates/ReC-SLM-deck.html %}
 
-{% include deck-link.html creator="@GrandArchive" id="bYiwaT0gjLb8ja7V6Lt0" %}
+{% include deck-link.html creator="@GrandArchive" id="F3W6n38rYYLtCyn7wYCu" %}
