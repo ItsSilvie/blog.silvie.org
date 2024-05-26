@@ -17,9 +17,10 @@ DOA Alter | [Dawn of Ashes Alter Edition](/DOA-Alter_(set)) | April 28th 2023
 DOASD | [Dawn of Ashes Starter Decks](/DOASD_(set)) | April 28th 2023
 FTC | [Fractured Crown](/FTC_(set)) | August 25th 2023
 FTCA | [Fractured Crown: Armaments](/FTCA_(set)) | August 25th 2023
-ALC 1st | [Alchemical Revolution First Edition](/ALC-1st_(set)) | Januay 26th 2024
-ALC | [Alchemical Revolution](/ALC_(set)) | Januay 26th 2024
-ALCSD | [Alchemical Revolution Starter Decks](/ALCSD_(set)) | Januay 26th 2024
+ALC 1st | [Alchemical Revolution First Edition](/ALC-1st_(set)) | January 26th 2024
+ALC | [Alchemical Revolution](/ALC_(set)) | January 26th 2024
+ALCSD | [Alchemical Revolution Starter Decks](/ALCSD_(set)) | January 26th 2024
+MRC | [Mercurial Heart](/MRC_(set)) | May 17th 2024
 
 ## Special sets
 
@@ -53,5 +54,7 @@ DEMO23 | LGS Demo Deck 2023 | August 2023
 ALCSD | [<img class="image-element" src="https://img.silvie.org/misc/elements/water.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/astra.png" /><br>Arisanna Starter Deck](/ALCSD_(set)#arisanna-starter-deck) | January 2024
 ALCSD | [<img class="image-element" src="https://img.silvie.org/misc/elements/fire.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/umbra.png" /><br>Diana Starter Deck](/ALCSD_(set)#diana-starter-deck) | January 2024
 ALCSD | [<img class="image-element" src="https://img.silvie.org/misc/elements/wind.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/neos.png" /><br>Tonoris Starter Deck](/ALCSD_(set)#tonoris-starter-deck) | January 2024
+ReC-SLM | [<img class="image-element" src="https://img.silvie.org/misc/elements/fire.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/water.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/wind.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/arcane.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/crux.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/neos.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/tera.png" /><br>Silvie Re:Collection, Slime Sovereign](/ReC-SLM_(set)#pre-constructed-deck) | May 2024
+ReC-SHD | [<img class="image-element" src="https://img.silvie.org/misc/elements/wind.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/umbra.png" /><br>Tristan Re:Collection, Shadowdancer](/ReC-SHD_(set)#pre-constructed-deck) | May 2024
 
 \* Thicker card stock samples were distributed [between May and August 2022](/DEMO22_(set)#thicker-card-stock-samples), but these were not tournament legal and were not printed on the same card stock local game stores and distributors received in December 2022.
