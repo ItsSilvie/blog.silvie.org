@@ -28,6 +28,7 @@ Prefix | Name | Release
 :-- | :-- | :--
 EVP | [Event Packs](/EVP_(set)) | April 2023 &ndash; TBD
 SP1 | [Supporter Pack 1](/SP1_(set)) | May 2023
+SP2 | [Supporter Pack 2](/SP2_(set)) | June 2024
 
 ## Promo sets
 
