@@ -20,7 +20,11 @@ FTCA | [Fractured Crown: Armaments](/FTCA_(set)) | August 25th 2023
 ALC 1st | [Alchemical Revolution First Edition](/ALC-1st_(set)) | January 26th 2024
 ALC | [Alchemical Revolution](/ALC_(set)) | January 26th 2024
 ALCSD | [Alchemical Revolution Starter Decks](/ALCSD_(set)) | January 26th 2024
+MRC 1st | [Mercurial Heart First Edition-1st](/MRC_(set)) | May 17th 2024
 MRC | [Mercurial Heart](/MRC_(set)) | May 17th 2024
+AMB 1st | [Mortal Ambition First Edition](/AMB-1st_(set)) | October 11th 2024
+AMB | [Mortal Ambition](/AMB_(set)) | October 11th 2024
+AMBSD | [Mortal Ambition Starter Decks](/AMBSD_(set)) | October 11th 2024
 
 ## Special sets
 
