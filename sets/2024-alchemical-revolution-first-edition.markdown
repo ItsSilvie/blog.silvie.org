@@ -8,7 +8,7 @@ image: /assets/images/sets/ALC-1st/box.png
 ---
 {% include image.html url="/assets/images/sets/ALC-1st/box.png" description="Alchemical Revolution First Edition booster box product image." max-width="600px" %}
 
-Fractured Crown released on 26th January 2024 alongside [Alchemical Revolution](/ALC_(set)) and [Alchemical Revolution Starter Decks](/ALCSD_(set)).
+Alchemical Revolution First Edition released on 26th January 2024 alongside [Alchemical Revolution](/ALC_(set)) and [Alchemical Revolution Starter Decks](/ALCSD_(set)).
 
 ## Set list
 

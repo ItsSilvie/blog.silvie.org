@@ -11,6 +11,9 @@ image: /assets/images/sets/000-all-sets/thumbnail.png
 
 Prefix | Name | Release
 :-- | :-- | :--
+HVN | [Abyssal Heaven](/HVN_(set)) | March 7th 2025
+HVN 1st | [Abyssal Heaven First Edition](/HVN-1st_(set)) | March 7th 2025
+ALC Alter | [Alchemical Revolution Alter Edition](/ALC-Alter_(set)) | January 10th 2025
 AMB | [Mortal Ambition](/AMB_(set)) | October 11th 2024
 AMBSD | [Mortal Ambition Starter Decks](/AMBSD_(set)) | October 11th 2024
 AMB 1st | [Mortal Ambition First Edition](/AMB-1st_(set)) | October 11th 2024
@@ -49,6 +52,8 @@ P22 | [Promotional 2022](/P22_(set))| July 2022 &ndash; TBD 2023
 
 Prefix | Name | Release
 :-- | :-- | :--
+ReC-HVF | [<img class="image-element" src="https://img.silvie.org/misc/elements/fire.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/water.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/wind.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/arcane.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/crux.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/neos.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/tera.png" /><br>Guo Jia Re:Collection, Heaven's Favored](/ReC-HVF_(set)#pre-constructed-deck) | March 2025
+ReC-IDY | [<img class="image-element" src="https://img.silvie.org/misc/elements/wind.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/umbra.png" /><br>Diao Chan Re:Collection, Idyll Corsage](/ReC-IDY_(set)#pre-constructed-deck) | March 2025
 ReC-SLM | [<img class="image-element" src="https://img.silvie.org/misc/elements/fire.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/water.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/wind.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/arcane.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/crux.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/neos.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/tera.png" /><br>Silvie Re:Collection, Slime Sovereign](/ReC-SLM_(set)#pre-constructed-deck) | May 2024
 ReC-SHD | [<img class="image-element" src="https://img.silvie.org/misc/elements/wind.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/umbra.png" /><br>Tristan Re:Collection, Shadowdancer](/ReC-SHD_(set)#pre-constructed-deck) | May 2024
 ALCSD | [<img class="image-element" src="https://img.silvie.org/misc/elements/water.png" /><img class="image-element" src="https://img.silvie.org/misc/elements/astra.png" /><br>Arisanna Starter Deck](/ALCSD_(set)#arisanna-starter-deck) | January 2024

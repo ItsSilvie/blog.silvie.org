@@ -26,6 +26,10 @@ Every Dawn of Ashes Alter Edition booster box includes a box topper pack which i
 
 {% include templates/DOA-Alter-box-topper.html %}
 
+## Case differences
+
+The first wave of Dawn of Ashes Alter Edition cases were sealed with clear tape, whilst the second wave were sealed with Grand Archive-branded tape.
+
 ## Pack contents
 
 Each Dawn of Ashes Alter Edition booster box contains 24 booster packs, and each booster pack contains 12 cards (288 cards per box).
